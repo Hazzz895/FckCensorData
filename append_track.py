@@ -6,14 +6,11 @@ while True:
     id = input("Yandex Music track ID or URL: ").split('/')[-1].split('?')[0]
 
     print("Fetching track info...")
-    track_name = id
-    try:
-        from yandex_music import Client
-        client = Client().init()
-        track_info = client.tracks([id])[0]
-        track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
-    except Exception as e:
-        print(f"Could not fetch track info: {e}")
+
+    from yandex_music import Client
+    client = Client().init()
+    track_info = client.tracks([id])[0]
+    track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
 
     url = input("Track URL: ")
 
@@ -36,7 +33,10 @@ while True:
 
     with open('list.json', 'w') as f:
         json.dump(data, f, indent=4)
+        
+    with open('README.md', 'a', encoding='utf-8') as f:
+        f.write(f'- [{track_name}](https://music.yandex.ru/track/{id})')
 
-    repo.index.add(['list.json', 'tracks/'])
+    repo.index.add(['list.json', 'tracks/', "README.md"])
     repo.index.commit(f"add track «{track_name}»")
     print(f'Successfully added track {track_name}')
