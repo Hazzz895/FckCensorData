@@ -35,7 +35,7 @@ while True:
         data['tracks'][id] = f'https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/{id}' if should_download else url
 
     with open('list.json', 'w') as f:
-        json.dump(data, f)
+        json.dump(data, f, indent=4)
 
     repo.index.add(['list.json', 'tracks/'])
     repo.index.commit(f"add track «{track_name}»")
