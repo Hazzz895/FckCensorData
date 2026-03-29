@@ -1,5 +1,4 @@
 import yt_dlp
-import sys
 import json
 from git import Repo
 
@@ -18,21 +17,22 @@ while True:
 
     url = input("Track URL: ")
 
+    should_download = input("Download track? (y/n): ").lower() == 'y'
     repo = Repo('.')
+    if should_download:
+        def download_sound(url):
+            ydl_opts = {
+                'format': 'bestaudio/best',
+                'outtmpl': f'tracks/{id}.%(ext)s',
+            }
+            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                ydl.download([url])
 
-    def download_sound(url):
-        ydl_opts = {
-            'format': 'bestaudio/best',
-            'outtmpl': f'tracks/{id}.%(ext)s',
-        }
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            ydl.download([url])
-
-    download_sound(url)
+        download_sound(url)
 
     with open('list.json', 'r') as f:
         data = json.loads(f.read())
-        data['tracks'][id] = f'https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/{id}'
+        data['tracks'][id] = f'https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/{id}' if should_download else url
 
     with open('list.json', 'w') as f:
         json.dump(data, f)
