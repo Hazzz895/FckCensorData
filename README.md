@@ -5,3 +5,4 @@
 - [оранжевая песня - zavet, Bouledvard Depo](https://music.yandex.ru/track/67489473)
 - [Я уёбываю в джаз - Кишлак](https://music.yandex.ru/track/91715693)
 - [Самый лучший день - Кишлак](https://music.yandex.ru/track/102494056)
+- [Сумасшедшая - Lida, CMH, GSPD](https://music.yandex.ru/track/109996936)
