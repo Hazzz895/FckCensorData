@@ -6,3 +6,4 @@
 - [Я уёбываю в джаз - Кишлак](https://music.yandex.ru/track/91715693)
 - [Самый лучший день - Кишлак](https://music.yandex.ru/track/102494056)
 - [Сумасшедшая - Lida, CMH, GSPD](https://music.yandex.ru/track/109996936)
+- [96 слёз - zavet](https://music.yandex.ru/track/76780018)
