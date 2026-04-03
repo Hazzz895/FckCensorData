@@ -18,3 +18,4 @@
 - [скидка - тёмный принц](https://music.yandex.ru/track/144622062)
 - [губы - тёмный принц](https://music.yandex.ru/track/139910364)
 - [В этой оу е - Серега Пират](https://music.yandex.ru/track/123382745)
+- [Клей - CUPSIZE](https://music.yandex.ru/track/120305632)
