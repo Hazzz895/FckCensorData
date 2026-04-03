@@ -20,3 +20,4 @@
 - [В этой оу е - Серега Пират](https://music.yandex.ru/track/123382745)
 - [Клей - CUPSIZE](https://music.yandex.ru/track/120305632)
 - [А у нас на районе - Кишлак](https://music.yandex.ru/track/93012496)
+- [Сахарная пудра - KSB muzic](https://music.yandex.ru/track/138778164)
