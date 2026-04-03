@@ -25,3 +25,4 @@
 - [Я е**л в рот - Паша Техник](https://music.yandex.ru/track/93401053)
 - [Девочка с каре - МУККА](https://music.yandex.ru/track/50400505)
 - [так по*** - madk1d](https://music.yandex.ru/track/137300017)
+- [ты че обиделась - madk1d, тёмный принц](https://music.yandex.ru/track/136901411)
