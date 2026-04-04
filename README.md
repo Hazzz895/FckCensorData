@@ -34,3 +34,4 @@
 - [ALASKA PUFFER - паранойя](https://music.yandex.ru/track/133901297)
 - [Кайфоград - Слава КПСС](https://music.yandex.ru/track/117219738)
 - [Блеск и нищета - Слава КПСС](https://music.yandex.ru/track/131794594)
+- [Вика любит ПЭПЭ - Ганвест](https://music.yandex.ru/track/146068411)
