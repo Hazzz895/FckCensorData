@@ -32,3 +32,4 @@
 - [Гэнг бэнг - Lida](https://music.yandex.ru/track/60441406)
 - [Аспирин - Lida](https://music.yandex.ru/track/60441408)
 - [ALASKA PUFFER - паранойя](https://music.yandex.ru/track/133901297)
+- [Кайфоград - Слава КПСС](https://music.yandex.ru/track/117219738)
