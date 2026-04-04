@@ -1,4 +1,4 @@
-# Поддерживаемые треки:
+# Треки, которые автоматически подмениваются [аддоном](https://github.com/Hazzz895/FckCensor):
 - [вот она - zavet](https://music.yandex.ru/track/88057589)
 - [Мама, я люблю - Anacondaz](https://music.yandex.ru/track/25319594)
 - [My Sweet Lullaby - zavet](https://music.yandex.ru/track/81624799)
