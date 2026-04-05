@@ -65,3 +65,4 @@
 - [Круче чем вы - madk1d](https://music.yandex.ru/track/108800777)
 - [Hennessy - 3umph, dope17](https://music.yandex.ru/track/141807399)
 - [Стрит бизнес - Ганвест](https://music.yandex.ru/track/143062985)
+- [Сироп (WOK) - MAYOT](https://music.yandex.ru/track/125535652)
