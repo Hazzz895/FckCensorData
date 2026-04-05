@@ -53,3 +53,4 @@
 - [Ууу - ЛСП](https://music.yandex.ru/track/70975548)
 - [Розовое вино - Элджей, FEDUK](https://music.yandex.ru/track/69125202)
 - [нам канец! - плм](https://music.yandex.ru/track/74398470)
+- [Кошмар - Big Russian Boss](https://music.yandex.ru/track/34468568)
