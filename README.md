@@ -47,3 +47,4 @@
 - [во снах - тринадцать карат](https://music.yandex.ru/track/106618973)
 - [ты - тринадцать карат](https://music.yandex.ru/track/106040459)
 - [одна - тринадцать карат](https://music.yandex.ru/track/105355119)
+- [Театр теней - Три дня дождя](https://music.yandex.ru/track/83950837)
