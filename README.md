@@ -42,3 +42,4 @@
 - [Ханнамонтана - Пошлая Молли](https://music.yandex.ru/track/41502790)
 - [МАМБЛ - GONE.Fludd](https://music.yandex.ru/track/40498606)
 - [ПАЦАНЫ II - GONE.Fludd](https://music.yandex.ru/track/73729746)
+- [Проснулся В Темноте - GONE.Fludd](https://music.yandex.ru/track/59633283)
