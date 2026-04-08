@@ -120,3 +120,4 @@
 - [Дофамин - Scally Milano, 163ONMYNECK](https://music.yandex.ru/track/104427920)
 - [Я Украду Твои Деньги - Scally Milano](https://music.yandex.ru/track/103844888)
 - [Подкован - Scally Milano](https://music.yandex.ru/track/103844886)
+- [исчезаю - Psychosis, Апология](https://music.yandex.ru/track/111298758)
