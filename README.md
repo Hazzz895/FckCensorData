@@ -122,3 +122,4 @@
 - [Подкован - Scally Milano](https://music.yandex.ru/track/103844886)
 - [исчезаю - Psychosis, Апология](https://music.yandex.ru/track/111298758)
 - [аффект - godtearz, Psychosis, Апология](https://music.yandex.ru/track/118369886)
+- [Недоволен - Scally Milano](https://music.yandex.ru/track/103844892)
