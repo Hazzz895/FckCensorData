@@ -124,3 +124,4 @@
 - [аффект - godtearz, Psychosis, Апология](https://music.yandex.ru/track/118369886)
 - [Недоволен - Scally Milano](https://music.yandex.ru/track/103844892)
 - [КПСП - Gruppa Skryptonite](https://music.yandex.ru/track/67349423)
+- [КАЗАНТИП - SODA LUV, SQWOZ BAB](https://music.yandex.ru/track/81549433)
