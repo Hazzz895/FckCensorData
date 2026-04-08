@@ -114,3 +114,4 @@
 - [Променяла - Scally Milano, Паша Техник, uglystephan](https://music.yandex.ru/track/109990531)
 - [Двигай Жопой - Scally Milano](https://music.yandex.ru/track/109990530)
 - [Одержим - Scally Milano](https://music.yandex.ru/track/109990527)
+- [Йупи Йо - Scally Milano, 163ONMYNECK, MAYOT](https://music.yandex.ru/track/109990526)
