@@ -100,3 +100,4 @@
 - [Романтично - uglystephan](https://music.yandex.ru/track/110263534)
 - [Мэрилин Мэнсон - uglystephan](https://music.yandex.ru/track/110263532)
 - [Хэллоу Китти - uglystephan](https://music.yandex.ru/track/108809115)
+- [Я люблю *** - uglystephan](https://music.yandex.ru/track/110263527)
