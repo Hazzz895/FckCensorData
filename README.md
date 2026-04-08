@@ -106,3 +106,4 @@
 - [Похуй мне - uglystephan](https://music.yandex.ru/track/110263523)
 - [15 - uglystephan](https://music.yandex.ru/track/110263522)
 - [Мечты - Aarne, FEDUK, Scally Milano](https://music.yandex.ru/track/118618029)
+- [21 Savage - Scally Milano](https://music.yandex.ru/track/109990539)
