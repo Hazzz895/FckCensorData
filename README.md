@@ -143,3 +143,4 @@
 - [ТЫ КРУЧЕ, ЧЕМ... - GAYAZOV$ BROTHER$](https://music.yandex.ru/track/70743630)
 - [Ультрафиолетовая лампа - Элджей](https://music.yandex.ru/track/35758334)
 - [Интеллигент - Xassa](https://music.yandex.ru/track/118456194)
+- [Nicotine - CUPREOUS](https://music.yandex.ru/track/106941620)
