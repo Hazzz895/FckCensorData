@@ -157,3 +157,4 @@
 - [Ангел - Юпи, FORTUNA 812](https://music.yandex.ru/track/123214891)
 - [ParisLove - FORTUNA 812](https://music.yandex.ru/track/132395442)
 - [15 - Кишлак](https://music.yandex.ru/track/119057925)
+- [Больно - Kennedy vintage](https://music.yandex.ru/track/124666563)
