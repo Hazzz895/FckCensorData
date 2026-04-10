@@ -162,3 +162,4 @@
 - [liga la sosa - Платина](https://music.yandex.ru/track/148716987)
 - [Дерьмо случается - Kennedy vintage](https://music.yandex.ru/track/124666565)
 - [Санта Клаус - Платина](https://music.yandex.ru/track/148716967)
+- [BFF - Lovesomemama, LIL KRYSTALLL](https://music.yandex.ru/track/63934931)
