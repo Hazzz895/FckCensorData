@@ -159,3 +159,4 @@
 - [15 - Кишлак](https://music.yandex.ru/track/119057925)
 - [Больно - Kennedy vintage](https://music.yandex.ru/track/124666563)
 - [Support - ASERT](https://music.yandex.ru/track/143286547)
+- [liga la sosa - Платина](https://music.yandex.ru/track/148716987)
