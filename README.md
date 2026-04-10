@@ -155,3 +155,4 @@
 - [Hollywood Highway - FORTUNA 812](https://music.yandex.ru/track/136101915)
 - [Простужен - FORTUNA 812, madk1d](https://music.yandex.ru/track/130793649)
 - [Ангел - Юпи, FORTUNA 812](https://music.yandex.ru/track/123214891)
+- [ParisLove - FORTUNA 812](https://music.yandex.ru/track/132395442)
