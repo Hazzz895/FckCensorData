@@ -160,3 +160,4 @@
 - [Больно - Kennedy vintage](https://music.yandex.ru/track/124666563)
 - [Support - ASERT](https://music.yandex.ru/track/143286547)
 - [liga la sosa - Платина](https://music.yandex.ru/track/148716987)
+- [Дерьмо случается - Kennedy vintage](https://music.yandex.ru/track/124666565)
