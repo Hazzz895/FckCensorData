@@ -196,3 +196,4 @@
 - [Benzo - Слава КПСС, Дима Бамберг, BOOKER, The Cold Dicks](https://music.yandex.ru/track/107970520)
 - [Русская боль - Sellout](https://music.yandex.ru/track/80408120)
 - [Негативное мышление - Три дня дождя, pyrokinesis](https://music.yandex.ru/track/138472605)
+- [в небо коза ёмоё - pyrokinesis](https://music.yandex.ru/track/94832019)
