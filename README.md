@@ -192,3 +192,4 @@
 - [По старинке - рэ.прэса](https://music.yandex.ru/track/74017773)
 - [Маникюр - FENDIGLOCK](https://music.yandex.ru/track/112047071)
 - [ЧП - Баста, GUF](https://music.yandex.ru/track/48591491)
+- [RUSSKY RAP - BOOKER, STED.D](https://music.yandex.ru/track/127293321)
