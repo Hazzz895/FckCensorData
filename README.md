@@ -177,3 +177,4 @@
 - [Рисунки - шумные и угрожающие выходки](https://music.yandex.ru/track/106475673)
 - [STUPID - Kai Angel](https://music.yandex.ru/track/112412053)
 - [Монополия - ЛСП](https://music.yandex.ru/track/117929982)
+- [Грустная Песня - THRILL PILL, ЕГОР КРИД](https://music.yandex.ru/track/59367471)
