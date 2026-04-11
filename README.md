@@ -175,3 +175,4 @@
 - [Хламидия - 5opka, MellSher](https://music.yandex.ru/track/107857822)
 - [водятся кошмары - rizza](https://music.yandex.ru/track/148421462)
 - [Рисунки - шумные и угрожающие выходки](https://music.yandex.ru/track/106475673)
+- [STUPID - Kai Angel](https://music.yandex.ru/track/112412053)
