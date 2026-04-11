@@ -203,3 +203,4 @@
 - [склонность - morphy](https://music.yandex.ru/track/126980903)
 - [РАДИОКОМА - ЗАВТРА БРОШУ](https://music.yandex.ru/track/43854376)
 - [ВКУС ГРУСТИ - ЗАВТРА БРОШУ](https://music.yandex.ru/track/43854379)
+- [YAKUZA - playingtheangel](https://music.yandex.ru/track/43504909)
