@@ -64,10 +64,10 @@ if supabase_secret_token:
     });
     reports = response.json()
     
-    with open('rejected_tracks.dev.txt', 'r') as f:
-        rejected_tracks = f.read().split(',')
+    with open('rejected_tracks.dev.json', 'r') as f:
+        rejected_tracks = json.loads(f.read())
     
-    reports = [report for report in reports if str(report["track_id"]) not in data["tracks"] and not str(report["track_id"]) in rejected_tracks]
+    reports = [report for report in reports if str(report["track_id"]) not in data["tracks"] and not report["track_id"] in rejected_tracks]
     
     for report in reports:
         import datetime
@@ -80,8 +80,8 @@ if supabase_secret_token:
         skip = input(" - should append? ") == ""
         if skip:
             rejected_tracks.append(id)
-            with open('rejected_tracks.dev.txt', 'w') as f:
-                f.write(',' + str(id))
+            with open('rejected_tracks.dev.json', 'w') as f:
+                json.dump(rejected_tracks, f)
             print("Rejected.")
         else:
             start_appending(id, track_name)
