@@ -211,3 +211,4 @@
 - [Матовый - 4К](https://music.yandex.ru/track/63607794)
 - [К солнцу - Kunteynir, sptsh, Труман](https://music.yandex.ru/track/36161917)
 - [Яд - Стереополина](https://music.yandex.ru/track/43707489)
+- [Биография - Слава КПСС](https://music.yandex.ru/track/107769753)
