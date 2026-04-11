@@ -69,9 +69,9 @@ if supabase_secret_token:
     
     reports = [report for report in reports if str(report["track_id"]) not in data["tracks"] and not report["track_id"] in rejected_tracks]
     
-    for report in reports:
+    for i, report in enumerate(reports):
+        print(f'== {len(reports) - i} unreviewed tracks remaining ==')
         import datetime
-        print(f'== {len(reports)} unreviewed tracks remaining ==')
         id = report["track_id"]
         track_info = client.tracks([id])[0]
         track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
