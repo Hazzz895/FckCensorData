@@ -190,3 +190,4 @@
 - [Жмурки - 163ONMYNECK](https://music.yandex.ru/track/119296534)
 - [Нраица - Bramo](https://music.yandex.ru/track/136315543)
 - [По старинке - рэ.прэса](https://music.yandex.ru/track/74017773)
+- [Маникюр - FENDIGLOCK](https://music.yandex.ru/track/112047071)
