@@ -212,3 +212,4 @@
 - [К солнцу - Kunteynir, sptsh, Труман](https://music.yandex.ru/track/36161917)
 - [Яд - Стереополина](https://music.yandex.ru/track/43707489)
 - [Биография - Слава КПСС](https://music.yandex.ru/track/107769753)
+- [ПАЦАНЫ - GONE.Fludd](https://music.yandex.ru/track/66668867)
