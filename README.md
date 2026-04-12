@@ -237,3 +237,4 @@
 - [До декабря - МУККА](https://music.yandex.ru/track/58810179)
 - [Турбо пушка - ДЕТИ RAVE](https://music.yandex.ru/track/43503864)
 - [Але, это Пакистан - АК-47](https://music.yandex.ru/track/48592076)
+- [sadisfaction - королевский XVII](https://music.yandex.ru/track/121733051)
