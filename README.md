@@ -252,3 +252,4 @@
 - [Курить и сдохнуть - Слава КПСС](https://music.yandex.ru/track/117219737)
 - [ВАЛЫНА - LOVV66, Платина](https://music.yandex.ru/track/106123283)
 - [Дико, например - PHARAOH](https://music.yandex.ru/track/36063264)
+- [5 минут назад - PHARAOH, Boulevard Depo](https://music.yandex.ru/track/29851854)
