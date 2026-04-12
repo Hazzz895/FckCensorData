@@ -253,3 +253,4 @@
 - [ВАЛЫНА - LOVV66, Платина](https://music.yandex.ru/track/106123283)
 - [Дико, например - PHARAOH](https://music.yandex.ru/track/36063264)
 - [5 минут назад - PHARAOH, Boulevard Depo](https://music.yandex.ru/track/29851854)
+- [Бойсбэнд - PHARAOH, Ca$$xttx](https://music.yandex.ru/track/29508050)
