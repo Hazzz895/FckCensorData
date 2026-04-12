@@ -250,3 +250,4 @@
 - [Мама прости - гречка](https://music.yandex.ru/track/38572740)
 - [CAIRN II - STED.D](https://music.yandex.ru/track/36893518)
 - [Курить и сдохнуть - Слава КПСС](https://music.yandex.ru/track/117219737)
+- [ВАЛЫНА - LOVV66, Платина](https://music.yandex.ru/track/106123283)
