@@ -85,7 +85,6 @@ if supabase_secret_token:
             print("Rejected.")
         else:
             start_appending(id, track_name)
-        reports.remove(report)
 
 while True:
     id = input("Yandex Music track ID or URL: ").split('/')[-1].split('?')[0]
