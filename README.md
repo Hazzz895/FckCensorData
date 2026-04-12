@@ -232,3 +232,4 @@
 - [вечное лето - лиззз](https://music.yandex.ru/track/108050041)
 - [На твиче - нексюша](https://music.yandex.ru/track/69420850)
 - [Амфетовитаминовая война - МУККА](https://music.yandex.ru/track/50400502)
+- [ПОТРАХАТЬСЯ И С*****ТЬ - МУККА](https://music.yandex.ru/track/50400504)
