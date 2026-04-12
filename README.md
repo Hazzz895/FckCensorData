@@ -234,3 +234,4 @@
 - [Амфетовитаминовая война - МУККА](https://music.yandex.ru/track/50400502)
 - [ПОТРАХАТЬСЯ И С*****ТЬ - МУККА](https://music.yandex.ru/track/50400504)
 - [Таблетка - МУККА](https://music.yandex.ru/track/58978660)
+- [До декабря - МУККА](https://music.yandex.ru/track/58810179)
