@@ -243,3 +243,4 @@
 - [Старшие - OG Buda, Polyana](https://music.yandex.ru/track/81936387)
 - [Дом Периньон - Пошлая Молли, Элджей](https://music.yandex.ru/track/91340238)
 - [Бриллианты - ЛСП](https://music.yandex.ru/track/131788963)
+- [Воссап - OG Buda, Платина](https://music.yandex.ru/track/81936403)
