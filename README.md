@@ -354,3 +354,4 @@
 - [Горько - Kunteynir, GONE.Fludd](https://music.yandex.ru/track/68074242)
 - [Способы Выживания - Metox, Брутто](https://music.yandex.ru/track/107845498)
 - [Пара граммов любви - KEER](https://music.yandex.ru/track/123286436)
+- [Люби меня - CMH, Рома Жёлудь](https://music.yandex.ru/track/131538268)
