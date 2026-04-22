@@ -359,3 +359,4 @@
 - [Сдуло - Pastor Napas, Avenuepluggg](https://music.yandex.ru/track/122852454)
 - [Вина - Три дня дождя](https://music.yandex.ru/track/100923878)
 - [Амнезия - ЛСП, PHARAOH](https://music.yandex.ru/track/60968632)
+- [Тампоны! - КруЭлла](https://music.yandex.ru/track/139671870)
