@@ -406,3 +406,4 @@
 -[Жоский - KATASTROFA, madk1d](https://music.yandex.ru/track/125714579)
 -[Junk - Jane Air, Smike, Пойманные Муравьеды](https://music.yandex.ru/track/28676494)
 -[Хочу купить время - MAYOT](https://music.yandex.ru/track/125535648)
+-[Я люблю кататься на велике - Паша Техник](https://music.yandex.ru/track/118663870)
