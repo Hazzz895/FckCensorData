@@ -424,3 +424,4 @@
 -[CMH TYPE BEAT - CMH](https://music.yandex.ru/track/119469050)
 -[YA LUBLYU TEBYA - CMH](https://music.yandex.ru/track/119469051)
 -[SKIN$ - CMH](https://music.yandex.ru/track/117165566)
+-[Давай кинем - CMH](https://music.yandex.ru/track/131538266)
