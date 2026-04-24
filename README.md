@@ -428,3 +428,4 @@
 -[все группи попадают в рай - CMH](https://music.yandex.ru/track/147993029)
 -[Антифриз - CMH](https://music.yandex.ru/track/131538269)
 -[Спрайт - CMH](https://music.yandex.ru/track/131538271)
+-[Фэритэйл - CMH](https://music.yandex.ru/track/131538273)
