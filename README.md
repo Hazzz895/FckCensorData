@@ -393,3 +393,4 @@
 -[Сонный паралич - Нефиг делать, Автостопом по фазе сна](https://music.yandex.ru/track/149446018)
 -[БЕГИ ОТ МЕНЯ - ANIKV, Kai Angel, 9mice](https://music.yandex.ru/track/116172890)
 -[Аквариум - Sqwore](https://music.yandex.ru/track/95699210)
+-[Сборник хуйни и картинки - Кишлак](https://music.yandex.ru/track/93012495)
