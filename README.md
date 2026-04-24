@@ -363,3 +363,4 @@
 - [Это KUNTEYNIR - Kunteynir](https://music.yandex.ru/track/147212188)
 - [Один на один - Kunteynir](https://music.yandex.ru/track/147212189)
 - [Чёрная дыра - Kunteynir](https://music.yandex.ru/track/147212190)
+- [Шум в голове - CAKEBOY](https://music.yandex.ru/track/54281103)
