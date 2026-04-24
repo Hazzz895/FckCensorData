@@ -421,3 +421,4 @@
 -[SWIFT - CMH](https://music.yandex.ru/track/119469046)
 -[V ecstase - Элджей](https://music.yandex.ru/track/35758333)
 -[KUVALDA - CMH](https://music.yandex.ru/track/119469048)
+-[CMH TYPE BEAT - CMH](https://music.yandex.ru/track/119469050)
