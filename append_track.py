@@ -105,7 +105,7 @@ if supabase_secret_token:
         track_info = client.tracks([id])[0]
         track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
         print(f'Track name: {track_name}')
-        print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])}')
+        print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])} | REPLACED: {report["replaced"]}')
         skip = input(" - should append? ") == ""
         if skip:
             rejected_tracks.append(id)
