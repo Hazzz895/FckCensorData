@@ -362,3 +362,4 @@
 - [Тампоны! - КруЭлла](https://music.yandex.ru/track/139671870)
 - [Это KUNTEYNIR - Kunteynir](https://music.yandex.ru/track/147212188)
 - [Один на один - Kunteynir](https://music.yandex.ru/track/147212189)
+- [Чёрная дыра - Kunteynir](https://music.yandex.ru/track/147212190)
