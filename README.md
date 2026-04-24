@@ -382,3 +382,4 @@
 - [Выдох-вдох - GUF](https://music.yandex.ru/track/25738208)
 - [Рассветы - Krillaz](https://music.yandex.ru/track/135463527)
 - [Жаман - Santiz](https://music.yandex.ru/track/137950219)
+- [Под одним солнцем - Xassa](https://music.yandex.ru/track/62484718)
