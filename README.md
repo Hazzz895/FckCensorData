@@ -397,3 +397,4 @@
 -[Hard to Buff - Yanix, GONE.Fludd](https://music.yandex.ru/track/66801291)
 -[Номер - MORGENSHTERN](https://music.yandex.ru/track/104182086)
 -[Браги два бидона - GORILLA GLU, LIL NAKU](https://music.yandex.ru/track/137709368)
+-[Внутри - семьсот семь, Кишлак](https://music.yandex.ru/track/108523845)
