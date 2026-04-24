@@ -386,3 +386,4 @@
 - [Старый город - 17 SEVENTEEN](https://music.yandex.ru/track/146183038)
 -[Сказки - PLUWG](https://music.yandex.ru/track/139083707)
 -[ВУССАП! - GONE.Fludd](https://music.yandex.ru/track/66668863)
+-[Dieforthis - LAZZY2WICE](https://music.yandex.ru/track/89680487)
