@@ -387,3 +387,4 @@
 -[Сказки - PLUWG](https://music.yandex.ru/track/139083707)
 -[ВУССАП! - GONE.Fludd](https://music.yandex.ru/track/66668863)
 -[Dieforthis - LAZZY2WICE](https://music.yandex.ru/track/89680487)
+-[На красном (Диана) - Платина](https://music.yandex.ru/track/148716901)
