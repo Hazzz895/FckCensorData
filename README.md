@@ -431,3 +431,4 @@
 -[Фэритэйл - CMH](https://music.yandex.ru/track/131538273)
 -[Мирамистин - CMH](https://music.yandex.ru/track/131538276)
 -[Придурки - CMH, Russian Village Boys](https://music.yandex.ru/track/131538277)
+-[БАРБИ - CMH, MOTELBLVCK](https://music.yandex.ru/track/76262072)
