@@ -433,3 +433,4 @@
 -[Придурки - CMH, Russian Village Boys](https://music.yandex.ru/track/131538277)
 -[БАРБИ - CMH, MOTELBLVCK](https://music.yandex.ru/track/76262072)
 -[УГОМОНИСЬ - CMH](https://music.yandex.ru/track/76262104)
+-[РПТ - CMH](https://music.yandex.ru/track/76262124)
