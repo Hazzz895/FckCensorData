@@ -391,3 +391,4 @@
 -[Лирика - Xassa](https://music.yandex.ru/track/81750768)
 -[RemyFox - Boulevard Depo](https://music.yandex.ru/track/35681868)
 -[Сонный паралич - Нефиг делать, Автостопом по фазе сна](https://music.yandex.ru/track/149446018)
+-[БЕГИ ОТ МЕНЯ - ANIKV, Kai Angel, 9mice](https://music.yandex.ru/track/116172890)
