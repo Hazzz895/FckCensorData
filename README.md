@@ -365,3 +365,4 @@
 - [Чёрная дыра - Kunteynir](https://music.yandex.ru/track/147212190)
 - [Шум в голове - CAKEBOY](https://music.yandex.ru/track/54281103)
 - [DREDD JUDGE - SEEMEE](https://music.yandex.ru/track/130751236)
+- [WANT SOME MORE - Heronwater](https://music.yandex.ru/track/145536333)
