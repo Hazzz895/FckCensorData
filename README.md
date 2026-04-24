@@ -371,3 +371,4 @@
 - [Дым - whitek3d](https://music.yandex.ru/track/140701188)
 - [CASH & DR - elox1m, ghasaii](https://music.yandex.ru/track/142512577)
 - [Огромный куш - Юпи](https://music.yandex.ru/track/136260233)
+- [Soldier Of Cola - LAZZY2WICE](https://music.yandex.ru/track/70748116)
