@@ -418,3 +418,4 @@
 -[KILL ME MAYBE - CMH](https://music.yandex.ru/track/135256916)
 -[ПЛАКСА - CMH](https://music.yandex.ru/track/135256920)
 -[РАЗОРВИ МОЁ СЕРДЦЕ - CMH](https://music.yandex.ru/track/135256921)
+-[SWIFT - CMH](https://music.yandex.ru/track/119469046)
