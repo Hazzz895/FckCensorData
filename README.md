@@ -457,3 +457,4 @@
 -[Грязный тип (Бомжи) - Платина](https://music.yandex.ru/track/148716122)
 -[Галоперидол - H8.HOOD](https://music.yandex.ru/track/104397947)
 -[Холодное оружие - Sqwore, rizza](https://music.yandex.ru/track/83215345)
+-[Котики - 17 SEVENTEEN](https://music.yandex.ru/track/104508866)
