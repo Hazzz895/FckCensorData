@@ -108,12 +108,13 @@ if supabase_secret_token:
         print(f'Track name: {track_name}')
         print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])} | REPLACED: {report["replaced"]}')
         dk = input(" - track url ")
-        skip = dk == ""
-        if skip:
+        if dk == "":
             rejected_tracks.append(id)
             with open('rejected_tracks.dev.json', 'w', encoding='utf-8') as f:
                 json.dump(rejected_tracks, f)
             print("Rejected.")
+        elif dk == "manual":
+            break
         else:
             start_appending(id, track_name, dk)
 
