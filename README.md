@@ -460,3 +460,4 @@
 -[Котики - 17 SEVENTEEN](https://music.yandex.ru/track/104508866)
 -[Запах сигарет - 17 SEVENTEEN](https://music.yandex.ru/track/104666232)
 -[Бардак - 17 SEVENTEEN, CUPSIZE](https://music.yandex.ru/track/104666233)
+-[Скучно - 17 SEVENTEEN](https://music.yandex.ru/track/104666237)
