@@ -475,3 +475,4 @@
 -[Когда ты сломан - Слава КПСС, ЮГ 404](https://music.yandex.ru/track/131794588)
 -[Катафалка - Слава КПСС](https://music.yandex.ru/track/117219711)
 -[Россия42 - Слава КПСС, 5opka](https://music.yandex.ru/track/138687506)
+-[СМЕЛЫЕ - LOVV66](https://music.yandex.ru/track/108726303)
