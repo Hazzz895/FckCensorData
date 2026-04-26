@@ -454,3 +454,4 @@
 -[РЕТРО РЕЙВ - MORGENSHTERN](https://music.yandex.ru/track/83371039)
 -[Не Могу Влюбиться - Шайни](https://music.yandex.ru/track/110689246)
 -[Падонок - Шайни](https://music.yandex.ru/track/115430106)
+-[Грязный тип (Бомжи) - Платина](https://music.yandex.ru/track/148716122)
