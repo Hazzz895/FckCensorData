@@ -473,3 +473,4 @@
 -[YTPO - OG Buda, Платина](https://music.yandex.ru/track/119923207)
 -[812 - Слава КПСС](https://music.yandex.ru/track/131794590)
 -[Когда ты сломан - Слава КПСС, ЮГ 404](https://music.yandex.ru/track/131794588)
+-[Катафалка - Слава КПСС](https://music.yandex.ru/track/117219711)
