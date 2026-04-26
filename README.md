@@ -472,3 +472,4 @@
 -[SG2 - OG Buda, 4n Way](https://music.yandex.ru/track/119923183)
 -[YTPO - OG Buda, Платина](https://music.yandex.ru/track/119923207)
 -[812 - Слава КПСС](https://music.yandex.ru/track/131794590)
+-[Когда ты сломан - Слава КПСС, ЮГ 404](https://music.yandex.ru/track/131794588)
