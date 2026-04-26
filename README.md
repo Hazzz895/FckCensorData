@@ -455,3 +455,4 @@
 -[Не Могу Влюбиться - Шайни](https://music.yandex.ru/track/110689246)
 -[Падонок - Шайни](https://music.yandex.ru/track/115430106)
 -[Грязный тип (Бомжи) - Платина](https://music.yandex.ru/track/148716122)
+-[Галоперидол - H8.HOOD](https://music.yandex.ru/track/104397947)
