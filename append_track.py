@@ -58,7 +58,7 @@ def start_appending(id, track_name=None):
             shutil.copy(url, f'tracks/{id}')
             print(f'File copied to tracks/{id}')
         else:
-            should_download = input("Download track? (y/n): ").lower() == 'y'
+            should_download = True
             if should_download:
                 def download_sound(url):
                     ydl_opts = {
