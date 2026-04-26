@@ -43,13 +43,14 @@ if sync_port:
     ws_thread = threading.Thread(target=run_ws_server, args=(int(sync_port),), daemon=True)
     ws_thread.start()
 
-def start_appending(id, track_name=None):
+def start_appending(id, track_name=None, url=None):
     if not track_name:
         print("Fetching track info...")
         track_info = client.tracks([id])[0]
         track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
         print(f'Track name: {track_name}')
-    url = input("Track URL: ")
+    if not url:
+        url = input("Track URL: ")
 
     repo = Repo('.')
     should_download = True
@@ -106,14 +107,15 @@ if supabase_secret_token:
         track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
         print(f'Track name: {track_name}')
         print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])} | REPLACED: {report["replaced"]}')
-        skip = input(" - should append? ") == ""
+        dk = input(" - track url ")
+        skip = dk == ""
         if skip:
             rejected_tracks.append(id)
             with open('rejected_tracks.dev.json', 'w', encoding='utf-8') as f:
                 json.dump(rejected_tracks, f)
             print("Rejected.")
         else:
-            start_appending(id, track_name)
+            start_appending(id, track_name, dk)
 
 while True:
     user_input = input("Yandex Music track ID or URL: ")
