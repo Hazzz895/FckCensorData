@@ -77,7 +77,7 @@ def start_appending(id, track_name=None, url=None):
         json.dump(data, f, indent=4)
         
     with open('README.md', 'a', encoding='utf-8') as f:
-        f.write(f'\n-[{track_name}](https://music.yandex.ru/track/{id})')
+        f.write(f'\n- [{track_name}](https://music.yandex.ru/track/{id})')
 
     repo.index.add(['list.json', f'tracks/{id}', "README.md"])
     repo.index.commit(f"add track «{track_name}»")
