@@ -492,3 +492,4 @@
 - [Групи - Платина, OG Buda](https://music.yandex.ru/track/148716913)
 - [Репер ничо не может - DooMee, MAYOT, unki, Slatt Savage, luvdakash](https://music.yandex.ru/track/147901516)
 - [Интеллект - Hood Rich Luka, Baby Melo](https://music.yandex.ru/track/121991178)
+- [Kataus po gorodu s setom - BUSHIDO ZHO, blago white, 163ONMYNECK](https://music.yandex.ru/track/103247542)
