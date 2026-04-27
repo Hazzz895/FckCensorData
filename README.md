@@ -480,3 +480,4 @@
 - [ЗАЧЕМ Я ЕДУ В БАНК - LOVV66](https://music.yandex.ru/track/108726305)
 - [прыгай, дура! - CUPSIZE](https://music.yandex.ru/track/146533981)
 - [НА КВАРТАЛ - LOVV66](https://music.yandex.ru/track/108726306)
+- [CBD FLOW - LOVV66](https://music.yandex.ru/track/108726307)
