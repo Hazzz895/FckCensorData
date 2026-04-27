@@ -495,3 +495,4 @@
 - [Kataus po gorodu s setom - BUSHIDO ZHO, blago white, 163ONMYNECK](https://music.yandex.ru/track/103247542)
 - [Терминал - LILDRUGHILL, ROCKET](https://music.yandex.ru/track/77009786)
 - [Перевес - 163ONMYNECK, SEEMEE](https://music.yandex.ru/track/119296544)
+- [Lost Angeles - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/118841484)
