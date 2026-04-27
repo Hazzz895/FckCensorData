@@ -59,7 +59,7 @@ def start_appending(id, track_name=None, url=None):
             shutil.copy(url, f'tracks/{id}')
             print(f'File copied to tracks/{id}')
         else:
-            should_download = True
+            should_download = url.startswith("https://soundcloud.com/") or input("Download from url? (y/n) ") == "y"
             if should_download:
                 def download_sound(url):
                     ydl_opts = {
