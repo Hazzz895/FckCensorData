@@ -497,3 +497,4 @@
 - [Перевес - 163ONMYNECK, SEEMEE](https://music.yandex.ru/track/119296544)
 - [Lost Angeles - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/118841484)
 - [Foncé - rizza](https://music.yandex.ru/track/78745768)
+- [Quinn - rizza](https://music.yandex.ru/track/83782742)
