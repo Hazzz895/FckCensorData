@@ -489,3 +489,4 @@
 - [Самый лучший эмо панк - Пошлая Молли](https://music.yandex.ru/track/62774310)
 - [осколки - MAYOT, KREC](https://music.yandex.ru/track/115902226)
 - [High - MAYOT](https://music.yandex.ru/track/125249908)
+- [Групи - Платина, OG Buda](https://music.yandex.ru/track/148716913)
