@@ -479,3 +479,4 @@
 - [НОМЕР БРАТА - LOVV66](https://music.yandex.ru/track/108726304)
 - [ЗАЧЕМ Я ЕДУ В БАНК - LOVV66](https://music.yandex.ru/track/108726305)
 - [прыгай, дура! - CUPSIZE](https://music.yandex.ru/track/146533981)
+- [НА КВАРТАЛ - LOVV66](https://music.yandex.ru/track/108726306)
