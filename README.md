@@ -490,3 +490,4 @@
 - [осколки - MAYOT, KREC](https://music.yandex.ru/track/115902226)
 - [High - MAYOT](https://music.yandex.ru/track/125249908)
 - [Групи - Платина, OG Buda](https://music.yandex.ru/track/148716913)
+- [Репер ничо не может - DooMee, MAYOT, unki, Slatt Savage, luvdakash](https://music.yandex.ru/track/147901516)
