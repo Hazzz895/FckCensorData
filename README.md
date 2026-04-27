@@ -487,3 +487,4 @@
 - [Бандана - Платина](https://music.yandex.ru/track/41570482)
 - [антистиль - вышел покурить](https://music.yandex.ru/track/142439257)
 - [Самый лучший эмо панк - Пошлая Молли](https://music.yandex.ru/track/62774310)
+- [осколки - MAYOT, KREC](https://music.yandex.ru/track/115902226)
