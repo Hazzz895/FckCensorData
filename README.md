@@ -482,3 +482,4 @@
 - [НА КВАРТАЛ - LOVV66](https://music.yandex.ru/track/108726306)
 - [CBD FLOW - LOVV66](https://music.yandex.ru/track/108726307)
 - [Трап Трап - LOVV66](https://music.yandex.ru/track/83832124)
+- [Любовью<3 - yeschapskii](https://music.yandex.ru/track/112890065)
