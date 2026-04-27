@@ -491,3 +491,4 @@
 - [High - MAYOT](https://music.yandex.ru/track/125249908)
 - [Групи - Платина, OG Buda](https://music.yandex.ru/track/148716913)
 - [Репер ничо не может - DooMee, MAYOT, unki, Slatt Savage, luvdakash](https://music.yandex.ru/track/147901516)
+- [Интеллект - Hood Rich Luka, Baby Melo](https://music.yandex.ru/track/121991178)
