@@ -505,3 +505,4 @@
 - [характер - rizza](https://music.yandex.ru/track/114784204)
 - [Ты довольна? - Куда пропала Элис?](https://music.yandex.ru/track/107645946)
 - [Плывут - Платина](https://music.yandex.ru/track/148716119)
+- [Завидуют - Платина](https://music.yandex.ru/track/148716132)
