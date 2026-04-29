@@ -113,6 +113,8 @@ if supabase_secret_token:
             with open('rejected_tracks.dev.json', 'w', encoding='utf-8') as f:
                 json.dump(rejected_tracks, f)
             print("Rejected.")
+        elif dk == "skip":
+            continue
         elif dk == "manual":
             break
         else:
