@@ -527,3 +527,4 @@
 - [Под фонарём - RASA](https://music.yandex.ru/track/39917908)
 - [Конечно оригинал, заказывал из штатов - PHARAOH](https://music.yandex.ru/track/30087866)
 - [Диссоциативы - Midix](https://music.yandex.ru/track/106416103)
+- [ПО ГОСТУ - ТЯЖЁЛАЯ АТЛЕТИКА, Kunteynir](https://music.yandex.ru/track/42938213)
