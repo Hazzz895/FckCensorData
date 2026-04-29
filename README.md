@@ -514,3 +514,4 @@
 - [4:20 - Kunteynir](https://music.yandex.ru/track/36161916)
 - [Bandana - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556497)
 - [Не пытайся - 17 SEVENTEEN, Sqwore](https://music.yandex.ru/track/141403817)
+- [Рваные джинсы - Элджей](https://music.yandex.ru/track/35758337)
