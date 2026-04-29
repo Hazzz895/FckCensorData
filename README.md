@@ -523,3 +523,4 @@
 - [WORKAL - Whole Lotta Swag, Баста](https://music.yandex.ru/track/132304817)
 - [KARI - Big Baby Tape](https://music.yandex.ru/track/75085736)
 - [Ничего святого - KDRR](https://music.yandex.ru/track/38943639)
+- [adaptive strike - shadowraze, LXNER, quiizzzmeow](https://music.yandex.ru/track/99923169)
