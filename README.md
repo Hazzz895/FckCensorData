@@ -510,3 +510,4 @@
 - [AVRIL LAVIGNE - 9mice](https://music.yandex.ru/track/113990671)
 - [99 Problems - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556487)
 - [Focus - Palagin, Индаблэк, БИЛИК](https://music.yandex.ru/track/66102259)
+- [Вдыхаю - Юпи](https://music.yandex.ru/track/134188724)
