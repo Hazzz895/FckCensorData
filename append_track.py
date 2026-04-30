@@ -6,6 +6,7 @@ import datetime
 import requests
 from dotenv import load_dotenv
 from git import Repo
+import urllib
 import yt_dlp
 from yandex_music import Client
 from websockets.sync.server import serve
@@ -107,6 +108,7 @@ if supabase_secret_token:
         track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
         print(f'Track name: {track_name}')
         print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])} | REPLACED: {report["replaced"]}')
+        print(f' - hitmos fast link: https://rus.hitmoz.org/search?q={urllib.parse.quote(track_name)}')
         dk = input(" - track url ")
         if dk == "":
             rejected_tracks.append(id)
@@ -117,6 +119,14 @@ if supabase_secret_token:
             continue
         elif dk == "manual":
             break
+        elif dk == " ":
+            downloads_folder = os.path.join(os.path.expanduser("~"), "Downloads")
+            list_of_files = os.listdir(downloads_folder)
+            list_of_files = [f for f in list_of_files if not f.endswith('.part')]
+            latest_file = max(list_of_files, key=lambda x: os.path.getctime(os.path.join(downloads_folder, x)))
+            dk = os.path.join(downloads_folder, latest_file)
+            print(f'Appending by link: {dk}')
+            start_appending(id, track_name, dk)
         else:
             start_appending(id, track_name, dk)
 
