@@ -548,3 +548,4 @@
 - [Гуф умер - GUF, Баста](https://music.yandex.ru/track/27317251)
 - [Наркотестер - 2rbina 2rista](https://music.yandex.ru/track/29727292)
 - [Выход - GUF](https://music.yandex.ru/track/27317263)
+- [All night - Xassa](https://music.yandex.ru/track/105336877)
