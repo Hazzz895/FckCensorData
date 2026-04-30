@@ -549,3 +549,4 @@
 - [Наркотестер - 2rbina 2rista](https://music.yandex.ru/track/29727292)
 - [Выход - GUF](https://music.yandex.ru/track/27317263)
 - [All night - Xassa](https://music.yandex.ru/track/105336877)
+- [Пиской трясёт - Kunteynir](https://music.yandex.ru/track/36142277)
