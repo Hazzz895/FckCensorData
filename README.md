@@ -533,3 +533,4 @@
 - [Scarlet - LAZZY2WICE](https://music.yandex.ru/track/114102000)
 - [I Won't Wake Up - LAZZY2WICE](https://music.yandex.ru/track/111623625)
 - [Соли - Kunteynir](https://music.yandex.ru/track/147212202)
+- [Военкомат - nexizes, морали нет](https://music.yandex.ru/track/136395876)
