@@ -530,3 +530,4 @@
 - [ПО ГОСТУ - ТЯЖЁЛАЯ АТЛЕТИКА, Kunteynir](https://music.yandex.ru/track/42938213)
 - [Рашан моуст уонтэд - kizaru](https://music.yandex.ru/track/75541926)
 - [Попробуй - Whole Lotta Swag](https://music.yandex.ru/track/124711309)
+- [Scarlet - LAZZY2WICE](https://music.yandex.ru/track/114102000)
