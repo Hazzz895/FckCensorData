@@ -538,3 +538,4 @@
 - [sexystorygirl - диссоциативное расстройство, Violetta Sokolova](https://music.yandex.ru/track/140712542)
 - [В аквапарке - Kunteynir](https://music.yandex.ru/track/147212215)
 - [5 лет - Kunteynir](https://music.yandex.ru/track/36161915)
+- [Спасает параноя - Kunteynir](https://music.yandex.ru/track/147212206)
