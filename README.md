@@ -542,3 +542,4 @@
 - [Дало в ноги - Kunteynir](https://music.yandex.ru/track/147651926)
 - [Меф - Zqqwer, Hororof](https://music.yandex.ru/track/135581791)
 - [двашки - rizza](https://music.yandex.ru/track/108805148)
+- [Tom Sorry - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/138562795)
