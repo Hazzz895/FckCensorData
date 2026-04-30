@@ -531,3 +531,4 @@
 - [Рашан моуст уонтэд - kizaru](https://music.yandex.ru/track/75541926)
 - [Попробуй - Whole Lotta Swag](https://music.yandex.ru/track/124711309)
 - [Scarlet - LAZZY2WICE](https://music.yandex.ru/track/114102000)
+- [I Won't Wake Up - LAZZY2WICE](https://music.yandex.ru/track/111623625)
