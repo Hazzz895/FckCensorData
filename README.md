@@ -554,3 +554,4 @@
 - [Мент - Kunteynir](https://music.yandex.ru/track/36161931)
 - [Не расклею - 4К](https://music.yandex.ru/track/126099536)
 - [Бетховен - Платина, Scally Milano](https://music.yandex.ru/track/148716094)
+- [травмы - nexizes, baadee](https://music.yandex.ru/track/138369290)
