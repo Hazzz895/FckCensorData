@@ -91,22 +91,40 @@ if supabase_secret_token:
         "Content-Type": "application/json"
     })
     reports = response.json()
-    
     with open('rejected_tracks.dev.json', 'r', encoding='utf-8') as f:
         rejected_tracks = json.loads(f.read())
     
     reports = [report for report in reports if str(report["track_id"]) not in data["tracks"] and report["track_id"] not in rejected_tracks]
     
+    with open('ym_tracks_info.dev.json', 'r', encoding='utf-8') as f:
+        tracks_info = json.loads(f.read())
+    
+    known_track_ids = {str(t["id"]) for t in tracks_info}
+    unlisted_tracks =[track for track in reports if str(track["track_id"]) not in known_track_ids]
+    if len(unlisted_tracks) > 0:
+        print(f'Found {len(unlisted_tracks)} unlisted tracks in the library:')
+        fetched_tracks = client.tracks([track["track_id"] for track in unlisted_tracks])
+        ym =[t.to_dict() for t in fetched_tracks if t is not None]
+        
+        tracks_info.extend(ym)
+        with open('ym_tracks_info.dev.json', 'w', encoding='utf-8') as f:
+            json.dump(tracks_info, f, indent=4)
+    
+    tracks_info_dict = {str(track["id"]): track for track in tracks_info}
+    
+    reports.sort(key=lambda report: tracks_info_dict[str(report["track_id"])]["albums"][0]["likes_count"] if str(report["track_id"]) in tracks_info_dict else 0, reverse=True)
+    
     for i, report in enumerate(reports):
         print(f'== {len(reports) - i} unreviewed tracks remaining ==')
-        id = report["track_id"]
+        
+        id = str(report["track_id"])
         
         if sync_port:
             send_ws({"id": id})
                 
-        track_info = client.tracks([id])[0]
-        track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
-        print(f'Track name: {track_name}')
+        track_info = tracks_info_dict.get(id)
+        track_name = f'{track_info["title"]} - {(", ".join([a["name"] for a in track_info["artists"]]))}' if track_info else f'Track ID {id}'
+        print(f'Track name: {track_name} ({track_info["albums"][0]["likes_count"]} likes)' if track_info else "Track info not found")
         print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])} | REPLACED: {report["replaced"]}')
         print(f' - hitmos fast link: https://rus.hitmoz.org/search?q={urllib.parse.quote(track_name)}')
         dk = input(" - track url ")
