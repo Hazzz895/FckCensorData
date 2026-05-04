@@ -571,3 +571,4 @@
 - [DRAIN SEASON - Aarne, BUSHIDO ZHO](https://music.yandex.ru/track/129501469)
 - [KATRINA - MORGENSHTERN](https://music.yandex.ru/track/108127266)
 - [UGU - MORGENSHTERN](https://music.yandex.ru/track/108127248)
+- [FUGLY - GONE.Fludd](https://music.yandex.ru/track/40498602)
