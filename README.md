@@ -573,3 +573,4 @@
 - [UGU - MORGENSHTERN](https://music.yandex.ru/track/108127248)
 - [FUGLY - GONE.Fludd](https://music.yandex.ru/track/40498602)
 - [Тело - ЛСП](https://music.yandex.ru/track/34972339)
+- [КЭН - OG Buda, Big Baby Tape](https://music.yandex.ru/track/104242339)
