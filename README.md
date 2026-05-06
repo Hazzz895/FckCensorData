@@ -572,3 +572,4 @@
 - [KATRINA - MORGENSHTERN](https://music.yandex.ru/track/108127266)
 - [UGU - MORGENSHTERN](https://music.yandex.ru/track/108127248)
 - [FUGLY - GONE.Fludd](https://music.yandex.ru/track/40498602)
+- [Тело - ЛСП](https://music.yandex.ru/track/34972339)
