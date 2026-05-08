@@ -126,7 +126,7 @@ if supabase_secret_token:
         track_name = f'{track_info["title"]} - {(", ".join([a["name"] for a in track_info["artists"]]))}' if track_info else f'Track ID {id}'
         print(f'Track name: {track_name} ({track_info["albums"][0]["likes_count"]} likes)' if track_info else "Track info not found")
         print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])} | REPLACED: {report["replaced"]}')
-        print(f' - hitmos fast link: https://rus.hitmoz.org/search?q={urllib.parse.quote(track_name)}')
+        print(f' - hitmos fast link: https://rus.hitmoz.org/search?q={urllib.parse.quote(track_name)}') # type: ignore
         dk = input(" - track url ")
         if dk == "":
             rejected_tracks.append(id)
