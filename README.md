@@ -619,3 +619,4 @@
 - [RESIDENT EVI7 - Kai Angel, 9mice](https://music.yandex.ru/track/111402811)
 - [AQUAFINA - Kai Angel, 9mice](https://music.yandex.ru/track/111402812)
 - [N1CHEVO - Kai Angel, 9mice](https://music.yandex.ru/track/111402810)
+- [10М ОТ ДОМА - LOVV66](https://music.yandex.ru/track/108021209)
