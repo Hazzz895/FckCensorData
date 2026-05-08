@@ -593,3 +593,4 @@
 - [No Pasarán  Pt. 2 - Santiz](https://music.yandex.ru/track/90199334)
 - [Буду твоим пёсиком - Пошлая Молли](https://music.yandex.ru/track/38932000)
 - [Гласс - Пошлая Молли](https://music.yandex.ru/track/38931999)
+- [i hate fashion shows - Kai Angel](https://music.yandex.ru/track/138413376)
