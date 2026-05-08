@@ -631,3 +631,4 @@
 - [NO PAIN - Kai Angel](https://music.yandex.ru/track/112412062)
 - [HELLRAISER - Kai Angel](https://music.yandex.ru/track/112412059)
 - [SS16 CYCLOPS - Kai Angel](https://music.yandex.ru/track/112412057)
+- [ММ - Kai Angel](https://music.yandex.ru/track/112412052)
