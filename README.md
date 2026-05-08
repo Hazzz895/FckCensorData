@@ -621,3 +621,4 @@
 - [N1CHEVO - Kai Angel, 9mice](https://music.yandex.ru/track/111402810)
 - [10М ОТ ДОМА - LOVV66](https://music.yandex.ru/track/108021209)
 - [.logicx - BUSHIDO ZHO](https://music.yandex.ru/track/103247531)
+- [KYLIE - Kai Angel](https://music.yandex.ru/track/115308811)
