@@ -594,3 +594,4 @@
 - [Буду твоим пёсиком - Пошлая Молли](https://music.yandex.ru/track/38932000)
 - [Гласс - Пошлая Молли](https://music.yandex.ru/track/38931999)
 - [i hate fashion shows - Kai Angel](https://music.yandex.ru/track/138413376)
+- [aimed u up - Kai Angel](https://music.yandex.ru/track/138413379)
