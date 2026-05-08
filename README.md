@@ -626,3 +626,4 @@
 - [Рок звезда должна умереть - Lida](https://music.yandex.ru/track/109996948)
 - [Наркоман - Сектор Газа](https://music.yandex.ru/track/17198411)
 - [$Ieg Kla$ - 1.Kla$](https://music.yandex.ru/track/51998064)
+- [MANNEQUIN - Kai Angel](https://music.yandex.ru/track/112412060)
