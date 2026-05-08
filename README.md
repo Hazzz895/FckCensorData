@@ -623,3 +623,4 @@
 - [.logicx - BUSHIDO ZHO](https://music.yandex.ru/track/103247531)
 - [KYLIE - Kai Angel](https://music.yandex.ru/track/115308811)
 - [ЧП - N1NT3ND0](https://music.yandex.ru/track/48591466)
+- [Рок звезда должна умереть - Lida](https://music.yandex.ru/track/109996948)
