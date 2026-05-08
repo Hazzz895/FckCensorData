@@ -613,3 +613,4 @@
 - [Одаривает (Prod. by Heronwater) - Heronwater](https://music.yandex.ru/track/109332246)
 - [Симп (Prod. by Heronwater) - Heronwater](https://music.yandex.ru/track/109332245)
 - [Промо (Prod. by Wex & unicorn waves) - Heronwater, DooMee](https://music.yandex.ru/track/109332244)
+- [Наряд (Prod. by Wex & Lawzy) - Heronwater](https://music.yandex.ru/track/109332241)
