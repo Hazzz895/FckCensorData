@@ -609,3 +609,4 @@
 - [3 AM IN MOSCOW - NEWLIGHTCHILD](https://music.yandex.ru/track/138936959)
 - [Hoodtrapstar - ICEGERGERT](https://music.yandex.ru/track/137242385)
 - [BADMAN - 9mice, UNEEK, Kai Angel](https://music.yandex.ru/track/119890671)
+- [В миноре (Prod. by Wex & Lawzy) - Heronwater](https://music.yandex.ru/track/109332240)
