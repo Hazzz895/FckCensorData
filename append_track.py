@@ -91,10 +91,14 @@ if supabase_secret_token:
         "Content-Type": "application/json"
     })
     reports = response.json()
-    with open('rejected_tracks.dev.json', 'r', encoding='utf-8') as f:
-        rejected_tracks = json.loads(f.read())
     
-    reports = [report for report in reports if str(report["track_id"]) not in data["tracks"] and report["track_id"] not in rejected_tracks]
+    try:
+        with open('rejected_tracks.dev.txt', 'r', encoding='utf-8') as f:
+            rejected_tracks = [line.strip() for line in f if line.strip()]
+    except FileNotFoundError:
+        rejected_tracks =[]
+    
+    reports = [report for report in reports if str(report["track_id"]) not in data["tracks"] and str(report["track_id"]) not in rejected_tracks]
     
     with open('ym_tracks_info.dev.json', 'r', encoding='utf-8') as f:
         tracks_info = json.loads(f.read())
@@ -130,8 +134,8 @@ if supabase_secret_token:
         dk = input(" - track url ")
         if dk == "":
             rejected_tracks.append(id)
-            with open('rejected_tracks.dev.json', 'w', encoding='utf-8') as f:
-                json.dump(rejected_tracks, f)
+            with open('rejected_tracks.dev.txt', 'a', encoding='utf-8') as f:
+                f.write(id + '\n')
             print("Rejected.")
         elif dk == "skip":
             continue
