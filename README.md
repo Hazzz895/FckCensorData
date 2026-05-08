@@ -634,3 +634,4 @@
 - [ММ - Kai Angel](https://music.yandex.ru/track/112412052)
 - [BALLERINA - Kai Angel](https://music.yandex.ru/track/112412063)
 - [Могилам II - Слава КПСС](https://music.yandex.ru/track/73131630)
+- [Девочка с каре - МУККА](https://music.yandex.ru/track/50400506)
