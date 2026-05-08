@@ -628,3 +628,4 @@
 - [$Ieg Kla$ - 1.Kla$](https://music.yandex.ru/track/51998064)
 - [MANNEQUIN - Kai Angel](https://music.yandex.ru/track/112412060)
 - [FUNERAL - Kai Angel](https://music.yandex.ru/track/112412065)
+- [NO PAIN - Kai Angel](https://music.yandex.ru/track/112412062)
