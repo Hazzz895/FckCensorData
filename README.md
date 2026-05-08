@@ -596,3 +596,4 @@
 - [i hate fashion shows - Kai Angel](https://music.yandex.ru/track/138413376)
 - [aimed u up - Kai Angel](https://music.yandex.ru/track/138413379)
 - [white ferrari - Kai Angel](https://music.yandex.ru/track/138413380)
+- [Kill La Kill - GONE.Fludd, TVETH](https://music.yandex.ru/track/60051509)
