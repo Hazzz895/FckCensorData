@@ -640,3 +640,4 @@
 - [Радуга - Anacondaz, RasKar](https://music.yandex.ru/track/21220262)
 - [6AM в Будапеште - OG Buda](https://music.yandex.ru/track/112892660)
 - [Dayang - Big Baby Tape](https://music.yandex.ru/track/119359242)
+- [Hate People - 9mice, Kai Angel](https://music.yandex.ru/track/130919971)
