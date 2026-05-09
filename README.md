@@ -651,3 +651,4 @@
 - [Все Ждут Дроп - OG Buda](https://music.yandex.ru/track/131898071)
 - [Не всё потеряно - GUF, Баста](https://music.yandex.ru/track/27323562)
 - [Мой мрак - PHARAOH, JEEMBO](https://music.yandex.ru/track/30087863)
+- [Выродок - PHARAOH](https://music.yandex.ru/track/30087861)
