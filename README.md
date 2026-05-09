@@ -645,3 +645,4 @@
 - [ACAB - Big Baby Tape](https://music.yandex.ru/track/45239748)
 - [Каждый раз - Монеточка](https://music.yandex.ru/track/41249159)
 - [РАТАТАТАТА - MORGENSHTERN, Витя АК](https://music.yandex.ru/track/61693507)
+- [МАНИЯ - MORGENSHTERN](https://music.yandex.ru/track/83836709)
