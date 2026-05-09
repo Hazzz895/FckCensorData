@@ -652,3 +652,4 @@
 - [Не всё потеряно - GUF, Баста](https://music.yandex.ru/track/27323562)
 - [Мой мрак - PHARAOH, JEEMBO](https://music.yandex.ru/track/30087863)
 - [Выродок - PHARAOH](https://music.yandex.ru/track/30087861)
+- [Псы всегда попадают в рай - PHARAOH, Acid Drop King](https://music.yandex.ru/track/30087864)
