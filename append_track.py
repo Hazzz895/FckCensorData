@@ -85,7 +85,7 @@ def start_appending(id, track_name=None, url=None):
     print(f'Successfully added track {track_name}\n')
     
 if supabase_secret_token:
-    response = requests.get("https://pzomqvgckpgkshxhpite.supabase.co/rest/v1/reported_tracks?select=*", headers={
+    response = requests.get("https://pzomqvgckpgkshxhpite.supabase.co/rest/v1/reported_tracks?select=*&limit=10000", headers={
         "apikey": supabase_secret_token,
         "Authorization": f"Bearer {supabase_secret_token}",
         "Content-Type": "application/json"
@@ -114,7 +114,7 @@ if supabase_secret_token:
         with open('ym_tracks_info.dev.json', 'w', encoding='utf-8') as f:
             json.dump(tracks_info, f, indent=4)
     
-    tracks_info_dict = {str(track["id"]): track for track in tracks_info}
+    tracks_info_dict = {str(track["id"]): track for track in tracks_info if len(track["albums"]) > 0}
     
     reports.sort(key=lambda report: tracks_info_dict[str(report["track_id"])]["albums"][0]["likes_count"] if str(report["track_id"]) in tracks_info_dict else 0, reverse=True)
     
