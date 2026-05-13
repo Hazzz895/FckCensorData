@@ -656,3 +656,4 @@
 - [Вальс - PHARAOH, Скриптонит](https://music.yandex.ru/track/30087867)
 - [Мотая на кисть - PHARAOH](https://music.yandex.ru/track/30087868)
 - [Вспоминая о светлом - PHARAOH](https://music.yandex.ru/track/30087869)
+- [AOT - zavet](https://music.yandex.ru/track/93570866)
