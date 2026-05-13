@@ -657,3 +657,4 @@
 - [Мотая на кисть - PHARAOH](https://music.yandex.ru/track/30087868)
 - [Вспоминая о светлом - PHARAOH](https://music.yandex.ru/track/30087869)
 - [AOT - zavet](https://music.yandex.ru/track/93570866)
+- [FLUFFY BISCUITS WITH VANILLA KISSES - zavet](https://music.yandex.ru/track/93570865)
