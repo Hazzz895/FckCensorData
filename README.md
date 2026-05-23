@@ -727,3 +727,4 @@
 - [Кто я такой - 5opka](https://music.yandex.ru/track/121793163)
 - [POPSTAR - INSTASAMKA](https://music.yandex.ru/track/107281308)
 - [Эгоист - FENDIGLOCK, MAYOT](https://music.yandex.ru/track/112047067)
+- [Памятник - FENDIGLOCK](https://music.yandex.ru/track/112047068)
