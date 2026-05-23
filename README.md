@@ -673,3 +673,4 @@
 - [Sold Out - kizaru, FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/118841489)
 - [HELL - ЕГОР КРИД, 9mice, Kai Angel](https://music.yandex.ru/track/133041138)
 - [Lo Siento - Big Baby Tape](https://music.yandex.ru/track/119359226)
+- [ОГНЕЙ - SALUKI](https://music.yandex.ru/track/106597497)
