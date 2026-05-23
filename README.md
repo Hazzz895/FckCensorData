@@ -666,3 +666,4 @@
 - [Million - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556493)
 - [Errbody Sleeping - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556495)
 - [Заколоченное - Баста, GUF](https://music.yandex.ru/track/48591486)
+- [Самурай - Баста, GUF](https://music.yandex.ru/track/48591488)
