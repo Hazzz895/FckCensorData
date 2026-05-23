@@ -793,3 +793,4 @@
 - [ЗВЕЗДА ПОДЪЕЗДА - SNIZOV](https://music.yandex.ru/track/136272298)
 - [Трясет - baadee](https://music.yandex.ru/track/137321624)
 - [ICE - MORGENSHTERN](https://music.yandex.ru/track/69420955)
+- [Чёрный Русский - MORGENSHTERN](https://music.yandex.ru/track/117095821)
