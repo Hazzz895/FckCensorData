@@ -715,3 +715,4 @@
 - [молодость - найтивыход, Jazzbe](https://music.yandex.ru/track/107528942)
 - [Я тебя отъебу - ЕБАНЬКО](https://music.yandex.ru/track/120002920)
 - [До рвоты - передоз чувств](https://music.yandex.ru/track/114116687)
+- [Молли - Viceset](https://music.yandex.ru/track/105366595)
