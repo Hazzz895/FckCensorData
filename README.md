@@ -817,3 +817,4 @@
 - [ДРУЖБА НАРОДОВ - MAYOT, SEEMEE, Hood Rich Luka](https://music.yandex.ru/track/105382846)
 - [Дрочка - MAYOT, Slatt Savage](https://music.yandex.ru/track/125535666)
 - [АВАРИЯ - КУОК, ТРАВМА](https://music.yandex.ru/track/137826264)
+- [Лапки - HOFMANNITA](https://music.yandex.ru/track/60161136)
