@@ -683,3 +683,4 @@
 - [Привычка - Скриптонит, Andy Panda, 104](https://music.yandex.ru/track/61843242)
 - [DODONPA - GONE.Fludd, CAKEBOY](https://music.yandex.ru/track/131121688)
 - [HUBLOT - MORGENSHTERN](https://music.yandex.ru/track/83836678)
+- [Конец света - ЛСП](https://music.yandex.ru/track/34972348)
