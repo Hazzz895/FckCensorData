@@ -751,3 +751,4 @@
 - [Digital капотня - PHARAOH, Acid Drop King](https://music.yandex.ru/track/29508034)
 - [Поссейдон - PHARAOH, Ca$$xttx](https://music.yandex.ru/track/29508044)
 - [Ртуть - PHARAOH](https://music.yandex.ru/track/29508051)
+- [Слякоть - PHARAOH](https://music.yandex.ru/track/29508052)
