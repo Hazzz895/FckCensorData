@@ -743,3 +743,4 @@
 - [Еб... насос - Ноггано](https://music.yandex.ru/track/48591728)
 - [Bon Voyage - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556500)
 - [АХАХАХ123KILL - OG Buda, MAYOT, Slatt Savage](https://music.yandex.ru/track/130159416)
+- [Idiot - PHARAOH, Ilya Konoplev](https://music.yandex.ru/track/109060764)
