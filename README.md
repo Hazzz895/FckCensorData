@@ -833,3 +833,4 @@
 - [Аптека - TRXSTR, Молодой калуга](https://music.yandex.ru/track/114161738)
 - [LAZER SLAVA - OG Buda, Слава КПСС](https://music.yandex.ru/track/130989227)
 - [Русь - TRIPLOVV, KLAMY764](https://music.yandex.ru/track/149231994)
+- [Люблю - Baby Melo](https://music.yandex.ru/track/113384831)
