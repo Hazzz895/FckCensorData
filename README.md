@@ -826,3 +826,4 @@
 - [Мен қазақпын - Edo Hunnidz](https://music.yandex.ru/track/139952380)
 - [Ламбо - Платина, FEDUK](https://music.yandex.ru/track/148715974)
 - [Псих - ICEGERGERT](https://music.yandex.ru/track/127453752)
+- [Шизодискотека - Слава КПСС, DK](https://music.yandex.ru/track/104798552)
