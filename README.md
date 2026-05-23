@@ -792,3 +792,4 @@
 - [SUPER KAWAII NYAN ARIGATO VTUBER SONG - Denks](https://music.yandex.ru/track/139046043)
 - [ЗВЕЗДА ПОДЪЕЗДА - SNIZOV](https://music.yandex.ru/track/136272298)
 - [Трясет - baadee](https://music.yandex.ru/track/137321624)
+- [ICE - MORGENSHTERN](https://music.yandex.ru/track/69420955)
