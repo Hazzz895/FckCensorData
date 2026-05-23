@@ -802,3 +802,4 @@
 - [Не учи меня как жить - Anacondaz, Тони Вечер](https://music.yandex.ru/track/21287099)
 - [KISLOTA X_X - clout](https://music.yandex.ru/track/131971598)
 - [Дура - кис-кис](https://music.yandex.ru/track/57185716)
+- [Кислотный сет - playingtheangel, RORY](https://music.yandex.ru/track/79980729)
