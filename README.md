@@ -674,3 +674,4 @@
 - [HELL - ЕГОР КРИД, 9mice, Kai Angel](https://music.yandex.ru/track/133041138)
 - [Lo Siento - Big Baby Tape](https://music.yandex.ru/track/119359226)
 - [ОГНЕЙ - SALUKI](https://music.yandex.ru/track/106597497)
+- [Hot Wigga - Big Baby Tape](https://music.yandex.ru/track/45239759)
