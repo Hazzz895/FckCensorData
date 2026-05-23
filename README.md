@@ -667,3 +667,4 @@
 - [Сделай мне слюнявый - KAMZ0NER](https://music.yandex.ru/track/124752054)
 - [только моя - fleurnothappy, валюта скуратов](https://music.yandex.ru/track/140085666)
 - [карамба - KAMZ0NER](https://music.yandex.ru/track/134139514)
+- [Эклер (prod. by Heronwater) - Heronwater](https://music.yandex.ru/track/108046214)
