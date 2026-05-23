@@ -669,3 +669,4 @@
 - [карамба - KAMZ0NER](https://music.yandex.ru/track/134139514)
 - [Эклер (prod. by Heronwater) - Heronwater](https://music.yandex.ru/track/108046214)
 - [Ищи меня с копами - ЮГ 404](https://music.yandex.ru/track/107819456)
+- [Он Гениален (slowed + reverb) - WOKAWÓNA](https://music.yandex.ru/track/124181018)
