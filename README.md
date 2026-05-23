@@ -733,3 +733,4 @@
 - [Ненормальный - FENDIGLOCK](https://music.yandex.ru/track/128507522)
 - [Над Нами - FENDIGLOCK, LOVV66](https://music.yandex.ru/track/128507523)
 - [Знай! - FENDIGLOCK](https://music.yandex.ru/track/128507528)
+- [Верят - FENDIGLOCK](https://music.yandex.ru/track/128507529)
