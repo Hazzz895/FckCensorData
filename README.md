@@ -725,3 +725,4 @@
 - [QUEENS CLUB - Enina](https://music.yandex.ru/track/114984968)
 - [FACETIME - INSTASAMKA, MONEYKEN](https://music.yandex.ru/track/95011123)
 - [Кто я такой - 5opka](https://music.yandex.ru/track/121793163)
+- [POPSTAR - INSTASAMKA](https://music.yandex.ru/track/107281308)
