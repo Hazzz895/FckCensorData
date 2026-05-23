@@ -698,3 +698,4 @@
 - [НЕ СКУЧАЙ (SPEED UP) - ТРОЕТОЧИЕ](https://music.yandex.ru/track/131926723)
 - [Дочка - Расстройство](https://music.yandex.ru/track/121240334)
 - [IDDQD - Йорш, Fun Mode](https://music.yandex.ru/track/116086498)
+- [Вселенная - МУККА](https://music.yandex.ru/track/79415117)
