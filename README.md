@@ -780,3 +780,4 @@
 - [Поссейдон - PHARAOH, Ca$$xttx](https://music.yandex.ru/track/29508044)
 - [Ртуть - PHARAOH](https://music.yandex.ru/track/29508051)
 - [Слякоть - PHARAOH](https://music.yandex.ru/track/29508052)
+- [Хэллоу Китти - Мэйби Бэйби, КИСЁШ-ПИСЁШ](https://music.yandex.ru/track/42237527)
