@@ -671,3 +671,4 @@
 - [EDM - Big Baby Tape, Aarne, Платина](https://music.yandex.ru/track/127365615)
 - [OMEGA - PHARAOH, Destroy Lonely](https://music.yandex.ru/track/138670468)
 - [Sold Out - kizaru, FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/118841489)
+- [HELL - ЕГОР КРИД, 9mice, Kai Angel](https://music.yandex.ru/track/133041138)
