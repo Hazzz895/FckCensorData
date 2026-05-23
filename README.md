@@ -662,3 +662,4 @@
 - [Skyscraper - FRIENDLY THUG 52 NGG, Markul](https://music.yandex.ru/track/138562790)
 - [Mama Makusa - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556496)
 - [Ladidadida - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556491)
+- [Bon Voyage - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556500)
