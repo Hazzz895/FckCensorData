@@ -794,3 +794,4 @@
 - [Трясет - baadee](https://music.yandex.ru/track/137321624)
 - [ICE - MORGENSHTERN](https://music.yandex.ru/track/69420955)
 - [Чёрный Русский - MORGENSHTERN](https://music.yandex.ru/track/117095821)
+- [Лишь бы ... - Metox](https://music.yandex.ru/track/124732867)
