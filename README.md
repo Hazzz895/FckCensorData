@@ -729,3 +729,4 @@
 - [Эгоист - FENDIGLOCK, MAYOT](https://music.yandex.ru/track/112047067)
 - [Памятник - FENDIGLOCK](https://music.yandex.ru/track/112047068)
 - [BlahBlahBlah - FENDIGLOCK, August](https://music.yandex.ru/track/112047069)
+- [Лёгкие числа - FENDIGLOCK](https://music.yandex.ru/track/112047070)
