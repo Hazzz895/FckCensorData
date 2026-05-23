@@ -828,3 +828,4 @@
 - [Псих - ICEGERGERT](https://music.yandex.ru/track/127453752)
 - [Шизодискотека - Слава КПСС, DK](https://music.yandex.ru/track/104798552)
 - [Курить - Jakone, A.V.G, Итачи](https://music.yandex.ru/track/105101211)
+- [ЛЕГОНЬКО - KAMZ0NER](https://music.yandex.ru/track/138854073)
