@@ -822,3 +822,4 @@
 - [KIKO - 9mice](https://music.yandex.ru/track/113990669)
 - [Ia v rot #%*$ etot vokzal - Воровская лапа](https://music.yandex.ru/track/119520466)
 - [Сегодня воскресенье - ШАРЫ](https://music.yandex.ru/track/40254858)
+- [Завтра понедельник - ШАРЫ](https://music.yandex.ru/track/36342200)
