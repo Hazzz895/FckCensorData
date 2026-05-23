@@ -825,3 +825,4 @@
 - [Завтра понедельник - ШАРЫ](https://music.yandex.ru/track/36342200)
 - [Мен қазақпын - Edo Hunnidz](https://music.yandex.ru/track/139952380)
 - [Ламбо - Платина, FEDUK](https://music.yandex.ru/track/148715974)
+- [Псих - ICEGERGERT](https://music.yandex.ru/track/127453752)
