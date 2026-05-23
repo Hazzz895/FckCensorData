@@ -684,3 +684,4 @@
 - [Остановка на покурить - две тысячи ярдов](https://music.yandex.ru/track/106894279)
 - [Безымянно - две тысячи ярдов](https://music.yandex.ru/track/106894280)
 - [ЛЮБИ МЕНЯ КАК - ТРОЕТОЧИЕ](https://music.yandex.ru/track/125523427)
+- [Белочка (Speed up) - KSB muzic](https://music.yandex.ru/track/134260210)
