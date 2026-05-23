@@ -831,3 +831,4 @@
 - [ЛЕГОНЬКО - KAMZ0NER](https://music.yandex.ru/track/138854073)
 - [Звезда рэпа - 5opka](https://music.yandex.ru/track/121793175)
 - [Аптека - TRXSTR, Молодой калуга](https://music.yandex.ru/track/114161738)
+- [LAZER SLAVA - OG Buda, Слава КПСС](https://music.yandex.ru/track/130989227)
