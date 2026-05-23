@@ -789,3 +789,4 @@
 - [чапман - найтивыход, нэнси холод](https://music.yandex.ru/track/116728295)
 - [Не поздно ли - Heronwater, Yanix](https://music.yandex.ru/track/110263046)
 - [Разлука - PLUSIX, wtwice](https://music.yandex.ru/track/146196962)
+- [SUPER KAWAII NYAN ARIGATO VTUBER SONG - Denks](https://music.yandex.ru/track/139046043)
