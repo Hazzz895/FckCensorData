@@ -673,3 +673,4 @@
 - [РУКИ ТЯНУТСЯ - КУОК, LIL KRYSTALLL](https://music.yandex.ru/track/137238387)
 - [odinoko - sqftyboy, WHITEKIDD](https://music.yandex.ru/track/136487137)
 - [Забита голова - GLORY O'VISION, GUZAR](https://music.yandex.ru/track/139748379)
+- [Конфетка - 17 SEVENTEEN](https://music.yandex.ru/track/89274168)
