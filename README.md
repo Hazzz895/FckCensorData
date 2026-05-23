@@ -712,3 +712,4 @@
 - [ЭМИ - Апология](https://music.yandex.ru/track/123244387)
 - [Если я умру молодым - Мама сказала нет](https://music.yandex.ru/track/115494946)
 - [молодость (speed up) - найтивыход, Jazzbe](https://music.yandex.ru/track/119426246)
+- [молодость - найтивыход, Jazzbe](https://music.yandex.ru/track/107528942)
