@@ -675,3 +675,4 @@
 - [Забита голова - GLORY O'VISION, GUZAR](https://music.yandex.ru/track/139748379)
 - [Конфетка - 17 SEVENTEEN](https://music.yandex.ru/track/89274168)
 - [Таблетка - PLOHOYPAREN](https://music.yandex.ru/track/88273925)
+- [ЛЮБИ МЕНЯ КАК (SPEED UP) - ТРОЕТОЧИЕ](https://music.yandex.ru/track/125523428)
