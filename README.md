@@ -669,3 +669,4 @@
 - [Самурай - Баста, GUF](https://music.yandex.ru/track/48591488)
 - [Вязки - Баста, GUF](https://music.yandex.ru/track/48591484)
 - [EDM - Big Baby Tape, Aarne, Платина](https://music.yandex.ru/track/127365615)
+- [OMEGA - PHARAOH, Destroy Lonely](https://music.yandex.ru/track/138670468)
