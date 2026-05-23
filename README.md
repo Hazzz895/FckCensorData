@@ -659,3 +659,4 @@
 - [AOT - zavet](https://music.yandex.ru/track/93570866)
 - [FLUFFY BISCUITS WITH VANILLA KISSES - zavet](https://music.yandex.ru/track/93570865)
 - [Sad Girl X - Sati Akura](https://music.yandex.ru/track/150988063)
+- [Skyscraper - FRIENDLY THUG 52 NGG, Markul](https://music.yandex.ru/track/138562790)
