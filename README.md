@@ -816,3 +816,4 @@
 - [Нет Сердца - PHARAOH](https://music.yandex.ru/track/79405420)
 - [ДРУЖБА НАРОДОВ - MAYOT, SEEMEE, Hood Rich Luka](https://music.yandex.ru/track/105382846)
 - [Дрочка - MAYOT, Slatt Savage](https://music.yandex.ru/track/125535666)
+- [АВАРИЯ - КУОК, ТРАВМА](https://music.yandex.ru/track/137826264)
