@@ -677,3 +677,4 @@
 - [Таблетка - PLOHOYPAREN](https://music.yandex.ru/track/88273925)
 - [ЛЮБИ МЕНЯ КАК (SPEED UP) - ТРОЕТОЧИЕ](https://music.yandex.ru/track/125523428)
 - [Мой зайчик (Speed Up) - Расстройство](https://music.yandex.ru/track/122637119)
+- [СНОВА ПЬЯНЫЙ - ТРОЕТОЧИЕ](https://music.yandex.ru/track/120945839)
