@@ -710,3 +710,4 @@
 - [лучшая среди нас - лиззз](https://music.yandex.ru/track/114235473)
 - [кровь - лиззз](https://music.yandex.ru/track/114235480)
 - [ЭМИ - Апология](https://music.yandex.ru/track/123244387)
+- [Если я умру молодым - Мама сказала нет](https://music.yandex.ru/track/115494946)
