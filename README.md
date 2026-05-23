@@ -784,3 +784,4 @@
 - [Exactly - Мэйби Бэйби](https://music.yandex.ru/track/141335101)
 - [Кайф - YUNG TRAPPA](https://music.yandex.ru/track/53582338)
 - [Codeine - Паша Техник, Scally Milano](https://music.yandex.ru/track/104429148)
+- [На мне - Shiny Ruby](https://music.yandex.ru/track/135264160)
