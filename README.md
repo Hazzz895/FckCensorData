@@ -803,3 +803,4 @@
 - [KISLOTA X_X - clout](https://music.yandex.ru/track/131971598)
 - [Дура - кис-кис](https://music.yandex.ru/track/57185716)
 - [Кислотный сет - playingtheangel, RORY](https://music.yandex.ru/track/79980729)
+- [НАСЕКОМОЕ - прыгай киска, Boulevard Depo](https://music.yandex.ru/track/114913248)
