@@ -692,3 +692,4 @@
 - [Сид и Ненси - Йорш, Sellout, ДМЦ](https://music.yandex.ru/track/98085667)
 - [Сид и Нэнси - Йорш](https://music.yandex.ru/track/45468214)
 - [я не знаю что со мной - передоз чувств](https://music.yandex.ru/track/113095208)
+- [малолетка - кис-кис](https://music.yandex.ru/track/70765563)
