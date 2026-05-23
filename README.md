@@ -745,3 +745,4 @@
 - [АХАХАХ123KILL - OG Buda, MAYOT, Slatt Savage](https://music.yandex.ru/track/130159416)
 - [Idiot - PHARAOH, Ilya Konoplev](https://music.yandex.ru/track/109060764)
 - [Нет сети - PHARAOH](https://music.yandex.ru/track/29508025)
+- [Фруктовый - PHARAOH](https://music.yandex.ru/track/29508026)
