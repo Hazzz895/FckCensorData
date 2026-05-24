@@ -864,3 +864,4 @@
 - [CHASEDAMONEY / Salam Zelly - SODA LUV, BUSHIDO ZHO](https://music.yandex.ru/track/109051377)
 - [TURBINA - SODA LUV](https://music.yandex.ru/track/109051378)
 - [DTF - SODA LUV](https://music.yandex.ru/track/109051379)
+- [CARPE DIEM - SODA LUV](https://music.yandex.ru/track/109051380)
