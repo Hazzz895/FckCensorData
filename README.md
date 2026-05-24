@@ -856,3 +856,4 @@
 - [18+ - Каспийский Груз, Rigos, SLIMUS](https://music.yandex.ru/track/46951717)
 - [TRAXXXMANIA - GONE.Fludd](https://music.yandex.ru/track/92607043)
 - [Молод и ахуенен - МУККА](https://music.yandex.ru/track/58810153)
+- [AHAHAHA - SODA LUV](https://music.yandex.ru/track/109051371)
