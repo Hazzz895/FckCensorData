@@ -853,3 +853,4 @@
 - [ПАПА - тёмный принц, tewiq, FORTUNA 812](https://music.yandex.ru/track/133179861)
 - [Лояльность - T-Fest](https://music.yandex.ru/track/48596152)
 - [я умру молодым - никса, передоз чувств](https://music.yandex.ru/track/130541079)
+- [18+ - Каспийский Груз, Rigos, SLIMUS](https://music.yandex.ru/track/46951717)
