@@ -881,3 +881,4 @@
 - [Подсознание мёртвого музыканта - Джизус](https://music.yandex.ru/track/48919489)
 - [Стоп Игра - ЛСП](https://music.yandex.ru/track/117929984)
 - [Love Is - ЕГОР КРИД](https://music.yandex.ru/track/60058836)
+- [треки - never die, дима фефилов](https://music.yandex.ru/track/117680717)
