@@ -839,3 +839,4 @@
 - [НИКТО НЕ ХОЧЕТ - yeschapskii](https://music.yandex.ru/track/124630258)
 - [КОТЬ КОТЬ [Prod. by swaggo, Juvy Cather, 22Cartel, Neet.ro] - SODA LUV, 163ONMYNECK](https://music.yandex.ru/track/80159692)
 - [18:45:54 - Kunteynir](https://music.yandex.ru/track/147212194)
+- [Ангел (Slowed) - Юпи, FORTUNA 812](https://music.yandex.ru/track/123214893)
