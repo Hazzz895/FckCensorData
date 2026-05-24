@@ -867,3 +867,4 @@
 - [CARPE DIEM - SODA LUV](https://music.yandex.ru/track/109051380)
 - [Prettyboii - SODA LUV](https://music.yandex.ru/track/109051382)
 - [REFERENCE / БОЛЬШОЙ ШАГАТЕЛЬ - SODA LUV](https://music.yandex.ru/track/109051383)
+- [From UK 2 RU - SODA LUV, V9](https://music.yandex.ru/track/109051384)
