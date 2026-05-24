@@ -848,3 +848,4 @@
 - [Рашн стайл - Предтрен](https://music.yandex.ru/track/128027859)
 - [Ali Uli - Lida, S3RL](https://music.yandex.ru/track/76711317)
 - [Ненавижу порядок - Sqwore](https://music.yandex.ru/track/95699206)
+- [Последняя любовь - nexizes, baadee](https://music.yandex.ru/track/136395879)
