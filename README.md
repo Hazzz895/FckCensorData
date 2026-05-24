@@ -851,3 +851,4 @@
 - [Последняя любовь - nexizes, baadee](https://music.yandex.ru/track/136395879)
 - [На красном (Диана) - Платина](https://music.yandex.ru/track/148716988)
 - [ПАПА - тёмный принц, tewiq, FORTUNA 812](https://music.yandex.ru/track/133179861)
+- [Лояльность - T-Fest](https://music.yandex.ru/track/48596152)
