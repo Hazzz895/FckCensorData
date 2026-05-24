@@ -859,3 +859,4 @@
 - [AHAHAHA - SODA LUV](https://music.yandex.ru/track/109051371)
 - [МИКРОВОЛНОВКА ФЛОУ - SODA LUV](https://music.yandex.ru/track/109051372)
 - [MAYBACH - SODA LUV](https://music.yandex.ru/track/109051373)
+- [ТАХО - SODA LUV](https://music.yandex.ru/track/109051374)
