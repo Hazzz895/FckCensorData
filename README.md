@@ -883,3 +883,4 @@
 - [Love Is - ЕГОР КРИД](https://music.yandex.ru/track/60058836)
 - [треки - never die, дима фефилов](https://music.yandex.ru/track/117680717)
 - [Выродок (Speed Up) - LUFNAEL](https://music.yandex.ru/track/130169686)
+- [Выходной - LILDRUGHILL](https://music.yandex.ru/track/77009791)
