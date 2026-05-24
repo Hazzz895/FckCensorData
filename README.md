@@ -865,3 +865,4 @@
 - [TURBINA - SODA LUV](https://music.yandex.ru/track/109051378)
 - [DTF - SODA LUV](https://music.yandex.ru/track/109051379)
 - [CARPE DIEM - SODA LUV](https://music.yandex.ru/track/109051380)
+- [Prettyboii - SODA LUV](https://music.yandex.ru/track/109051382)
