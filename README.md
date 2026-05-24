@@ -879,3 +879,4 @@
 - [таким как я - голодный](https://music.yandex.ru/track/136026615)
 - [Искренность - курящих нет](https://music.yandex.ru/track/137656529)
 - [Подсознание мёртвого музыканта - Джизус](https://music.yandex.ru/track/48919489)
+- [Стоп Игра - ЛСП](https://music.yandex.ru/track/117929984)
