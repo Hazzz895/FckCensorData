@@ -855,3 +855,4 @@
 - [я умру молодым - никса, передоз чувств](https://music.yandex.ru/track/130541079)
 - [18+ - Каспийский Груз, Rigos, SLIMUS](https://music.yandex.ru/track/46951717)
 - [TRAXXXMANIA - GONE.Fludd](https://music.yandex.ru/track/92607043)
+- [Молод и ахуенен - МУККА](https://music.yandex.ru/track/58810153)
