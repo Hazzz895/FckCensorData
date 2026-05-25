@@ -1003,3 +1003,4 @@
 - [Живой - ЗоХа](https://music.yandex.ru/track/122095885)
 - [Amerikanskaia mechta - badCurt](https://music.yandex.ru/track/68269714)
 - [Netu interesa - 10AGE](https://music.yandex.ru/track/78608850)
+- [Веном - Платина, Big Baby Tape](https://music.yandex.ru/track/89116734)
