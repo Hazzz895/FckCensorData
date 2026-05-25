@@ -942,3 +942,4 @@
 - [2001 год - Крематорий](https://music.yandex.ru/track/49336734)
 - [ФУДЗИ - playingtheangel](https://music.yandex.ru/track/43504918)
 - [Человек-бензопила - Pluggstar](https://music.yandex.ru/track/121385451)
+- [Otpuskaiu - Папин Олимпос](https://music.yandex.ru/track/112220712)
