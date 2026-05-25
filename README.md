@@ -935,3 +935,4 @@
 - [Средний - 163ONMYNECK](https://music.yandex.ru/track/116649708)
 - [Грусть - OG Buda](https://music.yandex.ru/track/81936401)
 - [Веном - Платина, Big Baby Tape](https://music.yandex.ru/track/148717002)
+- [Виктория сикрет - 163ONMYNECK, OG Buda, THRILL PILL](https://music.yandex.ru/track/119296515)
