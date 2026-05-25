@@ -999,3 +999,4 @@
 - [Brigada - Big Baby Tape](https://music.yandex.ru/track/52765483)
 - [#2033 - Anonymous Ember, DJ GLAMSTA](https://music.yandex.ru/track/143482533)
 - [Фри Рио - 163ONMYNECK](https://music.yandex.ru/track/116649706)
+- [Страгл - Whole Lotta Swag](https://music.yandex.ru/track/124711308)
