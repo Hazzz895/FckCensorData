@@ -1024,3 +1024,4 @@
 - [Больше нет тепла на двоих - kavabanga Depo kolibri](https://music.yandex.ru/track/148628495)
 - [Холодное оружие - Sqwore, treepside](https://music.yandex.ru/track/97345805)
 - [TRAP A HOLIC - Anonymous Ember](https://music.yandex.ru/track/138578779)
+- [Diamond Tears - kizaru, FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/135680515)
