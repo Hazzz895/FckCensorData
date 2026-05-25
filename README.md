@@ -918,3 +918,4 @@
 - [TAMPON| - SODA LUV, 163ONMYNECK](https://music.yandex.ru/track/112679395)
 - [Stoopid Money - OG Buda, DooMee, Sqwore](https://music.yandex.ru/track/119280175)
 - [Бурлеск шоу - playingtheangel](https://music.yandex.ru/track/38690302)
+- [Останови меня - pyrokinesis](https://music.yandex.ru/track/41900827)
