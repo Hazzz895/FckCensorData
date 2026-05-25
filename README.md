@@ -930,3 +930,4 @@
 - [Say No Mo - kizaru](https://music.yandex.ru/track/61221107)
 - [Вернись в мой сон - Sqwore](https://music.yandex.ru/track/112927027)
 - [Говори - МУККА](https://music.yandex.ru/track/58810157)
+- [Классика - Джон Гарик, Baby Melo](https://music.yandex.ru/track/133174435)
