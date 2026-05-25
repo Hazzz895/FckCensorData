@@ -986,3 +986,4 @@
 - [САМП - OG Buda, BUSHIDO ZHO](https://music.yandex.ru/track/81936397)
 - [Опять сегодня - Сектор Газа](https://music.yandex.ru/track/17198343)
 - [Nicotine (Slowed + Reverb) - CUPREOUS, DJ WESSTAG](https://music.yandex.ru/track/117131972)
+- [Это правда странно - fleurnothappy](https://music.yandex.ru/track/123277830)
