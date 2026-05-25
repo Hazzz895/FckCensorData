@@ -1,0 +1,17 @@
+<html>
+<head>
+    <meta name="referrer" content="no-referrer">
+    <script>
+        let a = document.createElement("a");
+        a.referrerPolicy = "no-referrer";
+        a.rel = "noreferrer";
+        a.href = "https://audset.ru/track/14226";
+        a.click();
+    </script>
+    <meta http-equiv="refresh" content="1; url=https://audset.ru/track/14226">
+</head>
+<body>
+    <a rel="noreferrer" referrerpolicy="no-referrer" href="https://audset.ru/track/14226">Ссылка на страницу скачивания | Download page link</a>
+</body>
+</html>
+            
