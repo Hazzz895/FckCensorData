@@ -893,3 +893,4 @@
 - [5 Nights Crazy - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556494)
 - [МОЛЧАЛИВЫЙ БОБ - ЯМАУГЛИ](https://music.yandex.ru/track/66938935)
 - [LAME SHIT - GONE.Fludd](https://music.yandex.ru/track/40498612)
+- [LAME SHIT II - GONE.Fludd](https://music.yandex.ru/track/66668864)
