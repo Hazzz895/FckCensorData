@@ -955,3 +955,4 @@
 - [Валентина - Платина](https://music.yandex.ru/track/148716977)
 - [IntroFreestyle2024 - Слава КПСС](https://music.yandex.ru/track/131402974)
 - [кошмары - dabbackwood, volhey, Alex Ricellow](https://music.yandex.ru/track/149311878)
+- [Умереть Хочешь? - OG Buda, Джон Гарик](https://music.yandex.ru/track/131898080)
