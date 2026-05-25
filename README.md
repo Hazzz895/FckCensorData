@@ -990,3 +990,4 @@
 - [ПОЛНЫЙ ГАЗ - Big Russian Boss](https://music.yandex.ru/track/77381045)
 - [Дабстэп - OG Buda, Scally Milano](https://music.yandex.ru/track/81936402)
 - [Не киряй - МУККА, Три дня дождя](https://music.yandex.ru/track/62810142)
+- [GTA - INSTASAMKA, CMH](https://music.yandex.ru/track/59556187)
