@@ -975,3 +975,4 @@
 - [Выпуская дым - Slavik Pogosov](https://music.yandex.ru/track/48928606)
 - [Братишка - Bogdan Kiyashko](https://music.yandex.ru/track/104817646)
 - [Porsh - OG Buda](https://music.yandex.ru/track/119728718)
+- [Смысл жизни - Поколено](https://music.yandex.ru/track/125157964)
