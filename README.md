@@ -978,3 +978,4 @@
 - [Смысл жизни - Поколено](https://music.yandex.ru/track/125157964)
 - [Кетарол - курящих нет](https://music.yandex.ru/track/107827229)
 - [Мексиканцам - Subbota](https://music.yandex.ru/track/59759472)
+- [1+1 - xxxmanera](https://music.yandex.ru/track/108422089)
