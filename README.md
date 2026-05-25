@@ -964,3 +964,4 @@
 - [MiMiMaMaMu - Exile, STOPBAN, DILBLIN](https://music.yandex.ru/track/114088774)
 - [Дурман - Xassa](https://music.yandex.ru/track/51950492)
 - [Иней! - Платина](https://music.yandex.ru/track/148715962)
+- [Mille Grazie - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/144935313)
