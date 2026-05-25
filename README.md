@@ -943,3 +943,4 @@
 - [ФУДЗИ - playingtheangel](https://music.yandex.ru/track/43504918)
 - [Человек-бензопила - Pluggstar](https://music.yandex.ru/track/121385451)
 - [Otpuskaiu - Папин Олимпос](https://music.yandex.ru/track/112220712)
+- [Еду зайцем - курящих нет](https://music.yandex.ru/track/99697481)
