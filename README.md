@@ -904,3 +904,4 @@
 - [Медленно - aikko, кровь из носа](https://music.yandex.ru/track/149219587)
 - [Остап Бендер - Bumble Beezy](https://music.yandex.ru/track/149171834)
 - [Нам надо дыма - ЛИТВИНЕНКО](https://music.yandex.ru/track/43532695)
+- [Beggin - Maladoy Prince](https://music.yandex.ru/track/106574623)
