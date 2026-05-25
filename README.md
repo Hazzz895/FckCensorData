@@ -1016,3 +1016,4 @@
 - [Что ты знаешь? - 163ONMYNECK, FEARMUCH](https://music.yandex.ru/track/119296517)
 - [Нету меня - YUNG TRAPPA](https://music.yandex.ru/track/53582330)
 - [Мой Флоу Со Справкой - Anonymous Ember, fakemutin](https://music.yandex.ru/track/140257587)
+- [1ST DAY SMOKE - Heronwater](https://music.yandex.ru/track/138073519)
