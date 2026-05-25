@@ -992,3 +992,4 @@
 - [Не киряй - МУККА, Три дня дождя](https://music.yandex.ru/track/62810142)
 - [GTA - INSTASAMKA, CMH](https://music.yandex.ru/track/59556187)
 - [A ia Kuriu i Plachu - tuborosho, Anonymous Ember](https://music.yandex.ru/track/134308745)
+- [Выключатель - 163ONMYNECK](https://music.yandex.ru/track/101389541)
