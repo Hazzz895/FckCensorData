@@ -905,3 +905,4 @@
 - [Остап Бендер - Bumble Beezy](https://music.yandex.ru/track/149171834)
 - [Нам надо дыма - ЛИТВИНЕНКО](https://music.yandex.ru/track/43532695)
 - [Beggin - Maladoy Prince](https://music.yandex.ru/track/106574623)
+- [Пули - ЛАУД, GONE.Fludd](https://music.yandex.ru/track/76788657)
