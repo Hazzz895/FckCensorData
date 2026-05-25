@@ -1022,3 +1022,4 @@
 - [Лол - Пошлая Молли](https://music.yandex.ru/track/45541231)
 - [Я тебя никому не отдам (Gipsydance) - 1.Kla$](https://music.yandex.ru/track/114343051)
 - [Больше нет тепла на двоих - kavabanga Depo kolibri](https://music.yandex.ru/track/148628495)
+- [Холодное оружие - Sqwore, treepside](https://music.yandex.ru/track/97345805)
