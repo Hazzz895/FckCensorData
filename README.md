@@ -945,3 +945,4 @@
 - [Otpuskaiu - Папин Олимпос](https://music.yandex.ru/track/112220712)
 - [Еду зайцем - курящих нет](https://music.yandex.ru/track/99697481)
 - [Котики - СМЫСЛА.net, курящих нет](https://music.yandex.ru/track/103303171)
+- [Понедельник - WormGanger, Молодой калуга, валюта скуратов](https://music.yandex.ru/track/127212428)
