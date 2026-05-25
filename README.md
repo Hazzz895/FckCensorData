@@ -934,3 +934,4 @@
 - [крепкие сиги - morphy](https://music.yandex.ru/track/136598162)
 - [Средний - 163ONMYNECK](https://music.yandex.ru/track/116649708)
 - [Грусть - OG Buda](https://music.yandex.ru/track/81936401)
+- [Веном - Платина, Big Baby Tape](https://music.yandex.ru/track/148717002)
