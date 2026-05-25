@@ -963,3 +963,4 @@
 - [Jimi Hndrx - August](https://music.yandex.ru/track/119158496)
 - [MiMiMaMaMu - Exile, STOPBAN, DILBLIN](https://music.yandex.ru/track/114088774)
 - [Дурман - Xassa](https://music.yandex.ru/track/51950492)
+- [Иней! - Платина](https://music.yandex.ru/track/148715962)
