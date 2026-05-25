@@ -953,3 +953,4 @@
 - [Битбокс - SEEMEE, OG Buda, Ляхов Григорий Алексеевич](https://music.yandex.ru/track/85971535)
 - [GLAM! - GONE.Fludd, CAKEBOY](https://music.yandex.ru/track/53256122)
 - [Валентина - Платина](https://music.yandex.ru/track/148716977)
+- [IntroFreestyle2024 - Слава КПСС](https://music.yandex.ru/track/131402974)
