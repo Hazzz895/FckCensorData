@@ -977,3 +977,4 @@
 - [Porsh - OG Buda](https://music.yandex.ru/track/119728718)
 - [Смысл жизни - Поколено](https://music.yandex.ru/track/125157964)
 - [Кетарол - курящих нет](https://music.yandex.ru/track/107827229)
+- [Мексиканцам - Subbota](https://music.yandex.ru/track/59759472)
