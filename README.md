@@ -957,3 +957,4 @@
 - [кошмары - dabbackwood, volhey, Alex Ricellow](https://music.yandex.ru/track/149311878)
 - [Умереть Хочешь? - OG Buda, Джон Гарик](https://music.yandex.ru/track/131898080)
 - [Bystro - MORGENSHTERN, SLAVA MARLOW](https://music.yandex.ru/track/72737512)
+- [Фрик - dabbackwood](https://music.yandex.ru/track/128785981)
