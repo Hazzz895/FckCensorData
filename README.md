@@ -1033,3 +1033,4 @@
 - [Бабник - THRILL PILL](https://music.yandex.ru/track/38681475)
 - [КАРИНА - SODA LUV, Heronwater](https://music.yandex.ru/track/109051375)
 - [OMG 2012 - YUNG TRAPPA](https://music.yandex.ru/track/53685449)
+- [у меня всё хорошо - aikko](https://music.yandex.ru/track/103457320)
