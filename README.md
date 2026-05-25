@@ -961,3 +961,4 @@
 - [перелом - INSPACE, aikko](https://music.yandex.ru/track/129773110)
 - [Джентельмен-шоу - ЛСП](https://music.yandex.ru/track/89104835)
 - [Jimi Hndrx - August](https://music.yandex.ru/track/119158496)
+- [MiMiMaMaMu - Exile, STOPBAN, DILBLIN](https://music.yandex.ru/track/114088774)
