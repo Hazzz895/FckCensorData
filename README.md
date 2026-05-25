@@ -1028,3 +1028,4 @@
 - [СВАГА - HELLOVERCAVI, SODA LUV](https://music.yandex.ru/track/139803303)
 - [Тюрбан - Scally Milano, uglystephan](https://music.yandex.ru/track/97277436)
 - [Биг бой - Платина, OG Buda, LIL KRYSTALLL, FEDUK](https://music.yandex.ru/track/148716914)
+- [Кассир - Kunteynir](https://music.yandex.ru/track/36161918)
