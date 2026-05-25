@@ -948,3 +948,4 @@
 - [Понедельник - WormGanger, Молодой калуга, валюта скуратов](https://music.yandex.ru/track/127212428)
 - [Like A G6 - Big Baby Tape](https://music.yandex.ru/track/109990504)
 - [ABORT - Hood Rich Luka, Scally Milano](https://music.yandex.ru/track/106067863)
+- [Худшее во мне - playingtheangel, Три дня дождя](https://music.yandex.ru/track/73375329)
