@@ -1005,3 +1005,4 @@
 - [Netu interesa - 10AGE](https://music.yandex.ru/track/78608850)
 - [Веном - Платина, Big Baby Tape](https://music.yandex.ru/track/89116734)
 - [Anora - 9mice](https://music.yandex.ru/track/136074520)
+- [Жоский - KATASTROFA, madk1d](https://music.yandex.ru/track/125539266)
