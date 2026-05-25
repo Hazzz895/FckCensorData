@@ -1030,3 +1030,4 @@
 - [Биг бой - Платина, OG Buda, LIL KRYSTALLL, FEDUK](https://music.yandex.ru/track/148716914)
 - [Кассир - Kunteynir](https://music.yandex.ru/track/36161918)
 - [Минуту - Anacondaz](https://music.yandex.ru/track/21287095)
+- [Бабник - THRILL PILL](https://music.yandex.ru/track/38681475)
