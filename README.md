@@ -1034,3 +1034,4 @@
 - [КАРИНА - SODA LUV, Heronwater](https://music.yandex.ru/track/109051375)
 - [OMG 2012 - YUNG TRAPPA](https://music.yandex.ru/track/53685449)
 - [у меня всё хорошо - aikko](https://music.yandex.ru/track/103457320)
+- [целуйся правильно - By Индия](https://music.yandex.ru/track/104198618)
