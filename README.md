@@ -1044,3 +1044,4 @@
 - [На квартале - YUNG TRAPPA](https://music.yandex.ru/track/53838987)
 - [Таблетки - DEXIE 999](https://music.yandex.ru/track/147953044)
 - [TOKYO WATER - Heronwater](https://music.yandex.ru/track/136267325)
+- [В миноре (Prod. by Wex & Lawzy) - Heronwater](https://music.yandex.ru/track/108857579)
