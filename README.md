@@ -1061,3 +1061,4 @@
 - [MAGDALENE - SALUKI, OG Buda, SABU](https://music.yandex.ru/track/112996874)
 - [ТАК ЛЕГКО ЗАМЁРЗНУТЬ - SALUKI](https://music.yandex.ru/track/112996873)
 - [LUNI ANA’S SONG - SALUKI](https://music.yandex.ru/track/112996871)
+- [WILD EA$T 2 - SALUKI](https://music.yandex.ru/track/112996870)
