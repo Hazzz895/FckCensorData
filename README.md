@@ -1059,3 +1059,4 @@
 - [ЗВУЧИТ КАК ПЛАН (KREEM’S INTRO) - SALUKI](https://music.yandex.ru/track/112996876)
 - [BOY$ - SALUKI, FEDUK, FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/112996875)
 - [MAGDALENE - SALUKI, OG Buda, SABU](https://music.yandex.ru/track/112996874)
+- [ТАК ЛЕГКО ЗАМЁРЗНУТЬ - SALUKI](https://music.yandex.ru/track/112996873)
