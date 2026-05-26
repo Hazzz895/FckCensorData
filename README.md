@@ -1062,3 +1062,4 @@
 - [ТАК ЛЕГКО ЗАМЁРЗНУТЬ - SALUKI](https://music.yandex.ru/track/112996873)
 - [LUNI ANA’S SONG - SALUKI](https://music.yandex.ru/track/112996871)
 - [WILD EA$T 2 - SALUKI](https://music.yandex.ru/track/112996870)
+- [THE GOOD THE BAD & THE UGLY - SALUKI](https://music.yandex.ru/track/112996869)
