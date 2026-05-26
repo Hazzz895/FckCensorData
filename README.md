@@ -1067,3 +1067,4 @@
 - [WILD EA$T - SALUKI](https://music.yandex.ru/track/112996866)
 - [BBBITCH! - SALUKI, BATO](https://music.yandex.ru/track/112996865)
 - [JOOT' - SALUKI, 104](https://music.yandex.ru/track/81537226)
+- [Тупик - SALUKI, ROCKET](https://music.yandex.ru/track/48950737)
