@@ -1087,3 +1087,4 @@
 - [Новогодняя - GUF](https://music.yandex.ru/track/42498653)
 - [Дома - GUF, Ба](https://music.yandex.ru/track/27323574)
 - [Туман - GUF](https://music.yandex.ru/track/150820029)
+- [Ice Baby - GUF](https://music.yandex.ru/track/27323567)
