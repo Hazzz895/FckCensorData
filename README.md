@@ -1033,3 +1033,4 @@
 - [орви шансон - бэйби гога](https://music.yandex.ru/track/135706401)
 - [White Monster UwU - Denks](https://music.yandex.ru/track/139046051)
 - [Гача Лайф Стрим Хаус Пати - Denks, ЧИКА УБИЙЦА ФНАФ, SalDal, Фурри собачка](https://music.yandex.ru/track/139046046)
+- [Na Na Na - Denks, Hatsune Vika](https://music.yandex.ru/track/139046055)
