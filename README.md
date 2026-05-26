@@ -1084,3 +1084,4 @@
 - [tolko ty nikogda ne uznaesh - тринадцать карат](https://music.yandex.ru/track/112217623)
 - [Khochetsia zabytsia - Lida](https://music.yandex.ru/track/109996944)
 - [Больше стаффа - GUF](https://music.yandex.ru/track/27323560)
+- [Новогодняя - GUF](https://music.yandex.ru/track/42498653)
