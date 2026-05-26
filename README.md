@@ -1035,3 +1035,4 @@
 - [Гача Лайф Стрим Хаус Пати - Denks, ЧИКА УБИЙЦА ФНАФ, SalDal, Фурри собачка](https://music.yandex.ru/track/139046046)
 - [Na Na Na - Denks, Hatsune Vika](https://music.yandex.ru/track/139046055)
 - [Холодно - Denks](https://music.yandex.ru/track/139046056)
+- [Аптека 2 - THRILL PILL](https://music.yandex.ru/track/38681476)
