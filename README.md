@@ -1042,3 +1042,4 @@
 - [Рамок нет - Скриптонит, FEDUK](https://music.yandex.ru/track/81747372)
 - [Весенняя - Murda Killa, Саша Скул](https://music.yandex.ru/track/107972749)
 - [На квартале - YUNG TRAPPA](https://music.yandex.ru/track/53838987)
+- [Таблетки - DEXIE 999](https://music.yandex.ru/track/147953044)
