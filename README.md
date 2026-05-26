@@ -1054,3 +1054,4 @@
 - [пока сердце бьется - fleurnothappy, euro91](https://music.yandex.ru/track/134223797)
 - [MANSION MUSIK - SALUKI, Big Baby Tape, Aarne](https://music.yandex.ru/track/132723443)
 - [MOSKVICHKA - SALUKI, Найк Борзов](https://music.yandex.ru/track/112996884)
+- [ВСТРЕТИМСЯ У КАССЫ - SALUKI](https://music.yandex.ru/track/112996880)
