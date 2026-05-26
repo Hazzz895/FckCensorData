@@ -1100,3 +1100,4 @@
 - [Average - Bumble Beezy](https://music.yandex.ru/track/46844314)
 - [NBA - Bumble Beezy](https://music.yandex.ru/track/46844312)
 - [Саккада - Bumble Beezy](https://music.yandex.ru/track/149171791)
+- [Degenerat - Джарахов, MORGENSHTERN](https://music.yandex.ru/track/77143804)
