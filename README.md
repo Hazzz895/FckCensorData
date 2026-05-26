@@ -1092,3 +1092,4 @@
 - [Не круто - Bumble Beezy](https://music.yandex.ru/track/149180232)
 - [Гравитация - Bumble Beezy](https://music.yandex.ru/track/46844321)
 - [Big Gain Time - Bumble Beezy](https://music.yandex.ru/track/46844320)
+- [Blue Blood - Bumble Beezy](https://music.yandex.ru/track/46844319)
