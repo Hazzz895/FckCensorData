@@ -1077,3 +1077,4 @@
 - [Gikaiu, Mazhet - OG Buda](https://music.yandex.ru/track/119923186)
 - [Футфетиш - OG Buda, MC Кальмар](https://music.yandex.ru/track/138412039)
 - [Лазерный - OG Buda](https://music.yandex.ru/track/129683733)
+- [Cristal & МОЁТ - MORGENSHTERN, SODA LUV, blago white, OG Buda, MAYOT](https://music.yandex.ru/track/82890465)
