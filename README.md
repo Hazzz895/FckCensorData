@@ -1046,3 +1046,4 @@
 - [TOKYO WATER - Heronwater](https://music.yandex.ru/track/136267325)
 - [В миноре (Prod. by Wex & Lawzy) - Heronwater](https://music.yandex.ru/track/108857579)
 - [2033 - Heronwater](https://music.yandex.ru/track/112045232)
+- [Рок стар - Heronwater](https://music.yandex.ru/track/114084879)
