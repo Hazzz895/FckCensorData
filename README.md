@@ -1050,3 +1050,4 @@
 - [BEAST MODE - Heronwater](https://music.yandex.ru/track/135590034)
 - [Как ты там? - Устала курить, Heronwater](https://music.yandex.ru/track/116970155)
 - [ШАЛМАН - BOOKER, STED.D](https://music.yandex.ru/track/129054544)
+- [ГНОМЫ - ЯМАУГЛИ, Murcielago Santana, Zheka.otkz, Young Bumer](https://music.yandex.ru/track/134265216)
