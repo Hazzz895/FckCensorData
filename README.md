@@ -1069,3 +1069,4 @@
 - [JOOT' - SALUKI, 104](https://music.yandex.ru/track/81537226)
 - [Тупик - SALUKI, ROCKET](https://music.yandex.ru/track/48950737)
 - [Чемпионы - Polyana, OG Buda, MAYOT, Молодой калуга, 163ONMYNECK](https://music.yandex.ru/track/131210884)
+- [Слёзы Аиши (First Day Out) - OG Buda](https://music.yandex.ru/track/134997166)
