@@ -1073,3 +1073,4 @@
 - [Большие Бабки - Scally Milano, OG Buda](https://music.yandex.ru/track/103844887)
 - [Doodle Jump - Слава КПСС, OG Buda](https://music.yandex.ru/track/133429866)
 - [Коричневые - 163ONMYNECK, OG Buda](https://music.yandex.ru/track/119296533)
+- [Млечный путь - Платина, OG Buda](https://music.yandex.ru/track/148716915)
