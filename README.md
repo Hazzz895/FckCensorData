@@ -1095,3 +1095,4 @@
 - [Blue Blood - Bumble Beezy](https://music.yandex.ru/track/46844319)
 - [Groupie Town - Bumble Beezy](https://music.yandex.ru/track/46844318)
 - [GOAT - Bumble Beezy](https://music.yandex.ru/track/46844317)
+- [Какой парень - Bumble Beezy](https://music.yandex.ru/track/44368106)
