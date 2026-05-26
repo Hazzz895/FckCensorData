@@ -1057,3 +1057,4 @@
 - [ВСТРЕТИМСЯ У КАССЫ - SALUKI](https://music.yandex.ru/track/112996880)
 - [LAGG OUT - SALUKI, ATL](https://music.yandex.ru/track/111923527)
 - [ЗВУЧИТ КАК ПЛАН (KREEM’S INTRO) - SALUKI](https://music.yandex.ru/track/112996876)
+- [BOY$ - SALUKI, FEDUK, FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/112996875)
