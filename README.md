@@ -1103,3 +1103,4 @@
 - [Degenerat - Джарахов, MORGENSHTERN](https://music.yandex.ru/track/77143804)
 - [DALEKO - MORGENSHTERN, Aarne](https://music.yandex.ru/track/105630453)
 - [IA UBIL MARKA - MORGENSHTERN](https://music.yandex.ru/track/108721702)
+- [Мертвенно-бледный - voidvoice717](https://music.yandex.ru/track/123726329)
