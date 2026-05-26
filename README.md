@@ -1086,3 +1086,4 @@
 - [Больше стаффа - GUF](https://music.yandex.ru/track/27323560)
 - [Новогодняя - GUF](https://music.yandex.ru/track/42498653)
 - [Дома - GUF, Ба](https://music.yandex.ru/track/27323574)
+- [Туман - GUF](https://music.yandex.ru/track/150820029)
