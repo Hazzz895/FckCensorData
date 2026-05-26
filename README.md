@@ -1031,3 +1031,4 @@
 - [Кто за? - Metox](https://music.yandex.ru/track/112035753)
 - [TITTY MILK - SQWOZ BAB](https://music.yandex.ru/track/116357690)
 - [орви шансон - бэйби гога](https://music.yandex.ru/track/135706401)
+- [White Monster UwU - Denks](https://music.yandex.ru/track/139046051)
