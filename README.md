@@ -1040,3 +1040,4 @@
 - [MoneyDay - FORTUNA 812](https://music.yandex.ru/track/136101925)
 - [kazantip70rus - диссоциативное расстройство](https://music.yandex.ru/track/140712545)
 - [Рамок нет - Скриптонит, FEDUK](https://music.yandex.ru/track/81747372)
+- [Весенняя - Murda Killa, Саша Скул](https://music.yandex.ru/track/107972749)
