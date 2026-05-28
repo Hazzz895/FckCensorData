@@ -1140,3 +1140,4 @@
 - [Не лезь ко мне - STED.D, playingtheangel](https://music.yandex.ru/track/39779902)
 - [ИДУ ЗА ТОБОЙ - STED.D, ЕГОР НАТС](https://music.yandex.ru/track/73939474)
 - [No Coco Senior Please - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/138562786)
+- [Legko Li Byt' Molodym - CENTR](https://music.yandex.ru/track/38788303)
