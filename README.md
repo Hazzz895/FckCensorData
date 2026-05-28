@@ -1129,3 +1129,4 @@
 - [Исаакий Флоу - Слава КПСС](https://music.yandex.ru/track/145192512)
 - [Я остаюсь - Слава КПСС](https://music.yandex.ru/track/131794591)
 - [T&A - huzzy b](https://music.yandex.ru/track/117472918)
+- [La Vida Loca - Тони Раут, Yltramarine](https://music.yandex.ru/track/95505944)
