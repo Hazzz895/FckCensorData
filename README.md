@@ -1146,3 +1146,4 @@
 - [So Icy Nihao - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556488)
 - [City Boy Life - Aarne, Big Baby Tape, BUSHIDO ZHO](https://music.yandex.ru/track/118618032)
 - [BROTHA BROTHA - SALUKI, Boulevard Depo](https://music.yandex.ru/track/112996867)
+- [BOLOTO - SALUKI, БИЛИК, Брутто](https://music.yandex.ru/track/112996879)
