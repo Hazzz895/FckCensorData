@@ -1133,3 +1133,4 @@
 - [Vigilante - SODA LUV](https://music.yandex.ru/track/119043915)
 - [Гаструляция - SODA LUV, KREC](https://music.yandex.ru/track/119258438)
 - [Кошмары - playingtheangel, РЭЙДИ](https://music.yandex.ru/track/52397208)
+- [FRONTSHOTS BACKSHOTS SIDESHOTS - cowboyclicker, Austin](https://music.yandex.ru/track/148610616)
