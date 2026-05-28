@@ -1106,3 +1106,4 @@
 - [Мертвенно-бледный - voidvoice717](https://music.yandex.ru/track/123726329)
 - [ВИТОН - INSTASAMKA, MONEYKEN](https://music.yandex.ru/track/70975421)
 - [No Thanks - Слава КПСС](https://music.yandex.ru/track/117219730)
+- [AntiH - Слава КПСС](https://music.yandex.ru/track/133429873)
