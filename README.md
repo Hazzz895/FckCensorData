@@ -1117,3 +1117,4 @@
 - [Cold Money - Слава КПСС](https://music.yandex.ru/track/145192519)
 - [Лига чемпионов панчей - Слава КПСС, Palmdropov](https://music.yandex.ru/track/145192511)
 - [Хит Леджер - Слава КПСС](https://music.yandex.ru/track/131794600)
+- [Деньги и Бог - Слава КПСС](https://music.yandex.ru/track/131794596)
