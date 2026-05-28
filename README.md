@@ -1105,3 +1105,4 @@
 - [IA UBIL MARKA - MORGENSHTERN](https://music.yandex.ru/track/108721702)
 - [Мертвенно-бледный - voidvoice717](https://music.yandex.ru/track/123726329)
 - [ВИТОН - INSTASAMKA, MONEYKEN](https://music.yandex.ru/track/70975421)
+- [No Thanks - Слава КПСС](https://music.yandex.ru/track/117219730)
