@@ -1112,3 +1112,4 @@
 - [Bring Me the Horizon - Слава КПСС](https://music.yandex.ru/track/107970523)
 - [Mike Killer - Слава КПСС](https://music.yandex.ru/track/105333543)
 - [Пачка - Слава КПСС](https://music.yandex.ru/track/107970516)
+- [Дубай - Слава КПСС, GOKILLA](https://music.yandex.ru/track/107970506)
