@@ -1131,3 +1131,4 @@
 - [T&A - huzzy b](https://music.yandex.ru/track/117472918)
 - [La Vida Loca - Тони Раут, Yltramarine](https://music.yandex.ru/track/95505944)
 - [Vigilante - SODA LUV](https://music.yandex.ru/track/119043915)
+- [Гаструляция - SODA LUV, KREC](https://music.yandex.ru/track/119258438)
