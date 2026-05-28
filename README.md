@@ -1114,3 +1114,4 @@
 - [Пачка - Слава КПСС](https://music.yandex.ru/track/107970516)
 - [Дубай - Слава КПСС, GOKILLA](https://music.yandex.ru/track/107970506)
 - [Ангельское True - Слава КПСС](https://music.yandex.ru/track/107970505)
+- [Cold Money - Слава КПСС](https://music.yandex.ru/track/145192519)
