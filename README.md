@@ -1138,3 +1138,4 @@
 - [КУБИК ЛЬДА - GONE.Fludd](https://music.yandex.ru/track/40498601)
 - [Загадка - Легенды Про, CENTR](https://music.yandex.ru/track/38436677)
 - [Не лезь ко мне - STED.D, playingtheangel](https://music.yandex.ru/track/39779902)
+- [ИДУ ЗА ТОБОЙ - STED.D, ЕГОР НАТС](https://music.yandex.ru/track/73939474)
