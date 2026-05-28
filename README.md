@@ -1126,3 +1126,4 @@
 - [Rave Эзотерика - Слава КПСС](https://music.yandex.ru/track/114440643)
 - [Дискотека Овсянкин - ЗАМАЙ, Слава КПСС](https://music.yandex.ru/track/86505315)
 - [Девочка-милф - Слава КПСС](https://music.yandex.ru/track/114440638)
+- [Исаакий Флоу - Слава КПСС](https://music.yandex.ru/track/145192512)
