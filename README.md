@@ -1149,3 +1149,4 @@
 - [BOLOTO - SALUKI, БИЛИК, Брутто](https://music.yandex.ru/track/112996879)
 - [BIIG - SALUKI](https://music.yandex.ru/track/132723446)
 - [DOGS - SALUKI, BUSHIDO ZHO](https://music.yandex.ru/track/132723447)
+- [СЛАДОСТИ - GONE.Fludd](https://music.yandex.ru/track/40498610)
