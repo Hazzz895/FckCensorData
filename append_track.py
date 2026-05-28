@@ -85,16 +85,18 @@ def start_appending(id, track_name=None, url=None):
     print(f'Successfully added track {track_name}\n')
     
 if supabase_secret_token:
-    response = requests.get("https://pzomqvgckpgkshxhpite.supabase.co/rest/v1/reported_tracks?select=*&limit=10000", headers={
+    SUPABASE_BASE_URL = "https://pzomqvgckpgkshxhpite.supabase.co/rest/v1"
+    supabase_headers = {
         "apikey": supabase_secret_token,
         "Authorization": f"Bearer {supabase_secret_token}",
         "Content-Type": "application/json"
-    })
+    }
+    response = requests.get(SUPABASE_BASE_URL + "/reported_tracks?select=*&limit=10000", headers=supabase_headers)
     reports = response.json()
     
     try:
-        with open('rejected_tracks.dev.txt', 'r', encoding='utf-8') as f:
-            rejected_tracks = [line.strip() for line in f if line.strip()]
+        response = requests.get(SUPABASE_BASE_URL + "/rejected_tracks?select=*&limit=10000", headers=supabase_headers)
+        rejected_tracks = [x["track_id"] for x in response.json()]
     except FileNotFoundError:
         rejected_tracks =[]
     
@@ -134,8 +136,7 @@ if supabase_secret_token:
         dk = input(" - track url ")
         if dk == "":
             rejected_tracks.append(id)
-            with open('rejected_tracks.dev.txt', 'a', encoding='utf-8') as f:
-                f.write(id + '\n')
+            requests.post(SUPABASE_BASE_URL + "/rejected_tracks", json={"track_id": id}, headers=supabase_headers)
             print("Rejected.")
         elif dk == "skip":
             continue
