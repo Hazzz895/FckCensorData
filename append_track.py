@@ -96,7 +96,7 @@ if supabase_secret_token:
     
     try:
         response = requests.get(SUPABASE_BASE_URL + "/rejected_tracks?select=*&limit=10000", headers=supabase_headers)
-        rejected_tracks = [x["track_id"] for x in response.json()]
+        rejected_tracks = [str(x["track_id"]) for x in response.json()]
     except FileNotFoundError:
         rejected_tracks =[]
     
