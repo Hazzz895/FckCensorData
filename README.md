@@ -1143,3 +1143,4 @@
 - [Legko Li Byt' Molodym - CENTR](https://music.yandex.ru/track/38788303)
 
 - [AIST - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/138562779)
+- [So Icy Nihao - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556488)
