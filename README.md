@@ -1121,3 +1121,4 @@
 - [Элизиум - Слава КПСС](https://music.yandex.ru/track/131794593)
 - [Мои пацаны - Слава КПСС](https://music.yandex.ru/track/131794592)
 - [Страна-Гангстер - Слава КПСС](https://music.yandex.ru/track/131794589)
+- [Обезбол - Слава КПСС](https://music.yandex.ru/track/78489537)
