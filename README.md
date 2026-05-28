@@ -1107,3 +1107,4 @@
 - [ВИТОН - INSTASAMKA, MONEYKEN](https://music.yandex.ru/track/70975421)
 - [No Thanks - Слава КПСС](https://music.yandex.ru/track/117219730)
 - [AntiH - Слава КПСС](https://music.yandex.ru/track/133429873)
+- [Swag - Слава КПСС, The Chemodan](https://music.yandex.ru/track/133429868)
