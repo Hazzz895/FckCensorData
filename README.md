@@ -1109,3 +1109,4 @@
 - [AntiH - Слава КПСС](https://music.yandex.ru/track/133429873)
 - [Swag - Слава КПСС, The Chemodan](https://music.yandex.ru/track/133429868)
 - [Солнце - Слава КПСС](https://music.yandex.ru/track/78489534)
+- [Bring Me the Horizon - Слава КПСС](https://music.yandex.ru/track/107970523)
