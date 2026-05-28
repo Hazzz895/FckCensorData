@@ -1125,3 +1125,4 @@
 - [Золотой храм - Слава КПСС](https://music.yandex.ru/track/78489529)
 - [Rave Эзотерика - Слава КПСС](https://music.yandex.ru/track/114440643)
 - [Дискотека Овсянкин - ЗАМАЙ, Слава КПСС](https://music.yandex.ru/track/86505315)
+- [Девочка-милф - Слава КПСС](https://music.yandex.ru/track/114440638)
