@@ -1119,3 +1119,4 @@
 - [Хит Леджер - Слава КПСС](https://music.yandex.ru/track/131794600)
 - [Деньги и Бог - Слава КПСС](https://music.yandex.ru/track/131794596)
 - [Элизиум - Слава КПСС](https://music.yandex.ru/track/131794593)
+- [Мои пацаны - Слава КПСС](https://music.yandex.ru/track/131794592)
