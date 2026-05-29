@@ -1175,3 +1175,4 @@
 - [CARPE DIEM - STED.D](https://music.yandex.ru/track/91519009)
 - [Сага о маяках и скалах - pyrokinesis, STED.D](https://music.yandex.ru/track/41900814)
 - [ФИНИТА - STED.D, aikko](https://music.yandex.ru/track/100717938)
+- [Новый Предел - STED.D](https://music.yandex.ru/track/109125971)
