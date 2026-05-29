@@ -1154,3 +1154,4 @@
 - [Баланс - GONE.Fludd](https://music.yandex.ru/track/92607045)
 - [Бигасс - SODA LUV](https://music.yandex.ru/track/60544538)
 - [НО НЕ Я - SODA LUV, YN Jay](https://music.yandex.ru/track/112679398)
+- [Champagne 5quirt 2 - SODA LUV, ТРАВМА](https://music.yandex.ru/track/142267453)
