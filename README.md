@@ -1174,3 +1174,4 @@
 - [Кроме пустоты - STED.D, Illumate](https://music.yandex.ru/track/39779900)
 - [CARPE DIEM - STED.D](https://music.yandex.ru/track/91519009)
 - [Сага о маяках и скалах - pyrokinesis, STED.D](https://music.yandex.ru/track/41900814)
+- [ФИНИТА - STED.D, aikko](https://music.yandex.ru/track/100717938)
