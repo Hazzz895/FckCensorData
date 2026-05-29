@@ -1156,3 +1156,5 @@
 - [НО НЕ Я - SODA LUV, YN Jay](https://music.yandex.ru/track/112679398)
 - [Champagne 5quirt 2 - SODA LUV, ТРАВМА](https://music.yandex.ru/track/142267453)
 - [ЯЛРС (prod. by YG Woods, 8keey) - SODA LUV](https://music.yandex.ru/track/109051381)
+
+- [October - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/118841491)
