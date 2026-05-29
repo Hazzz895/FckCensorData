@@ -1161,3 +1161,4 @@
 - [No Rats This Time - FRIENDLY THUG 52 NGG, Yanix](https://music.yandex.ru/track/118841471)
 - [Прям с утра - Скриптонит](https://music.yandex.ru/track/81747393)
 - [Серпантин - Markul](https://music.yandex.ru/track/44121115)
+- [Гепатит, СПИД, сифилис - pyrokinesis](https://music.yandex.ru/track/55928194)
