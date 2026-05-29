@@ -1163,3 +1163,4 @@
 - [Серпантин - Markul](https://music.yandex.ru/track/44121115)
 - [Гепатит, СПИД, сифилис - pyrokinesis](https://music.yandex.ru/track/55928194)
 - [Аутруха - 163ONMYNECK](https://music.yandex.ru/track/116649710)
+- [Доллар - Whole Lotta Swag](https://music.yandex.ru/track/137240582)
