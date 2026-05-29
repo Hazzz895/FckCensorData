@@ -1169,3 +1169,4 @@
 - [Балаклава - Scally Milano](https://music.yandex.ru/track/85327088)
 - [Swag - Scally Milano, 163ONMYNECK](https://music.yandex.ru/track/97277432)
 - [Шоплифтер - 163ONMYNECK, Yanix, FEARMUCH, Scally Milano](https://music.yandex.ru/track/119296543)
+- [GLO - Scally Milano](https://music.yandex.ru/track/103844893)
