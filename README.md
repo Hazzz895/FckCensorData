@@ -1167,3 +1167,4 @@
 - [Я понимаю - BOOKER](https://music.yandex.ru/track/118111184)
 - [Мочалка (DISS MOKRIVSKIY) - BOOKER, Pochezach?](https://music.yandex.ru/track/138503834)
 - [Балаклава - Scally Milano](https://music.yandex.ru/track/85327088)
+- [Swag - Scally Milano, 163ONMYNECK](https://music.yandex.ru/track/97277432)
