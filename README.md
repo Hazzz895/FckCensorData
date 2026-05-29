@@ -1171,3 +1171,4 @@
 - [Шоплифтер - 163ONMYNECK, Yanix, FEARMUCH, Scally Milano](https://music.yandex.ru/track/119296543)
 - [GLO - Scally Milano](https://music.yandex.ru/track/103844893)
 - [Не виноват - Scally Milano](https://music.yandex.ru/track/97277434)
+- [Кроме пустоты - STED.D, Illumate](https://music.yandex.ru/track/39779900)
