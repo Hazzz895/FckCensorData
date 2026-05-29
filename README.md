@@ -1158,3 +1158,4 @@
 - [ЯЛРС (prod. by YG Woods, 8keey) - SODA LUV](https://music.yandex.ru/track/109051381)
 
 - [October - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/118841491)
+- [No Rats This Time - FRIENDLY THUG 52 NGG, Yanix](https://music.yandex.ru/track/118841471)
