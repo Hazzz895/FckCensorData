@@ -1177,3 +1177,4 @@
 - [ФИНИТА - STED.D, aikko](https://music.yandex.ru/track/100717938)
 - [Новый Предел - STED.D](https://music.yandex.ru/track/109125971)
 - [Жестко - STED.D](https://music.yandex.ru/track/118990563)
+- [Жестко - STED.D](https://music.yandex.ru/track/125243454)
