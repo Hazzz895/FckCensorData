@@ -1240,3 +1240,4 @@
 - [D3 - Элджей](https://music.yandex.ru/track/112499902)
 - [Бошки Дымятся - Элджей](https://music.yandex.ru/track/108484219)
 - [Дырки в голове - Элджей](https://music.yandex.ru/track/63027206)
+- [Затяжка - Элджей](https://music.yandex.ru/track/108484171)
