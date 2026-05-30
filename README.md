@@ -1228,3 +1228,4 @@
 - [Бандана - Платина](https://music.yandex.ru/track/148716946)
 - [Виновата сама.. - Платина](https://music.yandex.ru/track/148716110)
 - [Гоблин - Платина](https://music.yandex.ru/track/148715960)
+- [Лучший друг - rizza](https://music.yandex.ru/track/73173762)
