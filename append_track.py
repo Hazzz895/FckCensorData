@@ -118,6 +118,7 @@ if supabase_secret_token:
     
     tracks_info_dict = {str(track["id"]): track for track in tracks_info if len(track["albums"]) > 0}
     
+    reports = list({item["id"]: item for item in reports}.values())
     reports.sort(key=lambda report: tracks_info_dict[str(report["track_id"])]["albums"][0]["likes_count"] or 0 if str(report["track_id"]) in tracks_info_dict else 0, reverse=True)
     
     for i, report in enumerate(reports):
