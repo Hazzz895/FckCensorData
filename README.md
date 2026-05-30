@@ -1199,3 +1199,4 @@
 - [Broke Day - Big Baby Tape](https://music.yandex.ru/track/45439389)
 - [Карлики три - Слава КПСС](https://music.yandex.ru/track/117219736)
 - [Мертвые звезды - Слава КПСС, ЗАМАЙ](https://music.yandex.ru/track/117219721)
+- [Евгений Онегин - kizaru](https://music.yandex.ru/track/61221104)
