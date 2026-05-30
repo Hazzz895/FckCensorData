@@ -1183,3 +1183,4 @@
 - [Эми - PHARAOH](https://music.yandex.ru/track/78871330)
 - [Солнца не видно - Баста, Бумбокс](https://music.yandex.ru/track/48591644)
 - [Олимпиада 80 - Баста](https://music.yandex.ru/track/48591615)
+- [Романтик и Вандал - BUSHIDO ZHO](https://music.yandex.ru/track/119254221)
