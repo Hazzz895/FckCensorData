@@ -1220,3 +1220,4 @@
 - [Четыре - 163ONMYNECK](https://music.yandex.ru/track/119296535)
 - [MONEY TWERK - MAYOT, SEEMEE](https://music.yandex.ru/track/105382845)
 - [ТЕХНИКА (INTRO) - MAYOT, SEEMEE](https://music.yandex.ru/track/105382835)
+- [ТУПАК - MAYOT, SEEMEE](https://music.yandex.ru/track/105382853)
