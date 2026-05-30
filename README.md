@@ -1193,3 +1193,4 @@
 - [Витринный покупатель - Джон Гарик](https://music.yandex.ru/track/144973122)
 - [Шымкент - Слава КПСС, пазнякс, Slatt Savage](https://music.yandex.ru/track/145192521)
 - [Камбоджа - Слава КПСС](https://music.yandex.ru/track/145192522)
+- [Вне Зоны - Yanix, Дора](https://music.yandex.ru/track/106713246)
