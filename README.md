@@ -1235,3 +1235,4 @@
 - [осколки - rizza](https://music.yandex.ru/track/106611749)
 - [знаешь - treepside, rizza](https://music.yandex.ru/track/108797218)
 - [oduvanchik - rizza](https://music.yandex.ru/track/96567683)
+- [Exotic - playingtheangel, STED.D](https://music.yandex.ru/track/58720221)
