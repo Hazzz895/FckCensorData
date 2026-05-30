@@ -1201,3 +1201,4 @@
 - [Мертвые звезды - Слава КПСС, ЗАМАЙ](https://music.yandex.ru/track/117219721)
 - [Евгений Онегин - kizaru](https://music.yandex.ru/track/61221104)
 - [HEAVY METAL - Kai Angel, 9mice](https://music.yandex.ru/track/111402813)
+- [БАЙ БАЙ - LOVV66](https://music.yandex.ru/track/108021210)
