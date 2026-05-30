@@ -1192,3 +1192,4 @@
 - [Багира - ICEGERGERT](https://music.yandex.ru/track/137242382)
 - [Витринный покупатель - Джон Гарик](https://music.yandex.ru/track/144973122)
 - [Шымкент - Слава КПСС, пазнякс, Slatt Savage](https://music.yandex.ru/track/145192521)
+- [Камбоджа - Слава КПСС](https://music.yandex.ru/track/145192522)
