@@ -1181,3 +1181,4 @@
 
 - [Фанзона - GUF](https://music.yandex.ru/track/27317253)
 - [Эми - PHARAOH](https://music.yandex.ru/track/78871330)
+- [Солнца не видно - Баста, Бумбокс](https://music.yandex.ru/track/48591644)
