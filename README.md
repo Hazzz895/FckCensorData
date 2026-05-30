@@ -1231,3 +1231,4 @@
 - [Лучший друг - rizza](https://music.yandex.ru/track/73173762)
 - [arid - rizza](https://music.yandex.ru/track/99699702)
 - [yeah - treepside, rizza](https://music.yandex.ru/track/105157817)
+- [эй эй эй - rizza](https://music.yandex.ru/track/107544286)
