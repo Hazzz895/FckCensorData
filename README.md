@@ -1204,3 +1204,4 @@
 - [БАЙ БАЙ - LOVV66](https://music.yandex.ru/track/108021210)
 - [Голливуд - Кишлак, семьсот семь](https://music.yandex.ru/track/138756210)
 - [Luv me - BUSHIDO ZHO](https://music.yandex.ru/track/103247540)
+- [360º - Элджей](https://music.yandex.ru/track/41435392)
