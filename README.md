@@ -1198,3 +1198,4 @@
 - [Hot Wheels - Boulevard Depo, Hot Sugar](https://music.yandex.ru/track/40345286)
 - [Broke Day - Big Baby Tape](https://music.yandex.ru/track/45439389)
 - [Карлики три - Слава КПСС](https://music.yandex.ru/track/117219736)
+- [Мертвые звезды - Слава КПСС, ЗАМАЙ](https://music.yandex.ru/track/117219721)
