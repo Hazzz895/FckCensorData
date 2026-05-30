@@ -1227,3 +1227,4 @@
 - [У меня свег, у меня стиль - Платина](https://music.yandex.ru/track/148716101)
 - [Бандана - Платина](https://music.yandex.ru/track/148716946)
 - [Виновата сама.. - Платина](https://music.yandex.ru/track/148716110)
+- [Гоблин - Платина](https://music.yandex.ru/track/148715960)
