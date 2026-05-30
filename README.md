@@ -1200,3 +1200,4 @@
 - [Карлики три - Слава КПСС](https://music.yandex.ru/track/117219736)
 - [Мертвые звезды - Слава КПСС, ЗАМАЙ](https://music.yandex.ru/track/117219721)
 - [Евгений Онегин - kizaru](https://music.yandex.ru/track/61221104)
+- [HEAVY METAL - Kai Angel, 9mice](https://music.yandex.ru/track/111402813)
