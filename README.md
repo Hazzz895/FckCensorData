@@ -1186,3 +1186,4 @@
 - [Романтик и Вандал - BUSHIDO ZHO](https://music.yandex.ru/track/119254221)
 - [DREAM GARDEN - GONE.Fludd](https://music.yandex.ru/track/77381036)
 - [ЗЕЛЕНЬ - GONE.Fludd](https://music.yandex.ru/track/66668866)
+- [SOULCALIBUR LUV - GONE.Fludd](https://music.yandex.ru/track/65889392)
