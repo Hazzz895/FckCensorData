@@ -1188,3 +1188,4 @@
 - [ЗЕЛЕНЬ - GONE.Fludd](https://music.yandex.ru/track/66668866)
 - [SOULCALIBUR LUV - GONE.Fludd](https://music.yandex.ru/track/65889392)
 - [Влияние - MAYOT](https://music.yandex.ru/track/125535665)
+- [Прогресс - MAYOT, Молодой калуга](https://music.yandex.ru/track/131393823)
