@@ -1238,3 +1238,4 @@
 - [Exotic - playingtheangel, STED.D](https://music.yandex.ru/track/58720221)
 - [Rave in Grave - STED.D, pyrokinesis](https://music.yandex.ru/track/36879977)
 - [D3 - Элджей](https://music.yandex.ru/track/112499902)
+- [Бошки Дымятся - Элджей](https://music.yandex.ru/track/108484219)
