@@ -1226,3 +1226,4 @@
 - [Сан Ларан - Платина](https://music.yandex.ru/track/148716991)
 - [У меня свег, у меня стиль - Платина](https://music.yandex.ru/track/148716101)
 - [Бандана - Платина](https://music.yandex.ru/track/148716946)
+- [Виновата сама.. - Платина](https://music.yandex.ru/track/148716110)
