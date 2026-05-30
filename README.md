@@ -1223,3 +1223,4 @@
 - [ТУПАК - MAYOT, SEEMEE](https://music.yandex.ru/track/105382853)
 - [WINDOWS - SEEMEE, MAYOT](https://music.yandex.ru/track/85971524)
 - [Сан Ларан - Платина, Дора](https://music.yandex.ru/track/148716903)
+- [Сан Ларан - Платина](https://music.yandex.ru/track/148716991)
