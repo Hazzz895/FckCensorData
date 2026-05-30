@@ -1236,3 +1236,4 @@
 - [знаешь - treepside, rizza](https://music.yandex.ru/track/108797218)
 - [oduvanchik - rizza](https://music.yandex.ru/track/96567683)
 - [Exotic - playingtheangel, STED.D](https://music.yandex.ru/track/58720221)
+- [Rave in Grave - STED.D, pyrokinesis](https://music.yandex.ru/track/36879977)
