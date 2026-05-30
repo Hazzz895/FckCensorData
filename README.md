@@ -1206,3 +1206,4 @@
 - [Luv me - BUSHIDO ZHO](https://music.yandex.ru/track/103247540)
 - [360º - Элджей](https://music.yandex.ru/track/41435392)
 - [Кайфариат - Big Russian Boss, SQWOZ BAB](https://music.yandex.ru/track/58478014)
+- [Рахат Лукум - SQWOZ BAB](https://music.yandex.ru/track/61638510)
