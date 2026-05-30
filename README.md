@@ -1190,3 +1190,4 @@
 - [Влияние - MAYOT](https://music.yandex.ru/track/125535665)
 - [Прогресс - MAYOT, Молодой калуга](https://music.yandex.ru/track/131393823)
 - [Багира - ICEGERGERT](https://music.yandex.ru/track/137242382)
+- [Витринный покупатель - Джон Гарик](https://music.yandex.ru/track/144973122)
