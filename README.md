@@ -1243,3 +1243,4 @@
 - [Затяжка - Элджей](https://music.yandex.ru/track/108484171)
 - [Suzuki - Элджей](https://music.yandex.ru/track/40038183)
 - [Дистанция - Элджей](https://music.yandex.ru/track/108484225)
+- [Подруга - кис-кис](https://music.yandex.ru/track/50941920)
