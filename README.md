@@ -1270,3 +1270,4 @@
 - [На сука - Джон Гарик](https://music.yandex.ru/track/133174453)
 - [Дружба - Джон Гарик](https://music.yandex.ru/track/133174437)
 - [HUMANSUIT - GONE.Fludd](https://music.yandex.ru/track/55376891)
+- [SERIAL CHILLER - GONE.Fludd](https://music.yandex.ru/track/38976044)
