@@ -1273,3 +1273,4 @@
 - [SERIAL CHILLER - GONE.Fludd](https://music.yandex.ru/track/38976044)
 - [ZERO TOLER - GONE.Fludd](https://music.yandex.ru/track/143629775)
 - [Призрачная леди - GONE.Fludd](https://music.yandex.ru/track/38563414)
+- [Вечно 17 - pyrokinesis](https://music.yandex.ru/track/41900788)
