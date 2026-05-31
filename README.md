@@ -1266,3 +1266,4 @@
 - [daite vypilitsia tut - лиззз](https://music.yandex.ru/track/107329124)
 - [Фриланс - Ksenon, Молнит](https://music.yandex.ru/track/124889466)
 - [Дубчик - Джон Гарик](https://music.yandex.ru/track/133174448)
+- [Биография - Джон Гарик](https://music.yandex.ru/track/133174434)
