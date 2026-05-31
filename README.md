@@ -1264,3 +1264,4 @@
 - [тихий район - лиззз](https://music.yandex.ru/track/108050042)
 - [очень мила - лиззз](https://music.yandex.ru/track/113502393)
 - [daite vypilitsia tut - лиззз](https://music.yandex.ru/track/107329124)
+- [Фриланс - Ksenon, Молнит](https://music.yandex.ru/track/124889466)
