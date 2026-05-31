@@ -1252,3 +1252,4 @@
 - [Заводи мотор - playingtheangel, МУККА](https://music.yandex.ru/track/73375313)
 - [Я хороший - YUNG TRAPPA](https://music.yandex.ru/track/53582343)
 - [Splinter Cell - YUNG TRAPPA](https://music.yandex.ru/track/53685453)
+- [Блант дую - YUNG TRAPPA](https://music.yandex.ru/track/53586382)
