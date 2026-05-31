@@ -1250,3 +1250,4 @@
 - [Grind - Bumble Beezy, Niki L](https://music.yandex.ru/track/149171825)
 - [НАШЁЛ ВЫХОД - ТРОЕТОЧИЕ](https://music.yandex.ru/track/128738466)
 - [Заводи мотор - playingtheangel, МУККА](https://music.yandex.ru/track/73375313)
+- [Я хороший - YUNG TRAPPA](https://music.yandex.ru/track/53582343)
