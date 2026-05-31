@@ -1281,3 +1281,4 @@
 - [ia edu v piter - Поларойд](https://music.yandex.ru/track/138041649)
 - [Slappy Tap - Baby Melo](https://music.yandex.ru/track/118415641)
 - [Уралрэп - ЧБ](https://music.yandex.ru/track/75112280)
+- [ot tebya pret - koonki, аллергия на котов](https://music.yandex.ru/track/143058948)
