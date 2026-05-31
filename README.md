@@ -1267,3 +1267,4 @@
 - [Фриланс - Ksenon, Молнит](https://music.yandex.ru/track/124889466)
 - [Дубчик - Джон Гарик](https://music.yandex.ru/track/133174448)
 - [Биография - Джон Гарик](https://music.yandex.ru/track/133174434)
+- [На сука - Джон Гарик](https://music.yandex.ru/track/133174453)
