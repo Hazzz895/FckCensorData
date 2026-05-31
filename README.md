@@ -1288,3 +1288,4 @@
 - [Сеня - ФРЭНК](https://music.yandex.ru/track/139307354)
 - [Pomoika - шумные и угрожающие выходки](https://music.yandex.ru/track/71766713)
 - [Молодую - Вандер Фил](https://music.yandex.ru/track/35208794)
+- [Стоник - whitek3d](https://music.yandex.ru/track/143319429)
