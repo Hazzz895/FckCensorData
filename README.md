@@ -1291,3 +1291,5 @@
 - [Стоник - whitek3d](https://music.yandex.ru/track/143319429)
 - [English - whitek3d](https://music.yandex.ru/track/140701191)
 - [Не поменяет - whitek3d](https://music.yandex.ru/track/136904441)
+
+- [Я не улыбаюсь - Скриптонит, Юрик Четверг](https://music.yandex.ru/track/48592479)
