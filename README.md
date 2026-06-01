@@ -1294,3 +1294,4 @@
 
 - [Я не улыбаюсь - Скриптонит, Юрик Четверг](https://music.yandex.ru/track/48592479)
 - [КАК ДЕЛИШКИ  [Guitar by ANTON BENDER] - GONE.Fludd](https://music.yandex.ru/track/66668868)
+- [Message - kizaru](https://music.yandex.ru/track/61221106)
