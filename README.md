@@ -1328,3 +1328,4 @@
 - [Беседа - 163ONMYNECK, Scally Milano](https://music.yandex.ru/track/119296538)
 - [Бермудский треугольник - АК-47, Ноггано](https://music.yandex.ru/track/132020394)
 - [Умру в своём Питере - BOOKER](https://music.yandex.ru/track/118111189)
+- [Животные - Скриптонит](https://music.yandex.ru/track/48592132)
