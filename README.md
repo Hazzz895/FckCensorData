@@ -1322,3 +1322,4 @@
 - [Вооружен и опасен - Big Russian Boss](https://music.yandex.ru/track/102505200)
 - [Скам - Scally Milano](https://music.yandex.ru/track/85327086)
 - [REFERENCE / БОЛЬШОЙ ШАГАТЕЛЬ - SODA LUV](https://music.yandex.ru/track/112679389)
+- [Не в тусе - Aarne, Платина](https://music.yandex.ru/track/73447516)
