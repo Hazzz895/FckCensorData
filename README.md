@@ -1306,3 +1306,4 @@
 - [hermaeus mora - fleurnothappy](https://music.yandex.ru/track/129167650)
 - [больно - fleurnothappy](https://music.yandex.ru/track/125980128)
 - [однажды - fleurnothappy](https://music.yandex.ru/track/135767964)
+- [На моём месте - MAYOT](https://music.yandex.ru/track/110023293)
