@@ -1309,3 +1309,4 @@
 - [На моём месте - MAYOT](https://music.yandex.ru/track/110023293)
 - [По другому - MAYOT](https://music.yandex.ru/track/131393819)
 - [Чё я за тип? - MAYOT](https://music.yandex.ru/track/131393817)
+- [Сальто - MAYOT](https://music.yandex.ru/track/125535663)
