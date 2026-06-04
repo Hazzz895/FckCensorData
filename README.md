@@ -1318,3 +1318,4 @@
 - [Г.а.р.и.к - Джон Гарик](https://music.yandex.ru/track/133174452)
 - [Joe Biden (M&M's) - BUSHIDO ZHO](https://music.yandex.ru/track/119560551)
 - [Люли - Жак Энтони](https://music.yandex.ru/track/39577642)
+- [Аристократ Флоу - THRILL PILL](https://music.yandex.ru/track/59575374)
