@@ -1330,3 +1330,4 @@
 - [Умру в своём Питере - BOOKER](https://music.yandex.ru/track/118111189)
 - [Животные - Скриптонит](https://music.yandex.ru/track/48592132)
 - [Почти всегда - Kuznetsky Squad](https://music.yandex.ru/track/42976442)
+- [порезы на руках - FORTUNA 812, elox1m](https://music.yandex.ru/track/152140598)
