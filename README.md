@@ -1331,3 +1331,4 @@
 - [Животные - Скриптонит](https://music.yandex.ru/track/48592132)
 - [Почти всегда - Kuznetsky Squad](https://music.yandex.ru/track/42976442)
 - [порезы на руках - FORTUNA 812, elox1m](https://music.yandex.ru/track/152140598)
+- [Сквад - Kuznetsky Squad](https://music.yandex.ru/track/36879868)
