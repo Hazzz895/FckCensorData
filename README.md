@@ -1342,3 +1342,4 @@
 - [Мучаешь - OG Buda](https://music.yandex.ru/track/113140441)
 - [ice ice ice - Aarne, NLE Choppa, Imanbek](https://music.yandex.ru/track/118618031)
 - [Coldest Man - Big Baby Tape, Aarne](https://music.yandex.ru/track/127365608)
+- [Training Day - Big Baby Tape, Aarne](https://music.yandex.ru/track/127365607)
