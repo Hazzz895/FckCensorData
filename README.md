@@ -1376,3 +1376,4 @@
 - [IMYA - 9mice](https://music.yandex.ru/track/113990664)
 - [humble - 9mice](https://music.yandex.ru/track/144098513)
 - [LOTTA VOLKOVA - 9mice](https://music.yandex.ru/track/97809794)
+- [THE HOST / TWO - huzzy b](https://music.yandex.ru/track/118366954)
