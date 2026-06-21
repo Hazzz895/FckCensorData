@@ -1370,3 +1370,4 @@
 - [Зря я туда полез - dabbackwood](https://music.yandex.ru/track/115774657)
 - [Глаз императора - dabbackwood](https://music.yandex.ru/track/115649643)
 - [ЗАЧЕМ ТОГДА Я ВЛИП НА ГРАММЫ - dabbackwood](https://music.yandex.ru/track/132344559)
+- [Хроники 1 - dabbackwood](https://music.yandex.ru/track/119454081)
