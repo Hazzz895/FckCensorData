@@ -1367,3 +1367,4 @@
 - [^__^ ;D :3 - OG Buda](https://music.yandex.ru/track/104242351)
 - [YSL THUG - OG Buda](https://music.yandex.ru/track/119280173)
 - [Сделай Мне Приятно Щас - OG Buda](https://music.yandex.ru/track/128253247)
+- [Зря я туда полез - dabbackwood](https://music.yandex.ru/track/115774657)
