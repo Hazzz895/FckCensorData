@@ -1340,3 +1340,4 @@
 - [Ride Or Die - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556501)
 - [Andrew Story - Big Baby Tape, kizaru](https://music.yandex.ru/track/93556499)
 - [Мучаешь - OG Buda](https://music.yandex.ru/track/113140441)
+- [ice ice ice - Aarne, NLE Choppa, Imanbek](https://music.yandex.ru/track/118618031)
