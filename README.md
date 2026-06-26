@@ -1379,3 +1379,4 @@
 - [THE HOST / TWO - huzzy b](https://music.yandex.ru/track/118366954)
 
 - [прыгай, дура! - CUPSIZE](https://music.yandex.ru/track/151855603)
+- [2021 - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/138562791)
