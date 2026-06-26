@@ -1381,3 +1381,4 @@
 - [прыгай, дура! - CUPSIZE](https://music.yandex.ru/track/151855603)
 - [2021 - FRIENDLY THUG 52 NGG](https://music.yandex.ru/track/138562791)
 - [Зеркало - Баста, GUF](https://music.yandex.ru/track/48591480)
+- [Haunted House - Aarne, Big Baby Tape, kizaru](https://music.yandex.ru/track/118618025)
