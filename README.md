@@ -1392,3 +1392,4 @@
 - [lezvie - Psychosis](https://music.yandex.ru/album/35279019/track/135840588)
 - [самый веселый умолк - Psychosis, Мокери](https://music.yandex.ru/track/111298759)
 - [сад лайф - Psychosis](https://music.yandex.ru/track/111298763)
+- [эвтаназия - Psychosis, pavshiy](https://music.yandex.ru/track/111298757)
