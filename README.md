@@ -1388,3 +1388,5 @@
 - [ЧУВСТВА - Aarne, BUSHIDO ZHO, ATL, АДЛИН](https://music.yandex.ru/track/129501470)
 - [ДОМОФОН / ЧИЧА - MORGENSHTERN](https://music.yandex.ru/track/61693505)
 - [если ты умрешь - Psychosis, PSYCHOKID](https://music.yandex.ru/track/117073398)
+- [psychowave - Psychosis, killaheelz, Апология](https://music.yandex.ru/album/23764506/track/108005390)
+- [lezvie - Psychosis](https://music.yandex.ru/album/35279019/track/135840588)
