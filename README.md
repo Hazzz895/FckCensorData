@@ -1390,3 +1390,4 @@
 - [если ты умрешь - Psychosis, PSYCHOKID](https://music.yandex.ru/track/117073398)
 - [psychowave - Psychosis, killaheelz, Апология](https://music.yandex.ru/album/23764506/track/108005390)
 - [lezvie - Psychosis](https://music.yandex.ru/album/35279019/track/135840588)
+- [самый веселый умолк - Psychosis, Мокери](https://music.yandex.ru/track/111298759)
