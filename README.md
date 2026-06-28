@@ -1393,3 +1393,4 @@
 - [самый веселый умолк - Psychosis, Мокери](https://music.yandex.ru/track/111298759)
 - [сад лайф - Psychosis](https://music.yandex.ru/track/111298763)
 - [эвтаназия - Psychosis, pavshiy](https://music.yandex.ru/track/111298757)
+- [выстрел - Psychosis, Мокери](https://music.yandex.ru/track/111298760)
