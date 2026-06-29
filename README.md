@@ -1397,3 +1397,4 @@
 - [Выходные - Скриптонит](https://music.yandex.ru/track/61843270)
 - [КОГДА НАС ОТПУСТИТ - MORGENSHTERN](https://music.yandex.ru/track/83836719)
 - [PULL UP - MORGENSHTERN](https://music.yandex.ru/track/83836721)
+- [Скучно - Кишлак](https://music.yandex.ru/track/119057929)
