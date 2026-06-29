@@ -1388,3 +1388,4 @@
 - [ЧУВСТВА - Aarne, BUSHIDO ZHO, ATL, АДЛИН](https://music.yandex.ru/track/129501470)
 - [ДОМОФОН / ЧИЧА - MORGENSHTERN](https://music.yandex.ru/track/61693505)
 - [90 - Монеточка](https://music.yandex.ru/track/41249164)
+- [будка - CUPSIZE](https://music.yandex.ru/track/151855581)
