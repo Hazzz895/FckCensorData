@@ -1396,3 +1396,4 @@
 - [Колёса - Скриптонит](https://music.yandex.ru/track/61843247)
 - [Выходные - Скриптонит](https://music.yandex.ru/track/61843270)
 - [КОГДА НАС ОТПУСТИТ - MORGENSHTERN](https://music.yandex.ru/track/83836719)
+- [PULL UP - MORGENSHTERN](https://music.yandex.ru/track/83836721)
