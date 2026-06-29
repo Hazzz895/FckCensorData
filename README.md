@@ -1391,3 +1391,4 @@
 - [будка - CUPSIZE](https://music.yandex.ru/track/151855581)
 - [семнадцать ножевых - CUPSIZE](https://music.yandex.ru/track/151855578)
 - [Цепи - Скриптонит, 104](https://music.yandex.ru/track/48592062)
+- [LOCATION - MORGENSHTERN, Элджей](https://music.yandex.ru/track/108127271)
