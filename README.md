@@ -1398,3 +1398,4 @@
 - [Мелисса / Моя сука - PHARAOH](https://music.yandex.ru/track/36063273)
 - [Ринопластика (Surgery) - 9mice, Kai Angel](https://music.yandex.ru/track/130919931)
 - [I Wanna Be Your Dog - 9mice, Kai Angel](https://music.yandex.ru/track/130919969)
+- [No Fear - 9mice](https://music.yandex.ru/track/152439616)
