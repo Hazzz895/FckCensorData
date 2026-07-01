@@ -1403,3 +1403,4 @@
 - [Один дома - Платина](https://music.yandex.ru/track/148716140)
 - [У меня свег, у меня стиль - Платина](https://music.yandex.ru/track/124469833)
 - [Время на веселье - Платина](https://music.yandex.ru/track/124469828)
+- [Завидуют - Платина](https://music.yandex.ru/track/124469850)
