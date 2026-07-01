@@ -1400,3 +1400,4 @@
 - [I Wanna Be Your Dog - 9mice, Kai Angel](https://music.yandex.ru/track/130919969)
 - [No Fear - 9mice](https://music.yandex.ru/track/152439616)
 - [Баленсиага парень (Боттега Бой) - Платина](https://music.yandex.ru/track/148716115)
+- [Один дома - Платина](https://music.yandex.ru/track/148716140)
