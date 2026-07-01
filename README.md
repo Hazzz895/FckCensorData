@@ -1401,3 +1401,4 @@
 - [No Fear - 9mice](https://music.yandex.ru/track/152439616)
 - [Баленсиага парень (Боттега Бой) - Платина](https://music.yandex.ru/track/148716115)
 - [Один дома - Платина](https://music.yandex.ru/track/148716140)
+- [У меня свег, у меня стиль - Платина](https://music.yandex.ru/track/124469833)
