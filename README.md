@@ -1407,3 +1407,4 @@
 - [В темноте - Платина](https://music.yandex.ru/track/148716970)
 - [Как первый раз - Платина](https://music.yandex.ru/track/148716984)
 - [Питер Пэн - Платина](https://music.yandex.ru/track/148716980)
+- [О***** Круг - Платина](https://music.yandex.ru/track/148716953)
