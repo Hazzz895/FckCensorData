@@ -1432,3 +1432,4 @@
 - [лучше я промолчу - morphy](https://music.yandex.ru/track/134699697)
 - [моя жизнь казалась хуже - morphy](https://music.yandex.ru/track/144991744)
 - [это стало модно - morphy](https://music.yandex.ru/track/134699699)
+- [Seminar - Whole Lotta Swag](https://music.yandex.ru/track/108743561)
