@@ -1435,3 +1435,4 @@
 - [Seminar - Whole Lotta Swag](https://music.yandex.ru/track/108743561)
 - [Тоска - Whole Lotta Swag](https://music.yandex.ru/track/137240585)
 - [Бывает - Whole Lotta Swag](https://music.yandex.ru/track/118251364)
+- [Не легко - Whole Lotta Swag](https://music.yandex.ru/track/111618481)
