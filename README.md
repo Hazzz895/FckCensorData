@@ -1453,3 +1453,4 @@
 - [Шипучка - PHARAOH, Big Baby Tape](https://music.yandex.ru/track/42832397)
 - [1996 - PHARAOH](https://music.yandex.ru/track/42832398)
 - [Легенды Зельды - OG Buda, Big Baby Tape](https://music.yandex.ru/track/59933963)
+- [Кумир - OG Buda, Polyana](https://music.yandex.ru/track/59933949)
