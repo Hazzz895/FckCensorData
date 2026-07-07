@@ -1446,3 +1446,4 @@
 - [Золушка - ЛСП](https://music.yandex.ru/track/70975546)
 - [Именно такой'20 - ЛСП](https://music.yandex.ru/track/70975550)
 - [Нонсенс - Кишлак](https://music.yandex.ru/track/93012505)
+- [Угу - Кишлак](https://music.yandex.ru/track/93012514)
