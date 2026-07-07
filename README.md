@@ -1451,3 +1451,4 @@
 - [БЕБЕБЕ - MORGENSHTERN](https://music.yandex.ru/track/83371036)
 - [В сухом остатке - Ноггано, Гио Пика, Словетский](https://music.yandex.ru/track/109301175)
 - [Шипучка - PHARAOH, Big Baby Tape](https://music.yandex.ru/track/42832397)
+- [1996 - PHARAOH](https://music.yandex.ru/track/42832398)
