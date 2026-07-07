@@ -1450,3 +1450,4 @@
 - [Daleko - Aarne](https://music.yandex.ru/track/106479320)
 - [БЕБЕБЕ - MORGENSHTERN](https://music.yandex.ru/track/83371036)
 - [В сухом остатке - Ноггано, Гио Пика, Словетский](https://music.yandex.ru/track/109301175)
+- [Шипучка - PHARAOH, Big Baby Tape](https://music.yandex.ru/track/42832397)
