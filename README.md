@@ -1443,3 +1443,4 @@
 - [Malo - ЕГОР КРИД](https://music.yandex.ru/track/133041135)
 - [1000 Shells - Big Baby Tape, Loco OG Rocka](https://music.yandex.ru/track/45239756)
 - [Оставь их - Скриптонит](https://music.yandex.ru/track/48592130)
+- [Золушка - ЛСП](https://music.yandex.ru/track/70975546)
