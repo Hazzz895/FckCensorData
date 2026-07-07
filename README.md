@@ -1440,3 +1440,4 @@
 
 - [Сердце </3 Время - OG Buda](https://music.yandex.ru/track/113140423)
 - [Full House - Aarne, Yanix](https://music.yandex.ru/track/118618030)
+- [Malo - ЕГОР КРИД](https://music.yandex.ru/track/133041135)
