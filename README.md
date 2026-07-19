@@ -1478,3 +1478,4 @@
 - [Гоблин - Платина](https://music.yandex.ru/track/148716143)
 - [Айсберг - Платина](https://music.yandex.ru/track/148716969)
 - [Salam - Платина](https://music.yandex.ru/track/148715965)
+- [Один дома - Платина](https://music.yandex.ru/track/124469853)
