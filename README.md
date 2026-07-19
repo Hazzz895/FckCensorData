@@ -1462,3 +1462,4 @@
 - [Естественный отбор - YUNG TRAPPA](https://music.yandex.ru/track/53839000)
 - [Kill Em All - YUNG TRAPPA](https://music.yandex.ru/track/57185852)
 - [Flow - YUNG TRAPPA](https://music.yandex.ru/track/53582342)
+- [Oh Wow Wow - YUNG TRAPPA](https://music.yandex.ru/track/53590445)
