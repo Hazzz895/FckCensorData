@@ -1471,3 +1471,4 @@
 - [Спроси моих друзей - PHARAOH](https://music.yandex.ru/track/36063272)
 - [Реквием по эго (Interlude) - PHARAOH](https://music.yandex.ru/track/36063267)
 - [Pink Phloyd - PHARAOH](https://music.yandex.ru/track/36063262)
+- [Из-за тебя - PHARAOH](https://music.yandex.ru/track/63740184)
