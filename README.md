@@ -1475,3 +1475,4 @@
 - [404 - PHARAOH](https://music.yandex.ru/track/29852766)
 - [ДНМП - PHARAOH](https://music.yandex.ru/track/79405443)
 - [Твой любимый репер - Платина](https://music.yandex.ru/track/148716127)
+- [Гоблин - Платина](https://music.yandex.ru/track/148716143)
