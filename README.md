@@ -1477,3 +1477,4 @@
 - [Твой любимый репер - Платина](https://music.yandex.ru/track/148716127)
 - [Гоблин - Платина](https://music.yandex.ru/track/148716143)
 - [Айсберг - Платина](https://music.yandex.ru/track/148716969)
+- [Salam - Платина](https://music.yandex.ru/track/148715965)
