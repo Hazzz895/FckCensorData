@@ -1473,3 +1473,4 @@
 - [Pink Phloyd - PHARAOH](https://music.yandex.ru/track/36063262)
 - [Из-за тебя - PHARAOH](https://music.yandex.ru/track/63740184)
 - [404 - PHARAOH](https://music.yandex.ru/track/29852766)
+- [ДНМП - PHARAOH](https://music.yandex.ru/track/79405443)
