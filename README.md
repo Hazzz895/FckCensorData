@@ -1490,3 +1490,4 @@
 - [Не пиши мне - aikko, katanacss, INSPACE](https://music.yandex.ru/track/117419685)
 - [устал как Петербург - INSPACE](https://music.yandex.ru/track/139325284)
 - [весна - гнилаялирика, INSPACE](https://music.yandex.ru/track/107091247)
+- [цеппелин - гнилаялирика](https://music.yandex.ru/track/141892644)
