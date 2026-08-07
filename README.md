@@ -1488,3 +1488,4 @@
 - [бинокль - INSPACE, Роки, гнилаялирика](https://music.yandex.ru/track/135234805)
 - [хороший - INSPACE](https://music.yandex.ru/track/133605488)
 - [Не пиши мне - aikko, katanacss, INSPACE](https://music.yandex.ru/track/117419685)
+- [устал как Петербург - INSPACE](https://music.yandex.ru/track/139325284)
