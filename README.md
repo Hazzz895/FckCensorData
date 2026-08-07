@@ -1492,3 +1492,4 @@
 - [весна - гнилаялирика, INSPACE](https://music.yandex.ru/track/107091247)
 - [цеппелин - гнилаялирика](https://music.yandex.ru/track/141892644)
 - [не моё - aikko, INSPACE](https://music.yandex.ru/track/127186876)
+- [дорогая проститутка - aikko, INSPACE](https://music.yandex.ru/track/100749190)
