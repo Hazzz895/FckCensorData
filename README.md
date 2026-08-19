@@ -1484,3 +1484,4 @@
 - [Fountainebleau - 9mice, Kai Angel](https://music.yandex.ru/track/130919915)
 - [ЛИЛОВЫЕ ГЛАЗА - zavet](https://music.yandex.ru/track/93570845)
 - [gotika interlude - zavet](https://music.yandex.ru/track/76780022)
+- [Дакимакура - Мэйби Бэйби](https://music.yandex.ru/track/105844299)
