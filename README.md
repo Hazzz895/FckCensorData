@@ -1486,3 +1486,5 @@
 - [gotika interlude - zavet](https://music.yandex.ru/track/76780022)
 - [Дакимакура - Мэйби Бэйби](https://music.yandex.ru/track/105844299)
 - [здоровью.нет - кис-кис](https://music.yandex.ru/track/105988815)
+
+- [Выключили свет - zavet](https://music.yandex.ru/track/63104735)
