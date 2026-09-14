@@ -1494,3 +1494,4 @@
 - [ГИДРОПОН - CUPSIZE](https://music.yandex.ru/track/110945084)
 - [Папик - CUPSIZE, 17 SEVENTEEN](https://music.yandex.ru/track/110945085)
 - [вайфуу - CUPSIZE](https://music.yandex.ru/track/110945087)
+- [я схавал опиат - CUPSIZE](https://music.yandex.ru/track/110945088)
