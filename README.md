@@ -1498,3 +1498,4 @@
 - [МОЯ МАМА ПЬЁТ - CUPSIZE](https://music.yandex.ru/track/110945090)
 - [Ты любишь травку - CUPSIZE](https://music.yandex.ru/track/110945091)
 - [Забуду - CUPSIZE](https://music.yandex.ru/track/110945092)
+- [мне похуй - CUPSIZE](https://music.yandex.ru/track/110945093)
