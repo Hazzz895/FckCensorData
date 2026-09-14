@@ -1493,3 +1493,4 @@
 - [люби меня, алина - CUPSIZE](https://music.yandex.ru/track/110945083)
 - [ГИДРОПОН - CUPSIZE](https://music.yandex.ru/track/110945084)
 - [Папик - CUPSIZE, 17 SEVENTEEN](https://music.yandex.ru/track/110945085)
+- [вайфуу - CUPSIZE](https://music.yandex.ru/track/110945087)
