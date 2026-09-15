@@ -17,7 +17,6 @@
                     "title": "Я люблю лин"
                 },
                 "145054524": {
-                    "durationMs": 123190,
                     "artists": [
                         {
                             "id": 4952161,
@@ -26,6 +25,19 @@
                     ],
                     "__fckCensor": {
                         "insertionIndex": 2
+                    }
+                },
+                "142977153": {
+                    "artists": [ 
+                        {
+                            "id": 23300354,
+                            "name": "тёмный принц"
+                        } 
+                    ],
+                    "title": "natura",
+                    "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F9f07df32a982c2ff295c12d6db8497ce.1000x1000x1.png",
+                    "__fckCensor": {
+                        "insertionIndex": 15
                     }
                 },
                 "155095252": {
