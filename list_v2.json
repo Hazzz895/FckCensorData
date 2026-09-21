@@ -147,6 +147,23 @@
                             "name": "yasssenev"
                         }
                     ]
+                },
+                "154755313": {
+                    "title": "ОТРАВЛЕН ТОБОЙ",
+                    "artists": [
+                        {
+                            "id": 16509384,
+                            "name": "Kai Angel"
+                        },
+                        {
+                            "id": 13739916,
+                            "name": "9mice"
+                        }
+                    ],
+                    "coverUri": "avatars.yandex.net/get-music-content/5853241/769fc3d0.a.24233770-1/%%",
+                    "__fckCensor": {
+                        "insertionIndex": 15
+                    }
                 }
             },
             "albums": {
