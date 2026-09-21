@@ -302,7 +302,8 @@
         "derivedColors": {},
         "ogImage": { "type": "string" },
         "specialAudioResources": { "type": "array", "items": { "type": "string" } },
-        "__fckCensor": { "$ref": "#/$defs/FckCensorSpoofData" }
+        "__fckCensor": { "$ref": "#/$defs/FckCensorSpoofData" },
+        "version": { "type": "string" }
       },
       "additionalProperties": false
     },
