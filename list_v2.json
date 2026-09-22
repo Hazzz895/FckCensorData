@@ -40,6 +40,23 @@
                         "insertionIndex": 15
                     }
                 },
+                "150770314": {
+                    "artists": [
+                        {
+                            "id": 23300354,
+                            "name": "тёмный принц"
+                        },
+                        {
+                            "id": 23812842,
+                            "name": "казу"
+                        }
+                    ],
+                    "title": "покой",
+                    "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F111c82dd22153bf1a175d6ecb857ef1c.1000x1000x1.png",
+                    "__fckCensor": {
+                        "insertionIndex": 30
+                    }
+                },
                 "150160800": {
                     "artists": [
                         {
