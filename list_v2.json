@@ -188,6 +188,19 @@
                 },
                 "91340238": {
                     "coverUri": "avatars.yandex.net/get-music-content/4382102/bb010436.a.18170107-1/%%"
+                },
+                "152396542": {
+                    "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2F5f6c2ea78da539e53539263e37ceeac4.417x412x1.jpg",
+                    "title": "Lin Ansty",
+                    "artists": [
+                        {
+                            "id": 4952161,
+                            "name": "Пошлая Молли"
+                        }
+                    ],
+                    "__fckCensor": {
+                        "insertionIndex": 23
+                    }
                 }
             },
             "albums": {
@@ -2590,7 +2603,8 @@
                         {
                             "id": 119689464,
                             "durationMs": 140016
-                        }
+                        },
+                        152396542
                     ],
                     "tracks": {
                         "149360077": "https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/149665384",
