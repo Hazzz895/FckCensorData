@@ -2607,8 +2607,8 @@
                         152396542
                     ],
                     "tracks": {
-                        "149360077": "https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/149665384",
-                        "155807913": "https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/151855578"
+                        "149360077": 149665384,
+                        "155807913": 151855578
                     }
                 }
             ]

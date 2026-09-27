@@ -55,7 +55,7 @@
           "description": "Только для альбомов и треков. Позиция вставки в профиль авторов трека начиная с нуля. Применимо только на треках и альбомах с явным указанием исполнетелей. Может быть положительным и отрицательным. Подробнее: https://github.com/Hazzz895/FckCensor/blob/v2/FAQ.md#добавление-треков-и-альбомов-в-профиль-исполнителя"
         },
         "replaceArtistsInAlbumVolumes": {
-          "type":"boolean",
+          "type": "boolean",
           "description": "Только для альбомов. Указывает нужно ли подменивать исполнителей для треков альбома, чтобы они соответствовали исполнителям альбома. Применимо только на альбомах с явным указанием исполнителей"
         },
         "audioSourceId": {
@@ -98,14 +98,19 @@
               "type": "number"
             }
           },
-          "required": ["id"]
+          "required": ["id"],
+          "additionalProperties": false
         }
       ]
     },
 
-    "TrackReplacement": {
+    "TrackDirectReplacement": {
+      "description": "Прямая ссылка на трек (когда urlTemplate отсутствует). Допускается только валидный URL.",
       "oneOf": [
-        { "type": "string" },
+        {
+          "type": "string",
+          "pattern": "^https?:\\/\\/.+"
+        },
         { 
           "type": "object",
           "properties": {
@@ -113,10 +118,36 @@
               "type": "number"
             },
             "url": {
-              "type": "string"
+              "type": "string",
+              "pattern": "^https?:\\/\\/.+"
             }
           },
-          "required": ["url"]
+          "required": ["url"],
+          "additionalProperties": false
+        }
+      ]
+    },
+
+    "TrackTemplatedReplacement": {
+      "description": "Подмена трека при наличии urlTemplate. Принимает числа либо любые строки.",
+      "oneOf": [
+        { "type": "string" },
+        { "type": "number" },
+        { 
+          "type": "object",
+          "properties": {
+            "durationMs": {
+              "type": "number"
+            },
+            "url": {
+              "oneOf": [
+                { "type": "string" },
+                { "type": "number" }
+              ]
+            }
+          },
+          "required": ["url"],
+          "additionalProperties": false
         }
       ]
     },
@@ -302,45 +333,52 @@
         "derivedColors": {},
         "ogImage": { "type": "string" },
         "specialAudioResources": { "type": "array", "items": { "type": "string" } },
-        "__fckCensor": { "$ref": "#/$defs/FckCensorSpoofData" },
-        "version": { "type": "string" }
+        "__fckCensor": { "$ref": "#/$defs/FckCensorSpoofData" }
       },
       "additionalProperties": false
     },
 
     "TracksStorage": {
       "type": "object",
-      "properties": {
-        "urlTemplate": {
-          "type": "string",
-          "description": "Шаблон URL для получения файла трека. '%%' заменяется на ID трека."
-        },
-        "trackIds": {
-          "type": "array",
-          "items": { "$ref": "#/$defs/TrackReplacementTemplate" },
-          "description": "Список ID треков, которые будут подставлены в urlTemplate"
-        },
-        "tracks": {
-          "type": "object",
-          "description": "Список треков с фиксированными ссылками.",
-          "additionalProperties": {
-            "oneOf": [
-              { "type": "number" },
-              { "$ref": "#/$defs/TrackReplacement" }
-            ]
-          }
-        }
-      },
-      "anyOf": [
+      "oneOf": [
         {
-          "comment": "Подмена по шаблону: подмене подлежат все треки из trackIds, а выходная ссылка состоит из urlTemplate с заменённым '%%' на ID трека",
-          "required": ["urlTemplate", "trackIds"]
+          "description": "Хранилище с шаблоном URL (urlTemplate указан).",
+          "properties": {
+            "urlTemplate": {
+              "type": "string",
+              "description": "Шаблон URL для получения файла трека. '%%' заменяется на ID трека."
+            },
+            "trackIds": {
+              "type": "array",
+              "items": { "$ref": "#/$defs/TrackReplacementTemplate" },
+              "description": "Список ID треков, которые будут подставлены в urlTemplate"
+            },
+            "tracks": {
+              "type": "object",
+              "description": "Список треков с числовыми ID или произвольными строками/ссылками.",
+              "additionalProperties": { "$ref": "#/$defs/TrackTemplatedReplacement" }
+            }
+          },
+          "required": ["urlTemplate"],
+          "anyOf": [
+            { "required": ["trackIds"] },
+            { "required": ["tracks"] }
+          ],
+          "additionalProperties": false
         },
         {
-          "required": ["tracks"]
+          "description": "Хранилище без шаблона URL (urlTemplate не указан). Ссылки должны быть строками с валидными URL.",
+          "properties": {
+            "tracks": {
+              "type": "object",
+              "description": "Список треков с фиксированными ссылками (только валидные URL).",
+              "additionalProperties": { "$ref": "#/$defs/TrackDirectReplacement" }
+            }
+          },
+          "required": ["tracks"],
+          "additionalProperties": false
         }
-      ],
-      "additionalProperties": false
+      ]
     },
 
     "Insertion": {
