@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/list_v2.schema.json",
     "sources": [
         {
-            "supportedVersion": ">=2.0.0",
+            "supportedVersions": ">=2.0.0",
             "tracks": {
                 "63104735": {
                     "coverUri": "avatars.yandex.net/get-music-content/2358262/6e2a2403.a.10009371-1/%%"
@@ -327,7 +327,7 @@
             }
         },
         {
-            "supportedVersion": ">0.0.0",
+            "supportedVersions": ">0.0.0",
             "tracksStorages": [
                 {
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%",

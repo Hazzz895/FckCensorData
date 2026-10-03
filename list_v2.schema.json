@@ -66,12 +66,27 @@
       "additionalProperties": false
     },
 
+    "VersionRange": {
+      "type": "string",
+      "description": "Диапазон поддерживаемых версий клиента в формате semver.",
+      "pattern": "^(>=|<=|!=|[><=^~])?\\s*(\\d+(?:\\.\\d+)*)$"
+    },
+
     "RemoteSource": {
       "type": "object",
       "properties": {
-        "supportedVersion": {
-          "type": "string",
-          "description": "Диапазон поддерживаемых версий клиента в формате semver, например '>=0.0.0'."
+        "supportedVersions": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/VersionRange"
+            },
+            {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/VersionRange"
+              }
+            }
+          ]
         },
         "tracks": { "$ref": "#/$defs/TrackRecord" },
         "albums": { "$ref": "#/$defs/AlbumRecord" },
