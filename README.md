@@ -1502,3 +1502,4 @@
 - [Любовь - KSB muzic](https://music.yandex.ru/track/119689461)
 - [Изврат - KSB muzic](https://music.yandex.ru/track/119689464)
 - [Да я джампер - geoxantes](https://music.yandex.ru/track/136797648)
+- [Кодеиновый рай - гнилаялирика](https://music.yandex.ru/track/57340475)
