@@ -1507,3 +1507,4 @@
 - [Wacky-Backy - GONE.Fludd, Lottery Billz](https://music.yandex.ru/track/38559822)
 - [СКВАД - GONE.Fludd](https://music.yandex.ru/track/40498611)
 - [Boy - Yanix](https://music.yandex.ru/track/81874002)
+- [Nicotine - CUPREOUS](https://music.yandex.ru/track/103080185)
