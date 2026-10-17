@@ -173,6 +173,9 @@
                     "__fckCensor": {
                         "insertionIndex": 23
                     }
+                },
+                "138629224": {
+                    "durationMs": 134034
                 }
             },
             "albums": {
@@ -358,7 +361,18 @@
                         }
                     ]
                 }
-            }
+            },
+            "tracksStorages": [
+                {
+                    "trackIds": [
+                        {
+                            "durationMs": 134034,
+                            "id": 138629224
+                        }
+                    ],
+                    "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
+                }
+            ]
         },
         {
             "supportedVersions": ">0.0.0",
