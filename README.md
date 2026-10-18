@@ -1514,3 +1514,4 @@
 - [Постарели - две тысячи ярдов](https://music.yandex.ru/track/111001121)
 - [Новогодняя - Lida, СТИНТ, mazzellovvv, ШАПКА, t2x2, Барагозеры](https://music.yandex.ru/track/110374527)
 - [Похмелье и несчастная любовь - ЩЕНКИ](https://music.yandex.ru/track/112132165)
+- [ДЖЕТИКС - Синдром Восьмиклассника](https://music.yandex.ru/track/149870633)
