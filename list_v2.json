@@ -179,6 +179,9 @@
                 },
                 "129803817": {
                     "durationMs": 172329
+                },
+                "110374527": {
+                    "durationMs": 128339
                 }
             },
             "albums": {
@@ -379,6 +382,10 @@
                         {
                             "durationMs": 124473,
                             "id": 111001121
+                        },
+                        {
+                            "durationMs": 128339,
+                            "id": 110374527
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
