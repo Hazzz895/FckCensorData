@@ -1510,3 +1510,4 @@
 - [Nicotine - CUPREOUS](https://music.yandex.ru/track/103080185)
 - [Туда Сюда Миллионер - Scally Milano, uglystephan](https://music.yandex.ru/track/126984723)
 - [Виновата скорость - Расстройство](https://music.yandex.ru/track/138629224)
+- [1 и 5 (Speed Up) - Расстройство](https://music.yandex.ru/track/129803817)
