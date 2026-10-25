@@ -23,6 +23,7 @@
                             "name": "Пошлая Молли"
                         }
                     ],
+                    "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2Fe5ac445f79bbf3af7a3582d2694c6de6.1000x1000x1.png",
                     "__fckCensor": {
                         "insertionIndex": 2
                     }
@@ -506,16 +507,6 @@
                         "replaceArtistsInAlbumVolumes": true
                     },
                     "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2Fbb6a2c5105e339b7e26d7c7a47205e91.1000x1000x1.png"
-                },
-                "39139290": {
-                    "coverUri": "t2.genius.com/unsafe/%%/https%3A%2F%2Fimages.genius.com%2Fe5ac445f79bbf3af7a3582d2694c6de6.1000x1000x1.png",
-                    "artists": [
-                        {
-                            "id": 4952161,
-                            "name": "Пошлая Молли"
-                        }
-                    ],
-                    "releaseDate": "2018-06-26T00:00:00+03:00"
                 }
             },
             "artistsInsertions": {
