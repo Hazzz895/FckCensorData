@@ -2264,7 +2264,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="водятся кошмары">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="водятся кошмары">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/148421462">водятся кошмары</a>
@@ -2946,7 +2946,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="sadisfaction">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="sadisfaction">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/121733051">sadisfaction</a>
@@ -4717,7 +4717,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="В гавно">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="В гавно">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/36161896">В гавно</a>
@@ -10811,7 +10811,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Опять сегодня">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Опять сегодня">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/17198343">Опять сегодня</a>
@@ -11020,7 +11020,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="XXXFLOW">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="XXXFLOW">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/128750389">XXXFLOW</a>
@@ -11581,7 +11581,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="На квартале">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="На квартале">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/53838987">На квартале</a>
@@ -13693,7 +13693,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Блант дую">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Блант дую">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/53586382">Блант дую</a>
@@ -14496,7 +14496,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Сквад">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Сквад">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/36879868">Сквад</a>
@@ -15970,7 +15970,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Какой-то смысл">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Какой-то смысл">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/53586396">Какой-то смысл</a>
@@ -16179,7 +16179,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="ДАВАЙ ТРАХАТЬСЯ В МАШИНЕ">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="ДАВАЙ ТРАХАТЬСЯ В МАШИНЕ">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945082">ДАВАЙ ТРАХАТЬСЯ В МАШИНЕ</a>
@@ -16201,7 +16201,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="люби меня, алина">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="люби меня, алина">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945083">люби меня, алина</a>
@@ -16212,7 +16212,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="ГИДРОПОН">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="ГИДРОПОН">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945084">ГИДРОПОН</a>
@@ -16223,7 +16223,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="вайфуу">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="вайфуу">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945087">вайфуу</a>
@@ -16245,7 +16245,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="я схавал опиат">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="я схавал опиат">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945088">я схавал опиат</a>
@@ -16256,7 +16256,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Папик">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Папик">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945085">Папик</a>
@@ -16267,7 +16267,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Забуду">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Забуду">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945092">Забуду</a>
@@ -16278,7 +16278,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="МОЯ МАМА ПЬЁТ">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="МОЯ МАМА ПЬЁТ">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945090">МОЯ МАМА ПЬЁТ</a>
@@ -16289,7 +16289,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Ты любишь травку">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Ты любишь травку">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945091">Ты любишь травку</a>
@@ -16300,7 +16300,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="мне похуй">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="мне похуй">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/110945093">мне похуй</a>
@@ -16377,7 +16377,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Сделал себя сам">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Сделал себя сам">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/146446626">Сделал себя сам</a>
@@ -16421,7 +16421,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Сделал себя сам (speed up)">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Сделал себя сам (speed up)">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/146446628">Сделал себя сам (speed up)</a>
@@ -16498,7 +16498,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Сонный паралич">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Сонный паралич">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/149446018">Сонный паралич</a>
@@ -16542,7 +16542,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Гнида">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Гнида">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/97277430">Гнида</a>
@@ -16718,7 +16718,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="15">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="15">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/119689460">15</a>
@@ -16729,7 +16729,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Любовь">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Любовь">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/119689461">Любовь</a>
@@ -16740,7 +16740,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced" alt="Изврат">
+				<img width="40px" height="40px" src="https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true" alt="Изврат">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/119689464">Изврат</a>

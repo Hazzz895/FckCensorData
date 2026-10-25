@@ -83,7 +83,7 @@ def build_list(list_json):
         name_field = "name" if kind == "artists" else "title"
         name = spoof[name_field] if name_field in spoof else getattr(entity, name_field, None)
         if image_url is None:
-            image_url = "https://github.com/user-attachments/assets/668fa0fc-c590-40c6-ad2d-a5420a2c1ced"
+            image_url = "https://github.com/Hazzz895/FckCensorData/blob/main/fallback_cover.png?raw=true"
         else:
             image_url = "https://" + image_url.replace('%%', '100x100')
 
