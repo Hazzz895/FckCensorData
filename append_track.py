@@ -4,19 +4,16 @@ import threading
 import shutil
 import datetime
 import requests
+from core import get_tracks
 from dotenv import load_dotenv
 from git import Repo
 import urllib
 import yt_dlp
-from yandex_music import Client
 from websockets.sync.server import serve
 
 load_dotenv()
-yandex_music_token = os.getenv("API_TOKEN")
 sync_port = os.getenv("SYNC_PORT")
 supabase_secret_token = os.getenv("SUPABASE_SECRET_TOKEN")
-
-client = (Client(yandex_music_token) if yandex_music_token else Client()).init()
 
 with open('list.json', 'r', encoding='utf-8') as f:
     data = json.loads(f.read())
@@ -47,7 +44,7 @@ if sync_port:
 def start_appending(id, track_name=None, url=None):
     if not track_name:
         print("Fetching track info...")
-        track_info = client.tracks([id])[0]
+        track_info = get_tracks(id)[0]
         track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
         print(f'Track name: {track_name}')
     if not url:
@@ -102,24 +99,20 @@ if supabase_secret_token:
     
     reports = [report for report in reports if str(report["track_id"]) not in data["tracks"] and str(report["track_id"]) not in rejected_tracks]
     
-    with open('ym_tracks_info.dev.json', 'r', encoding='utf-8') as f:
-        tracks_info = json.loads(f.read())
-    
-    known_track_ids = {str(t["id"]) for t in tracks_info}
-    unlisted_tracks =[track for track in reports if str(track["track_id"]) not in known_track_ids]
-    if len(unlisted_tracks) > 0:
-        print(f'Found {len(unlisted_tracks)} unlisted tracks in the library:')
-        fetched_tracks = client.tracks([track["track_id"] for track in unlisted_tracks])
-        ym =[t.to_dict() for t in fetched_tracks if t is not None]
-        
-        tracks_info.extend(ym)
-        with open('ym_tracks_info.dev.json', 'w', encoding='utf-8') as f:
-            json.dump(tracks_info, f, indent=4)
-    
-    tracks_info_dict = {str(track["id"]): track for track in tracks_info if len(track["albums"]) > 0}
-    
     reports = list({item["track_id"]: item for item in reports}.values())
-    reports.sort(key=lambda report: tracks_info_dict[str(report["track_id"])]["albums"][0]["likes_count"] or 0 if str(report["track_id"]) in tracks_info_dict else 0, reverse=True)
+    track_ids = list(dict.fromkeys(str(report["track_id"]) for report in reports))
+    if track_ids:
+        print(f'Fetching info for {len(track_ids)} reported tracks...')
+        tracks = get_tracks(*track_ids)
+        tracks_by_id = {str(track.id): track for track in tracks}
+    else:
+        tracks_by_id = {}
+
+    def likes_count(report):
+        track = tracks_by_id.get(str(report["track_id"]))
+        return track.albums[0].likes_count or 0 if track and track.albums else 0
+
+    reports.sort(key=likes_count, reverse=True)
     
     for i, report in enumerate(reports):
         print(f'== {len(reports) - i} unreviewed tracks remaining ==')
@@ -129,9 +122,16 @@ if supabase_secret_token:
         if sync_port:
             send_ws({"id": id})
                 
-        track_info = tracks_info_dict.get(id)
-        track_name = f'{track_info["title"]} - {(", ".join([a["name"] for a in track_info["artists"]]))}' if track_info else f'Track ID {id}'
-        print(f'Track name: {track_name} ({track_info["albums"][0]["likes_count"]} likes)' if track_info else "Track info not found")
+        track_info = tracks_by_id.get(id)
+        if track_info:
+            track_name = f'{track_info.title} - {(", ".join(track_info.artistsName()))}'
+            if track_info.albums:
+                print(f'Track name: {track_name} ({track_info.albums[0].likes_count} likes)')
+            else:
+                print(f'Track name: {track_name}')
+        else:
+            track_name = f'Track ID {id}'
+            print("Track info not found")
         print(f' - https://music.yandex.ru/track/{id}\n - reported at {datetime.datetime.fromisoformat(report["created_at"])} | REPLACED: {report["replaced"]}')
         print(f' - hitmos fast link: https://rus.hitmoz.org/search?q={urllib.parse.quote(track_name)}') # type: ignore
         dk = input(" - track url ")
