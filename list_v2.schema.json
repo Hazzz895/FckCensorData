@@ -10,6 +10,10 @@
       "type": "array",
       "items": { "$ref": "#/$defs/RemoteSource" }
     },
+    "notifications": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/Notification" }
+    },
     "$schema": {
       "type": "string"
     }
@@ -413,6 +417,57 @@
         "albums": { "type": "array", "items": { "$ref": "#/$defs/Insertion" } }
       },
       "additionalProperties": false
+    },
+
+    "Notification": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "format": "uuid" },
+        "once": { "type": "boolean", "default": true, "description": "Когда true — уведомление показывается только один раз, когда false — показывается после каждого перезапуска до любого взаимодействия пользователя. По умолчанию true." },
+        "type": { 
+          "type": "string",
+          "enum": ["notification", "alert", "confirm"],
+          "default": "notification"
+        },
+        "expires": { "type": "string", "format": "date-time" },
+        "version": {
+          "oneOf": [
+            {
+              "$ref": "#/$defs/VersionRange"
+            },
+            {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/VersionRange"
+              }
+            }
+          ]
+        },
+        "message": { "$ref": "#/$defs/NotificationMessage" }
+      },
+      "additionalProperties": false,
+      "required": ["type", "id", "message"]
+    },
+
+    "NotificationMessage": {
+      "type": "object",
+      "properties": {
+        "content": { "type": "string", "minLength": 1 },
+        "title": { "type": "string" },
+        "icon": { "type": "string" },
+        "buttons": { "type": "array", "items": { "$ref": "#/$defs/NotificationButton" } },
+        "durationMs": { "type": "integer", "minimum": 0 }
+      },
+      "required": ["content"]
+    },
+    
+    "NotificationButton": {
+      "type": "object",
+      "properties": {
+        "href": { "type": "string" },
+        "label": { "type": "string" }
+      },
+      "required": ["label"]
     }
   }
 }
