@@ -16681,6 +16681,17 @@
 				<a href="https://music.yandex.ru/artist/7127562">LAZZY2WICE</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/4489759/9f8d6022.a.15220270-1/100x100" alt="Все мои хоуми">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/36360202">Все мои хоуми</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4462686">Yanix</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
