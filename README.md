@@ -16628,6 +16628,17 @@
 				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://images.genius.com/070a1a7e9d02eca091a6fbd68134fc72.1000x1000x1.png" alt="Тебя прёт габба">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/39580348">Тебя прёт габба</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>, <a href="https://music.yandex.ru/artist/5419161">вертушка газманова</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
