@@ -363,6 +363,19 @@
                         }
                     ],
                     "title": "Прыжок в прошлое"
+                },
+                "71650516": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "4622996",
+                            "name": "Овсянкин"
+                        }
+                    ],
+                    "coverUri": "images.genius.com/7d3202b085c8ec2dae42e4c02e24925a.1000x1000x1.png",
+                    "title": "От нуля до нуля"
                 }
             },
             "albums": {
@@ -738,6 +751,10 @@
                         {
                             "durationMs": 206628,
                             "id": 59397779
+                        },
+                        {
+                            "durationMs": 205217,
+                            "id": 71650516
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"

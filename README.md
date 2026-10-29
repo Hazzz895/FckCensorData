@@ -16659,6 +16659,17 @@
 				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>, <a href="https://music.yandex.ru/artist/8305306">Серёжа Лес</a>, <a href="https://music.yandex.ru/artist/8305307">Lelya Petit</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://images.genius.com/7d3202b085c8ec2dae42e4c02e24925a.1000x1000x1.png" alt="От нуля до нуля">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/71650516">От нуля до нуля</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
