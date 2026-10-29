@@ -16562,6 +16562,17 @@
 				<a href="https://music.yandex.ru/artist/21955922">geoxantes</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/12554677/23d128ca.a.5049948-2/100x100" alt="Pulsar">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/39193875">Pulsar</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4799499">VELIAL SQUAD</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
