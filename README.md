@@ -16617,6 +16617,17 @@
 				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://images.genius.com/25983f6d40ce12c14761c03208ec176e.1000x1000x1.png" alt="Тебе стыдно">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/37231311">Тебе стыдно</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
