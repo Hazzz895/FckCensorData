@@ -16670,6 +16670,17 @@
 				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/16508792/faa9a196.a.11983226-2/100x100" alt="Morphine">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/70748121">Morphine</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/7127562">LAZZY2WICE</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 

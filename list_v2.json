@@ -376,6 +376,9 @@
                     ],
                     "coverUri": "images.genius.com/7d3202b085c8ec2dae42e4c02e24925a.1000x1000x1.png",
                     "title": "От нуля до нуля"
+                },
+                "70748121": {
+                    "durationMs": 91271
                 }
             },
             "albums": {
@@ -755,6 +758,10 @@
                         {
                             "durationMs": 205217,
                             "id": 71650516
+                        },
+                        {
+                            "durationMs": 91271,
+                            "id": 70748121
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
