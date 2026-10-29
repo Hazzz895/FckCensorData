@@ -341,6 +341,28 @@
                     ],
                     "coverUri": "images.genius.com/e9c0c554e35ce5341710e42794984e6c.1000x1000x1.jpg",
                     "title": "Песня росгвардейца"
+                },
+                "59397779": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "4622996",
+                            "name": "Овсянкин"
+                        },
+                        {
+                            "entity": "artist",
+                            "id": "8305306",
+                            "name": "Серёжа Лес"
+                        },
+                        {
+                            "entity": "artist",
+                            "id": "8305307",
+                            "name": "Lelya Petit"
+                        }
+                    ],
+                    "title": "Прыжок в прошлое"
                 }
             },
             "albums": {
@@ -712,6 +734,10 @@
                         {
                             "durationMs": 249418,
                             "id": 44803091
+                        },
+                        {
+                            "durationMs": 206628,
+                            "id": 59397779
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
