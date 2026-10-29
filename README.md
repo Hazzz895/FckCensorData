@@ -16575,7 +16575,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://i.scdn.co/image/ab67616d0000b2738c15738a54ddd60656721006" alt="Отсиди">
+				<img width="40px" height="40px" src="https://images.genius.com/657524f9697d1c1da8aacc1bafe756b4.1000x1000x1.png" alt="Отсиди">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/36045842">Отсиди</a>
@@ -16586,7 +16586,7 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://i.scdn.co/image/ab67616d0000b2732346c92a36aed6cc1ddcd300" alt="Поговорим дома">
+				<img width="40px" height="40px" src="https://images.genius.com/08309c3d1ff718d13d04668c25217530.1000x1000x1.jpg" alt="Поговорим дома">
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/39580298">Поговорим дома</a>
@@ -16686,4 +16686,3 @@
 		</tr>
 	</tbody>
 </table>
-
