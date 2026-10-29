@@ -258,6 +258,19 @@
                 },
                 "136797648": {
                     "durationMs": 143516
+                },
+                "36045842": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "4622996",
+                            "name": "Овсянкин"
+                        }
+                    ],
+                    "coverUri": "i.scdn.co/image/ab67616d0000b2738c15738a54ddd60656721006",
+                    "title": "Отсиди"
                 }
             },
             "albums": {
@@ -601,6 +614,10 @@
                         {
                             "durationMs": 179017,
                             "id": 39193875
+                        },
+                        {
+                            "durationMs": 239883,
+                            "id": 36045842
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
