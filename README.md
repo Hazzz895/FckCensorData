@@ -526,17 +526,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17674835/f3834840.a.41762353-1/100x100" alt="Похмелье и несчастная любовь">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/112132165">Похмелье и несчастная любовь</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6721519">ЩЕНКИ</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17722696/fc468262.a.28665939-5/100x100" alt="Клей">
 			</td>
 			<td>
@@ -698,17 +687,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/17667685">ЗимойБезШапки</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/20113429/8a81aa88.a.6958281-7/100x100" alt="Девочка с каре">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/50400505">Девочка с каре</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6928538">МУККА</a>
 			</td>
 		</tr>
 		<tr>
@@ -1039,17 +1017,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/4480055">Boulevard Depo</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/16485602/f515914e.a.40942147-1/100x100" alt="Таблетка">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148825093">Таблетка</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/5924031">PLOHOYPAREN</a>
 			</td>
 		</tr>
 		<tr>
@@ -3078,17 +3045,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17784780/61517b0c.a.4525060-2/100x100" alt="Дико, например">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/36063264">Дико, например</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/4443004">PHARAOH</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/12554677/7418d704.a.6623689-2/100x100" alt="Как есть">
 			</td>
 			<td>
@@ -3221,17 +3177,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17784780/a9e106c2.a.40891027-1/100x100" alt="Иней!">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148716938">Иней!</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/15682289/742bdde1.a.4426585-2/100x100" alt="Дико, например">
 			</td>
 			<td>
@@ -3239,17 +3184,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/4443004">PHARAOH</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/14439424/6d50fe76.a.33931084-3/100x100" alt="Сваровски">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/132720741">Сваровски</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/7883696">Heronwater</a>
 			</td>
 		</tr>
 		<tr>
@@ -4519,17 +4453,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/16616584/bd20d077.a.40891016-1/100x100" alt="На красном (Диана)">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148716901">На красном (Диана)</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/1880735/21d85070.a.9857072-1/100x100" alt="Под одним солнцем">
 			</td>
 			<td>
@@ -4684,17 +4607,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/10918712/4693eafe.a.31108444-1/100x100" alt="Жоский">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/125714579">Жоский</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/22094420">KATASTROFA</a>, <a href="https://music.yandex.ru/artist/13992820">madk1d</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/14082060/221e135d.a.33398863-1/100x100" alt="Хочу купить время">
 			</td>
 			<td>
@@ -4746,17 +4658,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/4623010">Паша Техник</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17699177/c82be231.a.40890645-1/100x100" alt="Время на веселье">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148716091">Время на веселье</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
 			</td>
 		</tr>
 		<tr>
@@ -5476,17 +5377,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17784780/a9e106c2.a.40891027-1/100x100" alt="Бандана">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/41570482">Бандана</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/9867886/324e0e93.a.28227569-1/100x100" alt="Ауто">
 			</td>
 			<td>
@@ -5681,17 +5571,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/6142275">SODA LUV</a>, <a href="https://music.yandex.ru/artist/11215225">BUSTER</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17699177/c82be231.a.40890645-1/100x100" alt="Завидуют">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148716132">Завидуют</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
 			</td>
 		</tr>
 		<tr>
@@ -6800,17 +6679,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/track/109332242">PROJECT X (Prod. by Heronwater)</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/7883696">Heronwater</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/5576540/e03ad6e9.a.24203702-1/100x100" alt="В миноре (Prod. by Wex & Lawzy)">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/109332240">В миноре (Prod. by Wex & Lawzy)</a>
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/7883696">Heronwater</a>
@@ -8578,17 +8446,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/14854709/9353cd3e.a.5265133-3/100x100" alt="SERIAL CHILLER">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/40498609">SERIAL CHILLER</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/4865954">GONE.Fludd</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/4399834/0415f8b8.a.17439837-1/100x100" alt="Конец света">
 			</td>
 			<td>
@@ -9524,17 +9381,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/5853241/a74e4991.a.24135754-2/100x100" alt="REFERENCE / БОЛЬШОЙ ШАГАТЕЛЬ">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/109051383">REFERENCE / БОЛЬШОЙ ШАГАТЕЛЬ</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6142275">SODA LUV</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/5853241/a74e4991.a.24135754-2/100x100" alt="CARPE DIEM">
 			</td>
 			<td>
@@ -10283,17 +10129,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17681324/8abfe78a.a.40891031-1/100x100" alt="Веном">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148717002">Веном</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>, <a href="https://music.yandex.ru/artist/5701276">Big Baby Tape</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17730916/54f6cabc.a.7593041-2/100x100" alt="Никотин">
 			</td>
 			<td>
@@ -10851,17 +10686,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/5880813">OG Buda</a>, <a href="https://music.yandex.ru/artist/10065389">Scally Milano</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/9867886/324e0e93.a.28227569-1/100x100" alt="Выключатель">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/101389541">Выключатель</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/7194299">163ONMYNECK</a>
 			</td>
 		</tr>
 		<tr>
@@ -12791,17 +12615,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17730916/5ed0c403.a.30892096-3/100x100" alt="Жестко">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/125243454">Жестко</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/3543541">STED.D</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/20189877/af3c29f8.a.21169680-4/100x100" alt="ФИНИТА">
 			</td>
 			<td>
@@ -13330,17 +13143,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17699177/c82be231.a.40890645-1/100x100" alt="У меня свег, у меня стиль">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148716101">У меня свег, у меня стиль</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17681324/8abfe78a.a.40891031-1/100x100" alt="Сан Ларан">
 			</td>
 			<td>
@@ -13359,17 +13161,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/468597">rizza</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/16508792/f0a27e13.a.40890575-1/100x100" alt="Гоблин">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148715960">Гоблин</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
 			</td>
 		</tr>
 		<tr>
@@ -15277,17 +15068,6 @@
 		</tr>
 		<tr>
 			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17699177/c82be231.a.40890645-1/100x100" alt="Один дома">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/148716140">Один дома</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6531894">Платина</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/17699177/c82be231.a.40890645-1/100x100" alt="Время на веселье">
 			</td>
 			<td>
@@ -15889,17 +15669,6 @@
 			</td>
 			<td>
 				<a href="https://music.yandex.ru/artist/3325756">YUNG TRAPPA</a>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/19999910/21c8d36c.a.41329625-1/100x100" alt="Грязь">
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/track/149665384">Грязь</a>
-			</td>
-			<td>
-				<a href="https://music.yandex.ru/artist/6721519">ЩЕНКИ</a>
 			</td>
 		</tr>
 		<tr>
