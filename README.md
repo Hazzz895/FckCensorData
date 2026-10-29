@@ -16584,6 +16584,17 @@
 				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://i.scdn.co/image/ab67616d0000b2732346c92a36aed6cc1ddcd300" alt="Поговорим дома">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/39580298">Поговорим дома</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 

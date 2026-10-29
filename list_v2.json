@@ -271,6 +271,19 @@
                     ],
                     "coverUri": "i.scdn.co/image/ab67616d0000b2738c15738a54ddd60656721006",
                     "title": "Отсиди"
+                },
+                "39580298": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "4622996",
+                            "name": "Овсянкин"
+                        }
+                    ],
+                    "coverUri": "i.scdn.co/image/ab67616d0000b2732346c92a36aed6cc1ddcd300",
+                    "title": "Поговорим дома"
                 }
             },
             "albums": {
@@ -618,6 +631,10 @@
                         {
                             "durationMs": 239883,
                             "id": 36045842
+                        },
+                        {
+                            "durationMs": 164154,
+                            "id": 39580298
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
