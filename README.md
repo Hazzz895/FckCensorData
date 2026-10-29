@@ -16595,6 +16595,17 @@
 				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/4399834/0415f8b8.a.17439837-1/100x100" alt="Белый танец">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/34972342">Белый танец</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/3313381">ЛСП</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
