@@ -16551,6 +16551,17 @@
 				<a href="https://music.yandex.ru/artist/10946087">CUPSIZE</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/14304155/50d814eb.a.35681265-1/100x100" alt="Да я джампер">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/136797648">Да я джампер</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/21955922">geoxantes</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 

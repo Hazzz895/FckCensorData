@@ -255,6 +255,9 @@
                 },
                 "151055445": {
                     "title": "Спокойно"
+                },
+                "136797648": {
+                    "durationMs": 143516
                 }
             },
             "albums": {
@@ -590,7 +593,11 @@
                             "durationMs": 190566,
                             "id": 149870633
                         },
-                        136272297
+                        136272297,
+                        {
+                            "durationMs": 143516,
+                            "id": 136797648
+                        }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
                 }
