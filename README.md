@@ -16639,6 +16639,17 @@
 				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>, <a href="https://music.yandex.ru/artist/5419161">вертушка газманова</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://images.genius.com/e9c0c554e35ce5341710e42794984e6c.1000x1000x1.jpg" alt="Песня росгвардейца">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/44803091">Песня росгвардейца</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
