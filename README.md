@@ -16692,6 +16692,17 @@
 				<a href="https://music.yandex.ru/artist/4462686">Yanix</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://images.genius.com/7b64e86796e688c310944f6c7cdc66cb.1000x1000x1.png" alt="Пуля для наркомана">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/36620592">Пуля для наркомана</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/5073140">Ежемесячные</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 

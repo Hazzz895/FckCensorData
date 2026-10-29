@@ -382,6 +382,19 @@
                 },
                 "36360202": {
                     "durationMs": 186577
+                },
+                "36620592": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "5073140",
+                            "name": "Ежемесячные"
+                        }
+                    ],
+                    "coverUri": "images.genius.com/7b64e86796e688c310944f6c7cdc66cb.1000x1000x1.png",
+                    "title": "Пуля для наркомана"
                 }
             },
             "albums": {
@@ -769,6 +782,10 @@
                         {
                             "durationMs": 186577,
                             "id": 36360202
+                        },
+                        {
+                            "durationMs": 165381,
+                            "id": 36620592
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"
