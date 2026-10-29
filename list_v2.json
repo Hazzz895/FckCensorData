@@ -284,6 +284,19 @@
                     ],
                     "coverUri": "images.genius.com/08309c3d1ff718d13d04668c25217530.1000x1000x1.jpg",
                     "title": "Поговорим дома"
+                },
+                "37231301": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "4622996",
+                            "name": "Овсянкин"
+                        }
+                    ],
+                    "coverUri": "images.genius.com/144f17bdd155283fb9a53f99900d6360.1000x1000x1.png",
+                    "title": "Карфентанил"
                 }
             },
             "albums": {
@@ -639,6 +652,10 @@
                         {
                             "durationMs": 274677,
                             "id": 34972342
+                        },
+                        {
+                            "durationMs": 228441,
+                            "id": 37231301
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"

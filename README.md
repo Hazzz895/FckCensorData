@@ -16606,6 +16606,17 @@
 				<a href="https://music.yandex.ru/artist/3313381">ЛСП</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://images.genius.com/144f17bdd155283fb9a53f99900d6360.1000x1000x1.png" alt="Карфентанил">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/37231301">Карфентанил</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
