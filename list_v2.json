@@ -395,6 +395,19 @@
                     ],
                     "coverUri": "images.genius.com/7b64e86796e688c310944f6c7cdc66cb.1000x1000x1.png",
                     "title": "Пуля для наркомана"
+                },
+                "58746554": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "4622988",
+                            "name": "Слава КПСС"
+                        }
+                    ],
+                    "coverUri": "images.genius.com/187fa0c07091a8eb9b6a3fd8e33f28c1.1000x1000x1.png",
+                    "title": "АНАНАСОВАЯ GIRL"
                 }
             },
             "albums": {
@@ -786,6 +799,10 @@
                         {
                             "durationMs": 165381,
                             "id": 36620592
+                        },
+                        {
+                            "durationMs": 217692,
+                            "id": 58746554
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"

@@ -16703,6 +16703,17 @@
 				<a href="https://music.yandex.ru/artist/5073140">Ежемесячные</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://images.genius.com/187fa0c07091a8eb9b6a3fd8e33f28c1.1000x1000x1.png" alt="АНАНАСОВАЯ GIRL">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/58746554">АНАНАСОВАЯ GIRL</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622988">Слава КПСС</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
