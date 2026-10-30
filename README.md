@@ -16714,6 +16714,17 @@
 				<a href="https://music.yandex.ru/artist/4622988">Слава КПСС</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/13449652/87378623.a.33139320-1/100x100" alt="TRAP HOUSE GRAVEYARD">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/130751224">TRAP HOUSE GRAVEYARD</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/6312365">SEEMEE</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
