@@ -16725,6 +16725,17 @@
 				<a href="https://music.yandex.ru/artist/6312365">SEEMEE</a>
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<img width="40px" height="40px" src="https://avatars.yandex.net/get-music-content/9837405/5525f41a.a.28252377-1/100x100" alt="Ядик">
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/track/119351895">Ядик</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/20626921">Джон Гарик</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
