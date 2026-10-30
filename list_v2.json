@@ -408,6 +408,18 @@
                     ],
                     "coverUri": "images.genius.com/187fa0c07091a8eb9b6a3fd8e33f28c1.1000x1000x1.png",
                     "title": "АНАНАСОВАЯ GIRL"
+                },
+                "132217704": {
+                    "__fckCensor": {
+                    },
+                    "artists": [
+                        {
+                            "entity": "artist",
+                            "id": "4622996",
+                            "name": "Овсянкин"
+                        }
+                    ],
+                    "title": "Red lipstick + 2 lines"
                 }
             },
             "albums": {
@@ -811,6 +823,10 @@
                         {
                             "durationMs": 112483,
                             "id": 119351895
+                        },
+                        {
+                            "durationMs": 144901,
+                            "id": 132217704
                         }
                     ],
                     "urlTemplate": "raw.githubusercontent.com/Hazzz895/FckCensorData/refs/heads/main/tracks/%%"

@@ -16736,6 +16736,15 @@
 				<a href="https://music.yandex.ru/artist/20626921">Джон Гарик</a>
 			</td>
 		</tr>
+		<tr>
+			<td></td>
+			<td>
+				<a href="https://music.yandex.ru/track/132217704">Red lipstick + 2 lines</a>
+			</td>
+			<td>
+				<a href="https://music.yandex.ru/artist/4622996">Овсянкин</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
